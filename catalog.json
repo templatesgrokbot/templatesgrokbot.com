@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10614,
+ "count": 10644,
  "templates": [
   {
    "slug": "007",
@@ -19107,6 +19107,23 @@
    ],
    "path": "jobs/executives-and-strategy/research/business-model-validation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/business-model-validation-assistant"
+  },
+  {
+   "slug": "business-name-fit",
+   "name": "Business Name Fit",
+   "tagline": "Suggest, pick, or vet a business name that stays true to your cultural origin while working professionally in your target markets.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/business-name-fit.md",
+   "url": "https://templatesgrokbot.com/bot/business-name-fit",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/business-name-fit",
+   "source_license": "MIT"
   },
   {
    "slug": "business-plan-builder",
@@ -50317,6 +50334,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "document-knowledge-compiler",
+   "name": "Document Knowledge Compiler",
+   "tagline": "Converts books and documents into structured, on-demand knowledge bases for study and reference.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/education/knowledge-management/document-knowledge-compiler.md",
+   "url": "https://templatesgrokbot.com/bot/document-knowledge-compiler",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/book-to-skill/skills/book-to-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "document-markdown-converter",
    "name": "Document Markdown Converter",
    "tagline": "Convert attached documents to local Markdown without uploading them externally.",
@@ -50929,6 +50962,23 @@
    "path": "jobs/operations/productivity/doordash-spend-guard.md",
    "url": "https://templatesgrokbot.com/bot/doordash-spend-guard",
    "adapted_from": "https://www.aitmpl.com/component/skills/doordash/doordash-spend-guard",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "dora-compliance-checker",
+   "name": "DORA Compliance Checker",
+   "tagline": "Guides EU financial firms through DORA incident classification, reporting deadlines, and third-party contract checks.",
+   "category": "operations",
+   "jobs": [
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/legal/security-and-compliance/dora-compliance-checker.md",
+   "url": "https://templatesgrokbot.com/bot/dora-compliance-checker",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/dora-readiness/skills/dora-readiness",
    "source_license": "MIT"
   },
   {
@@ -70784,6 +70834,23 @@
    "url": "https://templatesgrokbot.com/bot/golden-test-set-maintainer"
   },
   {
+   "slug": "goofish-item-detail-extractor",
+   "name": "Goofish Item Detail Extractor",
+   "tagline": "Extracts full listing data from a single Goofish second-hand item page.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/goofish-item-detail-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/goofish-item-detail-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/goofish-item-detail",
+   "source_license": "MIT"
+  },
+  {
    "slug": "goofish-listing-searcher",
    "name": "Goofish Listing Searcher",
    "tagline": "Searches Goofish (闲鱼) for second-hand items and returns structured listings.",
@@ -79753,6 +79820,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "instagram-hashtag-fetcher",
+   "name": "Instagram Hashtag Fetcher",
+   "tagline": "Fetches Instagram top posts for a hashtag and reports them as structured data.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/instagram-hashtag-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/instagram-hashtag-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-hashtag-posts",
+   "source_license": "MIT"
+  },
+  {
    "slug": "instagram",
    "name": "Instagram Manager",
    "tagline": "Manages publishing, comments, DMs, and analytics on Instagram via the Graph API.",
@@ -79772,6 +79855,54 @@
    "url": "https://templatesgrokbot.com/bot/instagram",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "instagram-place-post-fetcher",
+   "name": "Instagram Place Post Fetcher",
+   "tagline": "Fetches Instagram posts tagged at a specific location and returns them as structured data.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/instagram-place-post-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/instagram-place-post-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-place-posts",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "instagram-post-comments",
+   "name": "Instagram Post Comments",
+   "tagline": "Fetches and paginates comments from an Instagram post.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/instagram-post-comments.md",
+   "url": "https://templatesgrokbot.com/bot/instagram-post-comments",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-post-comments",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "instagram-profile-posts",
+   "name": "Instagram Profile Posts",
+   "tagline": "Fetches a public Instagram profile's posts with captions, media, counts, and locations.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/instagram-profile-posts.md",
+   "url": "https://templatesgrokbot.com/bot/instagram-profile-posts",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-profile-posts",
+   "source_license": "MIT"
   },
   {
    "slug": "installation-guide-creator",
@@ -85738,6 +85869,24 @@
    ],
    "path": "jobs/marketing/marketing-and-growth/keyword-cannibalization-resolver.md",
    "url": "https://templatesgrokbot.com/bot/keyword-cannibalization-resolver"
+  },
+  {
+   "slug": "keyword-commenter",
+   "name": "Keyword Commenter",
+   "tagline": "Searches X for keyword tweets, writes contextual replies from your brand persona, and posts them after your approval.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content"
+   ],
+   "path": "jobs/marketing/social-media/keyword-commenter.md",
+   "url": "https://templatesgrokbot.com/bot/keyword-commenter",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-keyword-comment",
+   "source_license": "MIT"
   },
   {
    "slug": "keyword-extractor",
@@ -95015,6 +95164,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "markdown-template-renderer",
+   "name": "Markdown Template Renderer",
+   "tagline": "Render Markdown files from templates and JSON, CSV, or web page data.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/markdown-template-renderer.md",
+   "url": "https://templatesgrokbot.com/bot/markdown-template-renderer",
+   "adapted_from": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/knap",
+   "source_license": "MIT"
+  },
+  {
    "slug": "markdown-to-wechat-html",
    "name": "Markdown To WeChat HTML",
    "tagline": "Converts Markdown files into styled, WeChat-ready HTML with themes, diagrams and citations.",
@@ -100637,6 +100803,24 @@
    "url": "https://templatesgrokbot.com/bot/mobile-qa-testing-guide"
   },
   {
+   "slug": "mobile-release-checker",
+   "name": "Mobile Release Checker",
+   "tagline": "Checks iOS/Android release readiness and rollout gates before you submit or widen.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development",
+    "product-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/mobile-release-checker.md",
+   "url": "https://templatesgrokbot.com/bot/mobile-release-checker",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/mobile-release/skills/mobile-release",
+   "source_license": "MIT"
+  },
+  {
    "slug": "mobile-reverse",
    "name": "Mobile Reverse",
    "tagline": "Authorized Android/iOS app reverse engineering and security testing per OWASP MASTG.",
@@ -105561,6 +105745,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "nis2-compliance-guide",
+   "name": "NIS2 Compliance Guide",
+   "tagline": "Guides EU companies through NIS2 incident reporting and compliance checks.",
+   "category": "operations",
+   "jobs": [
+    "legal"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/legal/security-and-compliance/nis2-compliance-guide.md",
+   "url": "https://templatesgrokbot.com/bot/nis2-compliance-guide",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/nis2-readiness/skills/nis2-readiness",
+   "source_license": "MIT"
+  },
+  {
    "slug": "nlp-engineer",
    "name": "Nlp Engineer",
    "tagline": "Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis.",
@@ -106689,6 +106891,22 @@
    "url": "https://templatesgrokbot.com/bot/obsidian-clipper-template-creator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "obsidian-headless-publisher",
+   "name": "Obsidian Headless Publisher",
+   "tagline": "Sync and publish Obsidian vaults from the command line, without the desktop app.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/obsidian-headless-publisher.md",
+   "url": "https://templatesgrokbot.com/bot/obsidian-headless-publisher",
+   "adapted_from": "https://github.com/obsidianmd/obsidian-skills/tree/main/plugins/obsidian/skills/obsidian-headless",
+   "source_license": "MIT"
   },
   {
    "slug": "obsidian-markdown",
@@ -130744,6 +130962,23 @@
    "path": "jobs/marketing/social-media/reddit-community-builder.md",
    "url": "https://templatesgrokbot.com/bot/reddit-community-builder",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-reddit-community-builder",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "reddit-competitor-analyzer",
+   "name": "Reddit Competitor Analyzer",
+   "tagline": "Collects structured Reddit post and comment data for market and competitor analysis.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/reddit-competitor-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/reddit-competitor-analyzer",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/reddit-competitor-analysis-api-skill",
    "source_license": "MIT"
   },
   {
@@ -155431,6 +155666,23 @@
    "url": "https://templatesgrokbot.com/bot/support-metrics-analyst"
   },
   {
+   "slug": "support-ops-analyst",
+   "name": "Support Ops Analyst",
+   "tagline": "Analyzes support ticket exports to measure SLA attainment, plan staffing, and find deflection opportunities.",
+   "category": "operations",
+   "jobs": [
+    "customer-support",
+    "operations"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/customer-support/data-analysis/support-ops-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/support-ops-analyst",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops",
+   "source_license": "MIT"
+  },
+  {
    "slug": "support-promise-tracker",
    "name": "Support Promise Tracker",
    "tagline": "Tracks every promise made to customers until a completed receipt proves it was kept.",
@@ -161969,6 +162221,56 @@
    "url": "https://templatesgrokbot.com/bot/thread-writer"
   },
   {
+   "slug": "threads-keyword-search",
+   "name": "Threads Keyword Search",
+   "tagline": "Searches Threads by keyword or hashtag and returns matching posts with engagement metrics.",
+   "category": "research",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/threads-keyword-search.md",
+   "url": "https://templatesgrokbot.com/bot/threads-keyword-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-keyword-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "threads-profile-finder",
+   "name": "Threads Profile Finder",
+   "tagline": "Searches Threads for user profiles by keyword and retrieves their bio and follower counts.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/threads-profile-finder.md",
+   "url": "https://templatesgrokbot.com/bot/threads-profile-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-profile-search",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "threads-profile-reader",
+   "name": "Threads Profile Reader",
+   "tagline": "Fetches public Threads posts and engagement metrics from any user profile.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/threads-profile-reader.md",
+   "url": "https://templatesgrokbot.com/bot/threads-profile-reader",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-user-posts",
+   "source_license": "MIT"
+  },
+  {
    "slug": "threat-hunting",
    "name": "Threat Hunting",
    "tagline": "Proactive threat hunting and detection engineering with Sigma, YARA, and SIEM queries.",
@@ -165309,6 +165611,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "trustpilot-review-extractor",
+   "name": "Trustpilot Review Extractor",
+   "tagline": "Fetches and filters Trustpilot reviews for any company domain, returning structured data.",
+   "category": "research",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/marketing/data-analysis/trustpilot-review-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/trustpilot-review-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/trustpilot-reviews",
+   "source_license": "MIT"
+  },
+  {
    "slug": "tryout-roster-evaluation",
    "name": "Tryout Roster Evaluation",
    "tagline": "Merges evaluator scorecards into one consistent ranking and a roster scenario you can explain.",
@@ -165408,6 +165728,24 @@
    "url": "https://templatesgrokbot.com/bot/tutorial-engineer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "tweet-search-collector",
+   "name": "Tweet Search Collector",
+   "tagline": "Searches X (Twitter) by advanced query and returns normalized tweet data with pagination.",
+   "category": "research",
+   "jobs": [
+    "marketing",
+    "pr-and-communications"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/tweet-search-collector.md",
+   "url": "https://templatesgrokbot.com/bot/tweet-search-collector",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-tweet-search-by-query",
+   "source_license": "MIT"
   },
   {
    "slug": "twilio-communications",
@@ -171785,6 +172123,23 @@
    "url": "https://templatesgrokbot.com/bot/waiver-and-health-screening-renewal"
   },
   {
+   "slug": "walmart-category-extractor",
+   "name": "Walmart Category Extractor",
+   "tagline": "Extracts paginated product listings from Walmart category pages.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/walmart-category-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/walmart-category-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-category-listing",
+   "source_license": "MIT"
+  },
+  {
    "slug": "walmart-keyword-search",
    "name": "Walmart Keyword Search",
    "tagline": "Extracts structured product listings from Walmart search results by keyword and page.",
@@ -173223,6 +173578,22 @@
    "path": "jobs/marketing/social-media/wechat-account-publisher.md",
    "url": "https://templatesgrokbot.com/bot/wechat-account-publisher",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/baoyu-skills/baoyu-post-to-wechat",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "wechat-article-finder",
+   "name": "WeChat Article Finder",
+   "tagline": "Searches public WeChat articles by keyword and date, returning verified metadata and links.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/wechat-article-finder.md",
+   "url": "https://templatesgrokbot.com/bot/wechat-article-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/wechat-article-search-api-skill",
    "source_license": "MIT"
   },
   {
@@ -175519,6 +175890,23 @@
    "url": "https://templatesgrokbot.com/bot/x-brief"
   },
   {
+   "slug": "x-dm-auto-chat",
+   "name": "X DM Auto Chat",
+   "tagline": "Scans X DMs, drafts persona-based replies, and sends them with approval.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "productivity"
+   ],
+   "path": "jobs/marketing/social-media/x-dm-auto-chat.md",
+   "url": "https://templatesgrokbot.com/bot/x-dm-auto-chat",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-dm-auto-chat",
+   "source_license": "MIT"
+  },
+  {
    "slug": "x-growth-engine",
    "name": "X Growth Engine",
    "tagline": "Grows your X/Twitter audience with audited profiles, engineered threads, and measured engagement.",
@@ -175591,6 +175979,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "x-thread-harvester",
+   "name": "X Thread Harvester",
+   "tagline": "Collects every tweet in an X conversation thread from a root tweet ID, with full reply structure and engagement data.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/x-thread-harvester.md",
+   "url": "https://templatesgrokbot.com/bot/x-thread-harvester",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-tweet-by-conversation",
+   "source_license": "MIT"
+  },
+  {
    "slug": "x-twitter-scraper",
    "name": "X Twitter Scraper",
    "tagline": "X data extraction and giveaway draws via the Xquik API, read-only.",
@@ -175648,6 +176052,25 @@
    "source_license": "Apache-2.0"
   },
   {
+   "slug": "xiaohongshu-content-automator",
+   "name": "Xiaohongshu Content Automator",
+   "tagline": "Automates Xiaohongshu content operations from topic discovery to performance tracking.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "creatives"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/xiaohongshu-content-automator.md",
+   "url": "https://templatesgrokbot.com/bot/xiaohongshu-content-automator",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-auto-posting",
+   "source_license": "MIT"
+  },
+  {
    "slug": "xiaohongshu-content-strategist",
    "name": "Xiaohongshu Content Strategist",
    "tagline": "Create Xiaohongshu content optimized for saves, CTR, and search SEO.",
@@ -175681,6 +176104,72 @@
    "path": "jobs/marketing/social-media/xiaohongshu-lifestyle-marketing.md",
    "url": "https://templatesgrokbot.com/bot/xiaohongshu-lifestyle-marketing",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-xiaohongshu-specialist",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "xiaohongshu-note-fetcher",
+   "name": "Xiaohongshu Note Fetcher",
+   "tagline": "Fetch Xiaohongshu note details and comments by note ID, returning metadata, engagement stats, and paginated comments.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/xiaohongshu-note-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/xiaohongshu-note-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-note-detail",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "xiaohongshu-note-search",
+   "name": "Xiaohongshu Note Search",
+   "tagline": "Search Xiaohongshu notes by keyword with full metadata extraction and filters.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/xiaohongshu-note-search.md",
+   "url": "https://templatesgrokbot.com/bot/xiaohongshu-note-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-search-full",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "xiaohongshu-profile-retriever",
+   "name": "Xiaohongshu Profile Retriever",
+   "tagline": "Fetches Xiaohongshu user profiles and published notes with engagement stats by user ID.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/xiaohongshu-profile-retriever.md",
+   "url": "https://templatesgrokbot.com/bot/xiaohongshu-profile-retriever",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-user-profile",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "xiaohongshu-search-assistant",
+   "name": "Xiaohongshu Search Assistant",
+   "tagline": "Search Xiaohongshu notes by keyword and return a paginated list with engagement stats.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/xiaohongshu-search-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/xiaohongshu-search-assistant",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-search",
    "source_license": "MIT"
   },
   {
@@ -176427,6 +176916,22 @@
    "path": "jobs/executives-and-strategy/self-improvement/zhang-yiming-perspective.md",
    "url": "https://templatesgrokbot.com/bot/zhang-yiming-perspective",
    "adapted_from": "https://github.com/alchaincyf/nuwa-skill/tree/main/examples/zhang-yiming-perspective",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zhihu-article-extractor",
+   "name": "Zhihu Article Extractor",
+   "tagline": "Extracts structured Zhihu article details and full content via the BrowserAct API.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/marketing/research/zhihu-article-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/zhihu-article-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/zhihu-search-api-skill",
    "source_license": "MIT"
   },
   {

@@ -37,9 +37,9 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
-| [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
-| [CFO Tax Planning Assistant](data-analysis/cfo-tax-planning-assistant.md) | Analyzes tax data, finds savings, and keeps your company compliant. |
+| [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [Financial Performance Analyst](../executives-and-strategy/data-analysis/financial-performance-analyst.md) | Analyzes financial performance metrics, forecasts trends, and supports executive decisions. |
 
 [All 496 Data Analysis templates →](data-analysis/README.md)
 
@@ -47,8 +47,8 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
+| [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
@@ -122,8 +122,8 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Tax Software Utilization Guide](teaching-and-tutoring/tax-software-utilization-guide.md) | Guides tax analysts through every stage of tax software use, from setup to e-filing. |
 | [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
+| [Tax Software Utilization Guide](teaching-and-tutoring/tax-software-utilization-guide.md) | Guides tax analysts through every stage of tax software use, from setup to e-filing. |
 | [Financial Training Assistant](teaching-and-tutoring/financial-training-assistant.md) | Explains finance concepts, builds models, analyzes statements, and supports financial decisions. |
 | [Real Estate Tax Advisory Assistant](teaching-and-tutoring/real-estate-tax-advisory-assistant.md) | Real estate tax guidance for analysts: classification, appeals, deductions, and planning. |
 | [Employee Financial Training Program Builder](teaching-and-tutoring/employee-financial-training-program-builder.md) | Builds and runs employee financial training programs, from workshops to assessments. |

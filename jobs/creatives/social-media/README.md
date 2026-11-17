@@ -1,6 +1,6 @@
 # Social Media templates for Creatives
 
-Plan, write and measure posts across networks. 25 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 26 Grok Bot templates, 2 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Plan, write and measure posts across networks. 25 Grok Bot templates, 2 of them 
 | [Vocal Artist Social Media](vocal-artist-social-media.md) | Plans, creates, and analyzes social media for vocal artists and singer-songwriters. |
 | [X Publishing Assistant](../../marketing/social-media/x-publishing-assistant.md) | Publishes your text, images, videos, and long-form articles to X after you approve the final post. |
 | [Xiaohongshu Card Deck Generator](../../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Xiaohongshu Content Automator](../../marketing/social-media/xiaohongshu-content-automator.md) | Automates Xiaohongshu content operations from topic discovery to performance tracking. |
 | [Xiaohongshu Content Strategist](../../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Youtube Automation](../../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 

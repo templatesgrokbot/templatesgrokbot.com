@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **261 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **262 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -12,7 +12,7 @@ Answering, routing and resolving customer requests. **261 ready-made Grok Bot te
 | Kind of work | Templates |
 |---|---:|
 | [Support & Community](support-and-community/README.md) | 128 |
-| [Data Analysis](data-analysis/README.md) | 37 |
+| [Data Analysis](data-analysis/README.md) | 38 |
 | [Productivity](productivity/README.md) | 30 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Writing & Content](writing-and-content/README.md) | 11 |
@@ -203,6 +203,7 @@ Answering, routing and resolving customer requests. **261 ready-made Grok Bot te
 | [Service Quality Enhancement Assistant](../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Shopify Review Triage](data-analysis/shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Support Metrics Analyst](data-analysis/support-metrics-analyst.md) | Analyzes support performance metrics and delivers insights for decision-making. |
+| [Support Ops Analyst](data-analysis/support-ops-analyst.md) | Analyzes support ticket exports to measure SLA attainment, plan staffing, and find deflection opportunities. |
 | [Support Survey Insight Builder](data-analysis/support-survey-insight-builder.md) | Designs, analyzes, and reports on customer satisfaction surveys for support teams. |
 
 ## Productivity

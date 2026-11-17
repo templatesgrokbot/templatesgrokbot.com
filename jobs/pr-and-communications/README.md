@@ -1,6 +1,6 @@
 # Grok Bot templates for PR and Communications
 
-Press, internal comms and reputation. **320 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Press, internal comms and reputation. **324 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,10 +13,10 @@ Press, internal comms and reputation. **320 ready-made Grok Bot templates** for 
 |---|---:|
 | [Writing & Content](writing-and-content/README.md) | 76 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 68 |
-| [Social Media](social-media/README.md) | 40 |
+| [Social Media](social-media/README.md) | 43 |
 | [Productivity](productivity/README.md) | 33 |
 | [Research](research/README.md) | 31 |
-| [Data Analysis](data-analysis/README.md) | 28 |
+| [Data Analysis](data-analysis/README.md) | 29 |
 | [Design](design/README.md) | 9 |
 | [Support & Community](support-and-community/README.md) | 8 |
 | [Knowledge Management](knowledge-management/README.md) | 7 |
@@ -198,6 +198,7 @@ Press, internal comms and reputation. **320 ready-made Grok Bot templates** for 
 | [Impersonation Takedown Tracker](social-media/impersonation-takedown-tracker.md) | Finds fake brand accounts, files platform reports after your approval, and tracks each case to removal. |
 | [Instagram Automation](../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Instagram Manager](../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [Keyword Commenter](../marketing/social-media/keyword-commenter.md) | Searches X for keyword tweets, writes contextual replies from your brand persona, and posts them after your approval. |
 | [Linkedin Automation](../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Content Generator](../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [LinkedIn Content Manager](../marketing/social-media/linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
@@ -217,7 +218,9 @@ Press, internal comms and reputation. **320 ready-made Grok Bot templates** for 
 | [Social Media Press Relations Assistant](social-media/social-media-press-relations-assistant.md) | Manages social media press relations: monitoring, outreach, content, and crisis response. |
 | [Social Media Trend Analyst](../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
+| [Threads Keyword Search](../marketing/social-media/threads-keyword-search.md) | Searches Threads by keyword or hashtag and returns matching posts with engagement metrics. |
 | [Trend Participation Vetter](../marketing/social-media/trend-participation-vetter.md) | Vets a hashtag or trend's origin, meaning and risks before the brand joins it. |
+| [Tweet Search Collector](../marketing/social-media/tweet-search-collector.md) | Searches X (Twitter) by advanced query and returns normalized tweet data with pagination. |
 | [Twitter Ai Influencer Manager](../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
@@ -333,6 +336,7 @@ Press, internal comms and reputation. **320 ready-made Grok Bot templates** for 
 | [Social Media Insights Analyst](../it-and-development/data-analysis/social-media-insights-analyst.md) | Analyzes social media data to deliver insights, trends, and optimization strategies for business analysts. |
 | [Social Pulse Insight Scout](../science-and-research/data-analysis/social-pulse-insight-scout.md) | Analyzes social media data to reveal trends, sentiment, and influencers for market research. |
 | [Trend Analysis Content Assistant](../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Trustpilot Review Extractor](../marketing/data-analysis/trustpilot-review-extractor.md) | Fetches and filters Trustpilot reviews for any company domain, returning structured data. |
 
 ## Design
 

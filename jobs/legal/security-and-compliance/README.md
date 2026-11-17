@@ -1,6 +1,6 @@
 # Security & Compliance templates for Legal
 
-Authorised security testing, audits and regulatory work. 204 Grok Bot templates, 85 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 206 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -70,6 +70,7 @@ Authorised security testing, audits and regulatory work. 204 Grok Bot templates,
 | [Disclosure Consistency Check](disclosure-consistency-check.md) | Checks investor materials for public sourcing, contradictions and missing forward-looking notices. |
 | [Disclosure Framework Gap Tracker](disclosure-framework-gap-tracker.md) | Maps every required disclosure against what you already have, with owners and dates. |
 | [Docs Generator](../../it-and-development/security-and-compliance/docs-generator.md) | Generate structured security reports from completed analysis with evidence-backed templates. |
+| [DORA Compliance Checker](dora-compliance-checker.md) | Guides EU financial firms through DORA incident classification, reporting deadlines, and third-party contract checks. |
 | [E-Discovery Production Quality Check](e-discovery-production-quality-check.md) | Checks a document production for privilege leaks, Bates gaps and label errors before it goes out. |
 | [Employment Law Policy Update](../../human-resources/security-and-compliance/employment-law-policy-update.md) | Watches employment law changes where you have staff and gets affected policies updated before they take effect. |
 | [Environmental Compliance Assistant](environmental-compliance-assistant.md) | Supports environmental compliance officers with research, documentation, audits, and reporting. |
@@ -132,6 +133,7 @@ Authorised security testing, audits and regulatory work. 204 Grok Bot templates,
 | [Mediation Readiness Checker](mediation-readiness-checker.md) | Checks that every party has signed confidentiality and an attending authority holder before mediation. |
 | [Mediation Safety Screening Assistant](mediation-safety-screening-assistant.md) | Screens mediation intakes for safety, capacity and language concerns and proposes accommodations for the mediator to approve. |
 | [Medical Billing Compliance Monitor](../../healthcare/security-and-compliance/medical-billing-compliance-monitor.md) | Monitors medical billing compliance, flags risks, and keeps your team audit-ready. |
+| [NIS2 Compliance Guide](nis2-compliance-guide.md) | Guides EU companies through NIS2 incident reporting and compliance checks. |
 | [Notarial Act Legality Screening](notarial-act-legality-screening.md) | Screens each notarial request for blanks, signer presence and authority, then drafts the client reply for your approval. |
 | [Notarial Certificate Wording Check](notarial-certificate-wording-check.md) | Checks notarial certificate wording and fields against your state's required form before you sign. |
 | [Notary Complaint Response](notary-complaint-response.md) | Reconstructs a notarization from your records so you can answer a complaint accurately. |

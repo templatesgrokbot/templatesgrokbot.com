@@ -1,6 +1,6 @@
 # Data Analysis templates for Operations
 
-Clean, query, chart and explain data. 644 Grok Bot templates, 392 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 645 Grok Bot templates, 392 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -584,6 +584,7 @@ Clean, query, chart and explain data. 644 Grok Bot templates, 392 of them filed 
 | [Supply Chain Risk Manager](supply-chain-risk-manager.md) | Identifies, assesses, and mitigates supply chain risks with data-driven insights and contingency planning. |
 | [Supply Chain Sustainability Analyst](supply-chain-sustainability-analyst.md) | Analyzes supply chain operations and drives sustainability improvements with data-backed recommendations. |
 | [Support Metrics Analyst](../../customer-support/data-analysis/support-metrics-analyst.md) | Analyzes support performance metrics and delivers insights for decision-making. |
+| [Support Ops Analyst](../../customer-support/data-analysis/support-ops-analyst.md) | Analyzes support ticket exports to measure SLA attainment, plan staffing, and find deflection opportunities. |
 | [Survey Data Processing Assistant](survey-data-processing-assistant.md) | Cleans, enters, validates, analyzes, and reports survey data with accuracy and insight. |
 | [Survey Fieldwork Quota Monitor](../../science-and-research/data-analysis/survey-fieldwork-quota-monitor.md) | Watches survey quotas during fieldwork, removes bad responses, and drafts provider requests for your approval. |
 | [Sustainability Impact Tracker](sustainability-impact-tracker.md) | Tracks initiative impact against your baseline and checks every claim against the numbers. |

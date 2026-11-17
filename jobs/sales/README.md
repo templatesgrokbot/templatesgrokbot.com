@@ -70,8 +70,8 @@ Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for thi
 | [Page Cro](../marketing/marketing-and-growth/page-cro.md) | Diagnose marketing pages and prioritize conversion improvements. |
 | [Cro](../marketing/marketing-and-growth/cro.md) | Analyze marketing pages and forms to improve conversion rates with actionable recommendations. |
 | [Marketing Strategy Pmm](../marketing/marketing-and-growth/marketing-strategy-pmm.md) | Develops product positioning, GTM strategy, and competitive intelligence for B2B SaaS. |
-| [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
 | [Trust Calibrator](../marketing/marketing-and-growth/trust-calibrator.md) | Diagnose trust barriers and prescribe credibility signals for skeptical audiences. |
+| [Pitch Psychologist](../marketing/marketing-and-growth/pitch-psychologist.md) | Structure sales pitches using psychological sequencing to build desire before solution. |
 
 [All 108 Marketing & Growth templates →](marketing-and-growth/README.md)
 
@@ -182,8 +182,8 @@ Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for thi
 | [BD Executive Presentation Architect](../executives-and-strategy/office-tools/bd-executive-presentation-architect.md) | Prepares polished, audience-tailored presentations for business development leaders. |
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [PowerPoint Presentations](../operations/office-tools/anthropic-pptx.md) | Creates slide decks from outlines, data, or stories with layouts, speaker notes, and branded charts. |
-| [Product Presentation Enhancer](office-tools/product-presentation-enhancer.md) | Elevates product presentations for sales VPs with AI-driven content, design, and engagement tools. |
 | [Sales Report Distributor](office-tools/sales-report-distributor.md) | Sends each sales rep their territory report on schedule and logs every delivery. |
+| [Product Presentation Enhancer](office-tools/product-presentation-enhancer.md) | Elevates product presentations for sales VPs with AI-driven content, design, and engagement tools. |
 | [CSO Stakeholder Comms Assistant](office-tools/cso-stakeholder-comms-assistant.md) | Handles stakeholder communication tasks from scheduling to analytics for a Chief Sales Officer. |
 
 ## Knowledge Management

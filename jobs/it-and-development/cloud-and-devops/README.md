@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 589 Grok Bot templates, 574 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 590 Grok Bot templates, 575 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -391,6 +391,7 @@ Infrastructure, deployments, monitoring and incident response. 589 Grok Bot temp
 | [Migration Completion Finisher](migration-completion-finisher.md) | Finish a NanoClaw v1 to v2 migration after the automated script runs. |
 | [Mise Configurator](mise-configurator.md) | Generate production-ready mise.toml configs for local dev and CI/CD. |
 | [Mlops Engineer](mlops-engineer.md) | Design and implement ML infrastructure with CI/CD, model versioning, and operational monitoring. |
+| [Mobile Release Checker](mobile-release-checker.md) | Checks iOS/Android release readiness and rollout gates before you submit or widen. |
 | [Modal](modal.md) | Runs Python code in serverless cloud containers with GPUs and autoscaling. |
 | [Model Architecture Torchtitan](model-architecture-torchtitan.md) | Pretrains large language models at scale using PyTorch-native torchtitan with 4D parallelism. |
 | [MongoDB Administrator](mongodb-administrator.md) | Administers MongoDB deployments: users, indexes, replica sets, backups and slow-query checks. |

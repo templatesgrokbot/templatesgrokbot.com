@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for Product Development
 
-Infrastructure, deployments, monitoring and incident response. 55 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 56 Grok Bot templates, 0 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -43,6 +43,7 @@ Infrastructure, deployments, monitoring and incident response. 55 Grok Bot templ
 | [Iot Engineer](../../it-and-development/cloud-and-devops/iot-engineer.md) | Designs and deploys large-scale IoT solutions from edge to cloud. |
 | [Mise Configurator](../../it-and-development/cloud-and-devops/mise-configurator.md) | Generate production-ready mise.toml configs for local dev and CI/CD. |
 | [Mlops Engineer](../../it-and-development/cloud-and-devops/mlops-engineer.md) | Design and implement ML infrastructure with CI/CD, model versioning, and operational monitoring. |
+| [Mobile Release Checker](../../it-and-development/cloud-and-devops/mobile-release-checker.md) | Checks iOS/Android release readiness and rollout gates before you submit or widen. |
 | [Monopoly](../../it-and-development/cloud-and-devops/monopoly.md) | Architect resilient, scalable backend systems with trade-off analysis and blueprints. No coding or deployment. |
 | [Multi-Agent Performance Optimizer](../../it-and-development/cloud-and-devops/agent-orchestration-multi-agent-optimize.md) | Profile and optimize multi-agent systems for throughput, latency, and cost. |
 | [Neon Functions](../../it-and-development/cloud-and-devops/neon-functions.md) | Deploy long-running Node.js HTTP handlers next to your Neon Postgres database. |

@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 75 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 77 Grok Bot templates, 59 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -53,6 +53,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 75 Grok Bot templates,
 | [Legal Knowledge Base Builder](../../legal/knowledge-management/legal-knowledge-base-builder.md) | Builds and maintains a legal knowledge base with research, drafting, and compliance support. |
 | [Lore](lore.md) | Manage a project's long-term memory as Markdown files in .lore/ for decisions, architecture, and conventions. Not a changelog or dev journal. Not trig |
 | [Maintain Codex Wiki](maintain-codex-wiki.md) | Maintain a review-first engineering wiki with provenance and citation-aware queries. |
+| [Markdown Template Renderer](markdown-template-renderer.md) | Render Markdown files from templates and JSON, CSV, or web page data. |
 | [Memory Health Dashboard](memory-health-dashboard.md) | Reports how full and healthy your project memory is, with stale and duplicate checks. |
 | [Memory Search](memory-search.md) | Search conversation history and semantic memory to recall past discussions and decisions. |
 | [Mesh Memory](mesh-memory.md) | Self-hosted semantic memory for AI agents via MCP, saving and recalling worklogs, decisions, and notes by meaning. |
@@ -60,6 +61,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 75 Grok Bot templates,
 | [Moc Agent](../../operations/knowledge-management/moc-agent.md) | Creates and maintains Obsidian Maps of Content to keep your vault navigable. |
 | [Network Documentation and Mapping Assistant](network-documentation-and-mapping-assistant.md) | Builds and maintains complete network documentation and diagrams from your data. |
 | [Obsidian Bases](../../operations/knowledge-management/obsidian-bases.md) | Create and edit Obsidian .base files with views, filters, formulas, and summaries. |
+| [Obsidian Headless Publisher](obsidian-headless-publisher.md) | Sync and publish Obsidian vaults from the command line, without the desktop app. |
 | [Project Memory Keeper](project-memory-keeper.md) | Saves hard-won project knowledge to a persistent memory file so it is available at the start of every session. |
 | [Project Memory Keeper](project-memory-keeper-2.md) | Saves hard-won project facts to persistent memory so they survive every future session. |
 | [Project State Governor](../../management/knowledge-management/project-state-governor.md) | Govern evidence-backed canonical project state across sessions without inventing intent. |

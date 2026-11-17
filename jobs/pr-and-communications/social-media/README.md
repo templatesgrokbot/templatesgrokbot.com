@@ -1,6 +1,6 @@
 # Social Media templates for PR and Communications
 
-Plan, write and measure posts across networks. 40 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 43 Grok Bot templates, 9 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,6 +18,7 @@ Plan, write and measure posts across networks. 40 Grok Bot templates, 9 of them 
 | [Impersonation Takedown Tracker](impersonation-takedown-tracker.md) | Finds fake brand accounts, files platform reports after your approval, and tracks each case to removal. |
 | [Instagram Automation](../../marketing/social-media/instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [Instagram Manager](../../marketing/social-media/instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [Keyword Commenter](../../marketing/social-media/keyword-commenter.md) | Searches X for keyword tweets, writes contextual replies from your brand persona, and posts them after your approval. |
 | [Linkedin Automation](../../marketing/social-media/linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
 | [Linkedin Content Generator](../../marketing/social-media/linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [LinkedIn Content Manager](../../marketing/social-media/linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
@@ -37,7 +38,9 @@ Plan, write and measure posts across networks. 40 Grok Bot templates, 9 of them 
 | [Social Media Press Relations Assistant](social-media-press-relations-assistant.md) | Manages social media press relations: monitoring, outreach, content, and crisis response. |
 | [Social Media Trend Analyst](../../marketing/social-media/social-media-trend-analyst.md) | Tracks social media trends and turns them into reports, content, and campaign plans. |
 | [Social Orchestrator](../../marketing/social-media/social-orchestrator.md) | Coordinates Instagram, Telegram, and WhatsApp in a unified publishing and metrics flow. |
+| [Threads Keyword Search](../../marketing/social-media/threads-keyword-search.md) | Searches Threads by keyword or hashtag and returns matching posts with engagement metrics. |
 | [Trend Participation Vetter](../../marketing/social-media/trend-participation-vetter.md) | Vets a hashtag or trend's origin, meaning and risks before the brand joins it. |
+| [Tweet Search Collector](../../marketing/social-media/tweet-search-collector.md) | Searches X (Twitter) by advanced query and returns normalized tweet data with pagination. |
 | [Twitter Ai Influencer Manager](../../marketing/social-media/twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](../../marketing/social-media/twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](../../marketing/social-media/twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |

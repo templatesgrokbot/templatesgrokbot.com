@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/templates-10%2C614-0852A8?style=flat-square" alt="templates: 10,614">
+  <img src="https://img.shields.io/badge/templates-10%2C644-0852A8?style=flat-square" alt="templates: 10,644">
   <img src="https://img.shields.io/badge/job%20fields-21-E67E22?style=flat-square" alt="job fields: 21">
   <img src="https://img.shields.io/badge/kinds%20of%20work-27-1767C9?style=flat-square" alt="kinds of work: 27">
   <img src="https://img.shields.io/badge/license-MIT-555555?style=flat-square" alt="license: MIT">
@@ -64,7 +64,7 @@ Every template is free to use. Each file ends with a link to its page on [templa
 
 <p align="center"><img src="assets/how-it-works.svg" alt="Describe your job, get matched templates, Grok Bot sets them up" width="100%"></p>
 
-Finding the right 10,614 templates by hand takes a while. The **[job plan](https://templatesgrokbot.com/for-my-job)** does it for you:
+Finding the right 10,644 templates by hand takes a while. The **[job plan](https://templatesgrokbot.com/for-my-job)** does it for you:
 
 - **Matched to your actual week.** Type your job title and describe what repeats. We turn that into tasks and search every template for them; templates that cover several of your tasks rank first.
 - **Grok Bot sets the agents up.** Paste one setup message, click *Authorize* and tell Grok Bot your job. It lists the templates, you pick, and it sets them up.
@@ -84,9 +84,9 @@ Every template is filed under its main job field, then by the kind of work it do
 
 | Job field | What it covers | Templates |
 |---|---|---:|
-| [Creatives](jobs/creatives/README.md) | Designers, artists and content creators. | 746 |
-| [Customer Support](jobs/customer-support/README.md) | Answering, routing and resolving customer requests. | 261 |
-| [Education](jobs/education/README.md) | Teachers, trainers and students. | 457 |
+| [Creatives](jobs/creatives/README.md) | Designers, artists and content creators. | 747 |
+| [Customer Support](jobs/customer-support/README.md) | Answering, routing and resolving customer requests. | 262 |
+| [Education](jobs/education/README.md) | Teachers, trainers and students. | 458 |
 | [Executives and Strategy](jobs/executives-and-strategy/README.md) | Leaders making decisions from the whole picture. | 858 |
 | [Finance](jobs/finance/README.md) | Accounting, budgeting, analysis and risk. | 828 |
 | [Government](jobs/government/README.md) | Public services, policy and compliance. | 778 |
@@ -94,13 +94,13 @@ Every template is filed under its main job field, then by the kind of work it do
 | [Hospitality and Events](jobs/hospitality-and-events/README.md) | Hotels, venues, travel and event teams. | 312 |
 | [Human Resources](jobs/human-resources/README.md) | Recruiting, onboarding and people operations. | 565 |
 | [Insurance](jobs/insurance/README.md) | Underwriting, claims and policy work. | 245 |
-| [IT and Development](jobs/it-and-development/README.md) | Engineers, DevOps, security and IT teams. | 3,638 |
-| [Legal](jobs/legal/README.md) | Contracts, research, compliance and review. | 507 |
+| [IT and Development](jobs/it-and-development/README.md) | Engineers, DevOps, security and IT teams. | 3,641 |
+| [Legal](jobs/legal/README.md) | Contracts, research, compliance and review. | 509 |
 | [Management](jobs/management/README.md) | Team leads and project managers. | 1,021 |
-| [Marketing](jobs/marketing/README.md) | Campaigns, SEO, content and growth. | 1,190 |
-| [Operations](jobs/operations/README.md) | Processes, logistics and the systems that run a business. | 2,128 |
-| [PR and Communications](jobs/pr-and-communications/README.md) | Press, internal comms and reputation. | 320 |
-| [Product Development](jobs/product-development/README.md) | Product managers and the teams that ship. | 1,240 |
+| [Marketing](jobs/marketing/README.md) | Campaigns, SEO, content and growth. | 1,213 |
+| [Operations](jobs/operations/README.md) | Processes, logistics and the systems that run a business. | 2,129 |
+| [PR and Communications](jobs/pr-and-communications/README.md) | Press, internal comms and reputation. | 324 |
+| [Product Development](jobs/product-development/README.md) | Product managers and the teams that ship. | 1,241 |
 | [Real Estate and Construction](jobs/real-estate-and-construction/README.md) | Property, building and site work. | 397 |
 | [Sales](jobs/sales/README.md) | Prospecting, pipeline and closing. | 583 |
 | [Science and Research](jobs/science-and-research/README.md) | Scientists, analysts and academic researchers. | 910 |
@@ -115,23 +115,23 @@ The folders are organised by job; on the website you can also browse every kind 
 
 | Kind of work | What it covers | Templates |
 |---|---|---:|
-| [Data Analysis](https://templatesgrokbot.com/topics/data-analysis) | Clean, query, chart and explain data. | 3,843 |
-| [Research](https://templatesgrokbot.com/topics/research) | Find sources, compare evidence and summarise what is known. | 2,715 |
-| [Productivity](https://templatesgrokbot.com/topics/productivity) | Plan, prioritise and clear the recurring admin. | 2,516 |
-| [Writing & Content](https://templatesgrokbot.com/topics/writing-and-content) | Plan, write and edit articles, copy and documentation. | 2,456 |
+| [Data Analysis](https://templatesgrokbot.com/topics/data-analysis) | Clean, query, chart and explain data. | 3,847 |
+| [Research](https://templatesgrokbot.com/topics/research) | Find sources, compare evidence and summarise what is known. | 2,725 |
+| [Productivity](https://templatesgrokbot.com/topics/productivity) | Plan, prioritise and clear the recurring admin. | 2,519 |
+| [Writing & Content](https://templatesgrokbot.com/topics/writing-and-content) | Plan, write and edit articles, copy and documentation. | 2,460 |
 | [Coding](https://templatesgrokbot.com/topics/coding) | Write, review, test and debug software. | 1,929 |
 | [Office Tools](https://templatesgrokbot.com/topics/office-tools) | Spreadsheets, documents, slides, email and calendars. | 1,413 |
-| [Security & Compliance](https://templatesgrokbot.com/topics/security-and-compliance) | Authorised security testing, audits and regulatory work. | 1,306 |
-| [Cloud & DevOps](https://templatesgrokbot.com/topics/cloud-and-devops) | Infrastructure, deployments, monitoring and incident response. | 1,188 |
-| [Teaching & Tutoring](https://templatesgrokbot.com/topics/teaching-and-tutoring) | Explain, quiz and guide someone through a subject. | 961 |
-| [Marketing & Growth](https://templatesgrokbot.com/topics/marketing-and-growth) | Campaigns, ads, conversion and launch plans. | 800 |
-| [Knowledge Management](https://templatesgrokbot.com/topics/knowledge-management) | Notes, documents, PDFs and knowledge bases kept in order. | 781 |
+| [Security & Compliance](https://templatesgrokbot.com/topics/security-and-compliance) | Authorised security testing, audits and regulatory work. | 1,309 |
+| [Cloud & DevOps](https://templatesgrokbot.com/topics/cloud-and-devops) | Infrastructure, deployments, monitoring and incident response. | 1,189 |
+| [Teaching & Tutoring](https://templatesgrokbot.com/topics/teaching-and-tutoring) | Explain, quiz and guide someone through a subject. | 963 |
+| [Marketing & Growth](https://templatesgrokbot.com/topics/marketing-and-growth) | Campaigns, ads, conversion and launch plans. | 801 |
+| [Knowledge Management](https://templatesgrokbot.com/topics/knowledge-management) | Notes, documents, PDFs and knowledge bases kept in order. | 784 |
 | [Generative AI and LLM](https://templatesgrokbot.com/topics/generative-ai-and-llm) | Work with language models, agents and their plumbing. | 659 |
 | [Design](https://templatesgrokbot.com/topics/design) | Interfaces, brands, layouts and visual systems. | 588 |
 | [Generative Code](https://templatesgrokbot.com/topics/generative-code) | Scaffold apps, components and whole projects from a brief. | 502 |
 | [Sales & Negotiation](https://templatesgrokbot.com/topics/sales-and-negotiation) | Prospecting, outreach, proposals and negotiating terms. | 417 |
 | [Support & Community](https://templatesgrokbot.com/topics/support-and-community) | Triage tickets, answer customers and moderate communities. | 283 |
-| [Social Media](https://templatesgrokbot.com/topics/social-media) | Plan, write and measure posts across networks. | 250 |
+| [Social Media](https://templatesgrokbot.com/topics/social-media) | Plan, write and measure posts across networks. | 267 |
 | [Prompt Engineering](https://templatesgrokbot.com/topics/prompt-engineering) | Write, test and improve prompts and instructions. | 186 |
 | [Self-Improvement](https://templatesgrokbot.com/topics/self-improvement) | Coaching, learning, health and personal goals. | 162 |
 | [Generative Art](https://templatesgrokbot.com/topics/generative-art) | Make images, illustrations and artwork. | 96 |
@@ -198,7 +198,7 @@ TemplatesGrokBot is made by [Jeroen Erne](https://www.linkedin.com/in/jeroenerne
 
 **Not affiliated with xAI, Grok, or X.** Grok Bot is a product of xAI; we cannot control how it interprets a template, so review what a Bot does before you rely on it.
 
-**License.** TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE). 4,095 templates are adapted from work other people published: each of those files names its original (`adapted_from`) and license (`source_license`), ends with a credits line, and those terms still apply to it. **[All credits → CREDITS.md](CREDITS.md)** · [License texts](LICENSES/README.md). The largest sources:
+**License.** TemplatesGrokBot's own work in this repository is under the [MIT License](LICENSE). 4,125 templates are adapted from work other people published: each of those files names its original (`adapted_from`) and license (`source_license`), ends with a credits line, and those terms still apply to it. **[All credits → CREDITS.md](CREDITS.md)** · [License texts](LICENSES/README.md). The largest sources:
 
 | Source | Templates | License | Credits |
 |---|---:|---|---|
@@ -207,14 +207,14 @@ TemplatesGrokBot is made by [Jeroen Erne](https://www.linkedin.com/in/jeroenerne
 | [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills) | 306 | MIT | [list](credits/github-com-bestagentkits-agency-skills.md) |
 | [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 118 | MIT | [list](credits/github-com-onewave-ai-claude-skills.md) |
 | [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 65 | MIT | [list](credits/github-com-elementalsouls-claude-bughunter.md) |
+| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 62 | MIT, CC BY 4.0 | [list](credits/github-com-browser-act-skills.md) |
 | [collectivebrain.de](https://collectivebrain.de) | 61 | see the original | [list](credits/collectivebrain-de.md) |
 | [github.com/claude-office-skills/skills](https://github.com/claude-office-skills/skills) | 52 | MIT | [list](credits/github-com-claude-office-skills-skills.md) |
 | [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 49 | Apache-2.0 | [list](credits/github-com-nexu-io-html-anything.md) |
 | [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 46 | MIT | [list](credits/github-com-nanocoai-nanoclaw.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | CC BY 4.0 | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
-| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 40 | MIT, CC BY 4.0 | [list](credits/github-com-browser-act-skills.md) |
 | [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 40 | MIT | [list](credits/github-com-snailsploit-claude-red.md) |
 
-…and 135 more in [CREDITS.md](CREDITS.md). Thank you to everyone who published the work these templates build on.
+…and 136 more in [CREDITS.md](CREDITS.md). Thank you to everyone who published the work these templates build on.
 
-<p align="center"><a href="https://templatesgrokbot.com"><img src="https://img.shields.io/badge/Browse%20all%2010%2C614%20templates-templatesgrokbot.com-E67E22?style=for-the-badge" alt="Browse all templates on templatesgrokbot.com"></a></p>
+<p align="center"><a href="https://templatesgrokbot.com"><img src="https://img.shields.io/badge/Browse%20all%2010%2C644%20templates-templatesgrokbot.com-E67E22?style=for-the-badge" alt="Browse all templates on templatesgrokbot.com"></a></p>

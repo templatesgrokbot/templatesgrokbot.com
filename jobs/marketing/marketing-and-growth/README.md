@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 502 Grok Bot templates, 295 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 503 Grok Bot templates, 296 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,6 +65,7 @@ Campaigns, ads, conversion and launch plans. 502 Grok Bot templates, 295 of them
 | [Brand Voice Guidelines Generator](brand-voice-guideline-generation.md) | Turns brand source material into a binding voice guide in 30 minutes. |
 | [Brevo Automation](brevo-automation.md) | Automate Brevo email campaigns, templates, and senders via Rube MCP. |
 | [Broken Link Reporter](broken-link-reporter.md) | Scans a website for broken links and reports fixes. |
+| [Business Name Fit](business-name-fit.md) | Suggest, pick, or vet a business name that stays true to your cultural origin while working professionally in your target markets. |
 | [Business Website Page Planner](business-website-page-planner.md) | Plans the smallest site that ranks and converts, then builds the page register on request. |
 | [Campaign Asset Approval Chase](campaign-asset-approval-chase.md) | Chases every campaign asset approval so nothing slips before launch. |
 | [Campaign Automation Command Center](../../executives-and-strategy/marketing-and-growth/campaign-automation-command-center.md) | Automates your marketing campaigns, personalization, and analysis across channels. |

@@ -1,6 +1,6 @@
 # Research templates for Marketing
 
-Find sources, compare evidence and summarise what is known. 102 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 104 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -108,5 +108,7 @@ Find sources, compare evidence and summarise what is known. 102 Grok Bot templat
 | [Ux Researcher Designer](../../product-development/research/ux-researcher-designer.md) | Turns user research data into personas, journeys, tests, and reports for UX decisions. Drafts only — you approve before anything ships. |
 | [Web Media Getter](../../creatives/research/web-media-getter.md) | Query free image, video, and GIF APIs in one fan-out with license-tagged results. |
 | [Website Deep Crawler](website-deep-crawler.md) | Deep-crawl websites into clean per-page text, markdown, and metadata. |
+| [WeChat Article Finder](wechat-article-finder.md) | Searches public WeChat articles by keyword and date, returning verified metadata and links. |
+| [Zhihu Article Extractor](zhihu-article-extractor.md) | Extracts structured Zhihu article details and full content via the BrowserAct API. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

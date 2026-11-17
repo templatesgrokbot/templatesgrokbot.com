@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **457 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **458 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,7 +17,7 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [Writing & Content](writing-and-content/README.md) | 39 |
 | [Research](research/README.md) | 29 |
 | [Design](design/README.md) | 16 |
-| [Knowledge Management](knowledge-management/README.md) | 11 |
+| [Knowledge Management](knowledge-management/README.md) | 12 |
 | [Security & Compliance](security-and-compliance/README.md) | 9 |
 | [Self-Improvement](self-improvement/README.md) | 9 |
 | [Coding](coding/README.md) | 8 |
@@ -58,7 +58,7 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
-| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
+| [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
 
 [All 93 Productivity templates →](productivity/README.md)
 
@@ -87,8 +87,8 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
-| [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 | [Training Material Creator](../operations/writing-and-content/training-material-creator.md) | Creates complete, standards-compliant training materials from research to assessment. |
+| [Training Content Development Assistant](../human-resources/writing-and-content/training-content-development-assistant.md) | Builds tailored training content from needs analysis to onboarding for HR teams. |
 
 [All 39 Writing & Content templates →](writing-and-content/README.md)
 
@@ -135,7 +135,7 @@ Teachers, trainers and students. **457 ready-made Grok Bot templates** for this 
 | [E-Library Operations Assistant](knowledge-management/e-library-operations-assistant.md) | Manages e-library user accounts, catalog, search, reservations, recommendations, feedback, and reports. |
 | [Course Revision Cascade](knowledge-management/course-revision-cascade.md) | Finds every slide, quiz, handout and video that still contradicts a changed lesson, and holds release until they agree. |
 
-[All 11 Knowledge Management templates →](knowledge-management/README.md)
+[All 12 Knowledge Management templates →](knowledge-management/README.md)
 
 ## Security & Compliance
 

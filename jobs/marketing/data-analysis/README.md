@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 176 Grok Bot templates, 71 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 179 Grok Bot templates, 74 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -107,6 +107,7 @@ Clean, query, chart and explain data. 176 Grok Bot templates, 71 of them filed i
 | [Feedback to Sales Actions](../../sales/data-analysis/feedback-to-sales-actions.md) | Turns customer feedback into clear insights and actions for sales and marketing. |
 | [Footballbin Predictions](footballbin-predictions.md) | Fetches AI-powered match predictions for Premier League and Champions League matches. |
 | [GEO Monthly Delta Report](geo-monthly-delta-report.md) | Tracks month-over-month GEO score changes and writes the client progress report. |
+| [Goofish Item Detail Extractor](goofish-item-detail-extractor.md) | Extracts full listing data from a single Goofish second-hand item page. |
 | [Google Ads Performance Analyzer](google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Google Analytics](google-analytics.md) | Analyze Google Analytics data to find traffic patterns and suggest improvements. |
 | [Google Analytics Automation](google-analytics-automation.md) | Automate GA4 reporting, property listing, funnels, pivots, and key events via Rube MCP—always search tools first. |
@@ -176,6 +177,8 @@ Clean, query, chart and explain data. 176 Grok Bot templates, 71 of them filed i
 | [Taobao Product Detail Fetcher](taobao-product-detail-fetcher.md) | Fetch full product details from Taobao or Tmall by item ID. |
 | [Taobao Shop Catalog Browser](taobao-shop-catalog-browser.md) | Browse a Taobao or Tmall shop's product catalog by shop ID, returning paginated listings with item IDs and titles. |
 | [Trend Analysis Content Assistant](../../writers/data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
+| [Trustpilot Review Extractor](trustpilot-review-extractor.md) | Fetches and filters Trustpilot reviews for any company domain, returning structured data. |
+| [Walmart Category Extractor](walmart-category-extractor.md) | Extracts paginated product listings from Walmart category pages. |
 | [Walmart Keyword Search](walmart-keyword-search.md) | Extracts structured product listings from Walmart search results by keyword and page. |
 | [Walmart Review Extractor](walmart-review-extractor.md) | Extracts paginated customer reviews from Walmart product pages. |
 | [Web Analytics Insight Assistant](../../it-and-development/data-analysis/web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |

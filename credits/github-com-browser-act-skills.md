@@ -1,6 +1,6 @@
 # Credits: github.com/browser-act/skills
 
-40 TemplatesGrokBot templates are adapted from work published at [github.com/browser-act/skills](https://github.com/browser-act/skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+62 TemplatesGrokBot templates are adapted from work published at [github.com/browser-act/skills](https://github.com/browser-act/skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -27,22 +27,44 @@
 | [Facebook Group Post Scraper](../jobs/marketing/social-media/facebook-group-post-scraper.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/facebook-groups-scrape-posts) | [MIT](../LICENSES/MIT.md) |
 | [Facebook Posts Scraper](../jobs/marketing/social-media/facebook-posts-scraper.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/facebook-page-profile-posts) | [MIT](../LICENSES/MIT.md) |
 | [GitHub Contributor Finder](../jobs/it-and-development/research/github-contributor-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/github-project-contributor-finder-api-skill) | [MIT](../LICENSES/MIT.md) |
+| [Goofish Item Detail Extractor](../jobs/marketing/data-analysis/goofish-item-detail-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/goofish-item-detail) | [MIT](../LICENSES/MIT.md) |
 | [Goofish Listing Searcher](../jobs/sales/research/goofish-listing-searcher.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/goofish-search-list) | [MIT](../LICENSES/MIT.md) |
 | [Google Image Data Extractor](../jobs/marketing/research/google-image-data-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/search-research/google-image-api-skill) | [MIT](../LICENSES/MIT.md) |
 | [Google News Monitor](../jobs/pr-and-communications/research/google-news-monitor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/search-research/google-news-api-skill) | [MIT](../LICENSES/MIT.md) |
 | [Indeed Job Extractor](../jobs/human-resources/research/indeed-job-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/indeed-job-search) | [MIT](../LICENSES/MIT.md) |
+| [Instagram Hashtag Fetcher](../jobs/marketing/social-media/instagram-hashtag-fetcher.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-hashtag-posts) | [MIT](../LICENSES/MIT.md) |
+| [Instagram Place Post Fetcher](../jobs/marketing/social-media/instagram-place-post-fetcher.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-place-posts) | [MIT](../LICENSES/MIT.md) |
+| [Instagram Post Comments](../jobs/marketing/social-media/instagram-post-comments.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-post-comments) | [MIT](../LICENSES/MIT.md) |
+| [Instagram Profile Posts](../jobs/marketing/social-media/instagram-profile-posts.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-profile-posts) | [MIT](../LICENSES/MIT.md) |
+| [Keyword Commenter](../jobs/marketing/social-media/keyword-commenter.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-keyword-comment) | [MIT](../LICENSES/MIT.md) |
 | [LinkedIn Job Finder](../jobs/human-resources/productivity/linkedin-job-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/linkedin-jobs-search) | [MIT](../LICENSES/MIT.md) |
 | [Product Hunt Launch Extractor](../jobs/sales/data-analysis/product-hunt-launch-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/producthunt-launches) | [MIT](../LICENSES/MIT.md) |
+| [Reddit Competitor Analyzer](../jobs/marketing/social-media/reddit-competitor-analyzer.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/reddit-competitor-analysis-api-skill) | [MIT](../LICENSES/MIT.md) |
 | [Seller Profile Extractor](../jobs/marketing/data-analysis/seller-profile-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/ecommerce-seller-info) | [MIT](../LICENSES/MIT.md) |
 | [Social Media Profile Finder](../jobs/marketing/social-media/social-media-profile-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/social-media-finder-skill) | [MIT](../LICENSES/MIT.md) |
 | [Social Profile Finder](../jobs/marketing/research/social-profile-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/google-social-media-finder) | [MIT](../LICENSES/MIT.md) |
 | [Taobao Keyword Search](../jobs/marketing/research/taobao-keyword-search.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-keyword-search) | [MIT](../LICENSES/MIT.md) |
 | [Taobao Product Detail Fetcher](../jobs/marketing/data-analysis/taobao-product-detail-fetcher.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-product-detail) | [MIT](../LICENSES/MIT.md) |
 | [Taobao Shop Catalog Browser](../jobs/marketing/data-analysis/taobao-shop-catalog-browser.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/taobao-shop-catalog) | [MIT](../LICENSES/MIT.md) |
+| [Threads Keyword Search](../jobs/marketing/social-media/threads-keyword-search.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-keyword-search) | [MIT](../LICENSES/MIT.md) |
+| [Threads Profile Finder](../jobs/marketing/social-media/threads-profile-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-profile-search) | [MIT](../LICENSES/MIT.md) |
+| [Threads Profile Reader](../jobs/marketing/social-media/threads-profile-reader.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/threads-user-posts) | [MIT](../LICENSES/MIT.md) |
 | [Trustpilot Profile Lookup](../jobs/pr-and-communications/research/trustpilot-profile-lookup.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/trustpilot-company-info) | [MIT](../LICENSES/MIT.md) |
+| [Trustpilot Review Extractor](../jobs/marketing/data-analysis/trustpilot-review-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/trustpilot-reviews) | [MIT](../LICENSES/MIT.md) |
+| [Tweet Search Collector](../jobs/marketing/social-media/tweet-search-collector.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-tweet-search-by-query) | [MIT](../LICENSES/MIT.md) |
+| [Walmart Category Extractor](../jobs/marketing/data-analysis/walmart-category-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-category-listing) | [MIT](../LICENSES/MIT.md) |
 | [Walmart Keyword Search](../jobs/marketing/data-analysis/walmart-keyword-search.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-keyword-search) | [MIT](../LICENSES/MIT.md) |
 | [Walmart Review Extractor](../jobs/marketing/data-analysis/walmart-review-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-product-reviews) | [MIT](../LICENSES/MIT.md) |
 | [Website Deep Crawler](../jobs/marketing/research/website-deep-crawler.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/search-research/webcrawler-deep-crawl) | [MIT](../LICENSES/MIT.md) |
+| [WeChat Article Finder](../jobs/marketing/research/wechat-article-finder.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/wechat-article-search-api-skill) | [MIT](../LICENSES/MIT.md) |
+| [X DM Auto Chat](../jobs/marketing/social-media/x-dm-auto-chat.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-dm-auto-chat) | [MIT](../LICENSES/MIT.md) |
+| [X Thread Harvester](../jobs/marketing/social-media/x-thread-harvester.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/x-tweet-by-conversation) | [MIT](../LICENSES/MIT.md) |
+| [Xiaohongshu Content Automator](../jobs/marketing/social-media/xiaohongshu-content-automator.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-auto-posting) | [MIT](../LICENSES/MIT.md) |
+| [Xiaohongshu Note Fetcher](../jobs/marketing/social-media/xiaohongshu-note-fetcher.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-note-detail) | [MIT](../LICENSES/MIT.md) |
+| [Xiaohongshu Note Search](../jobs/marketing/social-media/xiaohongshu-note-search.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-search-full) | [MIT](../LICENSES/MIT.md) |
+| [Xiaohongshu Profile Retriever](../jobs/marketing/social-media/xiaohongshu-profile-retriever.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-user-profile) | [MIT](../LICENSES/MIT.md) |
+| [Xiaohongshu Search Assistant](../jobs/marketing/social-media/xiaohongshu-search-assistant.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/xiaohongshu-search) | [MIT](../LICENSES/MIT.md) |
 | [YouTube Channel Contact Extractor](../jobs/sales/social-media/youtube-channel-contact-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/lead-generation/youtube-channel-business-email) | [MIT](../LICENSES/MIT.md) |
+| [Zhihu Article Extractor](../jobs/marketing/research/zhihu-article-extractor.md) | [original](https://github.com/browser-act/skills/tree/main/solutions/social-listening/zhihu-search-api-skill) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

@@ -1,6 +1,6 @@
 # Data Analysis templates for Customer Support
 
-Clean, query, chart and explain data. 37 Grok Bot templates, 33 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 38 Grok Bot templates, 34 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Clean, query, chart and explain data. 37 Grok Bot templates, 33 of them filed in
 | [Service Quality Enhancement Assistant](../../management/data-analysis/service-quality-enhancement-assistant.md) | Analyzes feedback, monitors performance, and drives service quality improvements for service managers. |
 | [Shopify Review Triage](shopify-review-triage.md) | Triage 1-3-star Shopify reviews into P0-P3 briefs with incident risk, friction, pricing, and feature requests. |
 | [Support Metrics Analyst](support-metrics-analyst.md) | Analyzes support performance metrics and delivers insights for decision-making. |
+| [Support Ops Analyst](support-ops-analyst.md) | Analyzes support ticket exports to measure SLA attainment, plan staffing, and find deflection opportunities. |
 | [Support Survey Insight Builder](support-survey-insight-builder.md) | Designs, analyzes, and reports on customer satisfaction surveys for support teams. |
 
 [← All Customer Support templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/customer-support)

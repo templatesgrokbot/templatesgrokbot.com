@@ -1,6 +1,6 @@
 # Grok Bot templates for Legal
 
-Contracts, research, compliance and review. **507 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Contracts, research, compliance and review. **509 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 
 | Kind of work | Templates |
 |---|---:|
-| [Security & Compliance](security-and-compliance/README.md) | 204 |
+| [Security & Compliance](security-and-compliance/README.md) | 206 |
 | [Research](research/README.md) | 88 |
 | [Productivity](productivity/README.md) | 49 |
 | [Data Analysis](data-analysis/README.md) | 35 |
@@ -43,18 +43,18 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
 
-[All 204 Security & Compliance templates →](security-and-compliance/README.md)
+[All 206 Security & Compliance templates →](security-and-compliance/README.md)
 
 ## Research
 
 | Template | What it does |
 |---|---|
-| [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Legal Auction Analyst](research/legal-auction-analyst.md) | Analyzes nullities, family homestead and fiduciary alienation in real estate auctions under the CPC and Law 9.514/97. |
+| [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
-| [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
 | [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 
@@ -128,8 +128,8 @@ Contracts, research, compliance and review. **507 ready-made Grok Bot templates*
 | [Pdf Fill Studio](../operations/office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [Document Template Filler](office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
-| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 | [PDF to Word Converter](office-tools/pdf-to-word-converter.md) | Converts PDF files into editable Word documents while preserving layout, tables, and images. |
+| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 | [Docx Official](../operations/office-tools/docx-official.md) | Create, read, edit, and manipulate .docx files with precise formatting and tracked changes. |
 | [Motion Calendar Preparation](office-tools/motion-calendar-preparation.md) | Checks each motion's papers against local deadlines and drafts a one-page issue list for the judge. |
 

@@ -1,6 +1,6 @@
 # Credits
 
-4,095 of the 10,614 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+4,125 of the 10,644 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -11,15 +11,15 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills) | 306 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-bestagentkits-agency-skills.md) |
 | [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 118 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-onewave-ai-claude-skills.md) |
 | [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 65 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-elementalsouls-claude-bughunter.md) |
+| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 62 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [collectivebrain.de](https://collectivebrain.de) | 61 | [see the original](LICENSES/README.md) | [list](credits/collectivebrain-de.md) |
 | [github.com/claude-office-skills/skills](https://github.com/claude-office-skills/skills) | 52 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-claude-office-skills-skills.md) |
 | [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 49 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nexu-io-html-anything.md) |
 | [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 46 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nanocoai-nanoclaw.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
-| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 40 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 40 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
+| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 37 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
 | [github.com/wshobson/agents](https://github.com/wshobson/agents) | 33 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-wshobson-agents.md) |
-| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 31 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
 | [github.com/whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) | 25 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-whyashthakker-agent-skills-marketing.md) |
 | [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
 | [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-lambdatest-agent-skills.md) |
@@ -76,6 +76,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-avdlee-swiftui-agent-skill.md) |
 | [github.com/mattpocock/skills](https://github.com/mattpocock/skills) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-mattpocock-skills.md) |
 | [github.com/muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-muratcankoylan-agent-skills-for-context-engineering.md) |
+| [github.com/obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) | 2 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-obsidianmd-obsidian-skills.md) |
 | [github.com/playbookTV/rayden-ui-design-skill](https://github.com/playbookTV/rayden-ui-design-skill) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-playbooktv-rayden-ui-design-skill.md) |
 | [github.com/Shpigford/skills](https://github.com/Shpigford/skills) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-shpigford-skills.md) |
 | [github.com/supabase/agent-skills](https://github.com/supabase/agent-skills) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-supabase-agent-skills.md) |

@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -34,7 +34,12 @@ Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of the
 | [Instagram Automation](instagram-automation.md) | Automate Instagram posting, carousels, insights, and publishing limits via Rube MCP. |
 | [instagram connector liker follower commenter](instagram-connector-liker-follower-commenter.md) | Automate Instagram engagement: like, follow, and comment on public posts from a signed-in browser. |
 | [Instagram Content Curator](instagram-content-curator.md) | Plans Instagram content, tracks performance against targets, and drafts posts for your approval. |
+| [Instagram Hashtag Fetcher](instagram-hashtag-fetcher.md) | Fetches Instagram top posts for a hashtag and reports them as structured data. |
 | [Instagram Manager](instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
+| [Instagram Place Post Fetcher](instagram-place-post-fetcher.md) | Fetches Instagram posts tagged at a specific location and returns them as structured data. |
+| [Instagram Post Comments](instagram-post-comments.md) | Fetches and paginates comments from an Instagram post. |
+| [Instagram Profile Posts](instagram-profile-posts.md) | Fetches a public Instagram profile's posts with captions, media, counts, and locations. |
+| [Keyword Commenter](keyword-commenter.md) | Searches X for keyword tweets, writes contextual replies from your brand persona, and posts them after your approval. |
 | [Link-in-Bio Hub Builder](link-in-bio-hub-builder.md) | Plans, builds and tracks the single link page your social bios point to. |
 | [LinkedIn Advocacy Program Manager](linkedin-advocacy-program-manager.md) | Launch and run a LinkedIn employee advocacy program for your team. |
 | [Linkedin Automation](linkedin-automation.md) | Automate LinkedIn posts, profile, comments, and image uploads via Rube MCP. |
@@ -58,6 +63,7 @@ Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of the
 | [Quarterly Social Goal Tracker](quarterly-social-goal-tracker.md) | Keeps quarterly social goals visible, explains any miss, and tracks whether the fix worked. |
 | [Reddit Automation](reddit-automation.md) | Search, post, comment, and browse Reddit via Rube MCP. |
 | [Reddit Community Builder](reddit-community-builder.md) | Builds authentic Reddit presence through value-first engagement, tracked and reported without spam. |
+| [Reddit Competitor Analyzer](reddit-competitor-analyzer.md) | Collects structured Reddit post and comment data for market and competitor analysis. |
 | [Scheduled Content Pause](../../pr-and-communications/social-media/scheduled-content-pause.md) | Pauses scheduled content during a crisis and restarts it only when approved. |
 | [Seo Keyword Strategist](seo-keyword-strategist.md) | Analyzes keyword density, entities, and LSI for content optimization. |
 | [Social Channel Setup Planner](social-channel-setup-planner.md) | Picks the smallest sustainable social channel set and builds the channel and post register only when asked. |
@@ -90,10 +96,14 @@ Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of the
 | [Social SEO Content Planner](social-seo-content-planner.md) | Optimizes social media SEO through content, keywords, hashtags, profiles, and analytics for social media managers. |
 | [Socialclaw](socialclaw.md) | Schedule and publish posts across 13 social platforms with one API key. |
 | [Taisly Social Media Posting](taisly-social-media-posting.md) | Prepare and publish approved short-form videos across major social platforms. Requires explicit user approval before any posting action. |
+| [Threads Keyword Search](threads-keyword-search.md) | Searches Threads by keyword or hashtag and returns matching posts with engagement metrics. |
+| [Threads Profile Finder](threads-profile-finder.md) | Searches Threads for user profiles by keyword and retrieves their bio and follower counts. |
+| [Threads Profile Reader](threads-profile-reader.md) | Fetches public Threads posts and engagement metrics from any user profile. |
 | [Tiktok Automation](tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
 | [TikTok Content Planner](tiktok-content-planner.md) | Plans TikTok content, drafts scripts and captions, and reports performance from your own account data. |
 | [TikTok Content Strategist](tiktok-content-strategist.md) | Plans, scripts, and schedules TikTok content, then reports what actually performed. |
 | [Trend Participation Vetter](trend-participation-vetter.md) | Vets a hashtag or trend's origin, meaning and risks before the brand joins it. |
+| [Tweet Search Collector](tweet-search-collector.md) | Searches X (Twitter) by advanced query and returns normalized tweet data with pagination. |
 | [Twitter Ai Influencer Manager](twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
 | [Twitter Automation](twitter-automation.md) | Automate Twitter/X posts, search, users, bookmarks, lists, and media via Rube MCP. |
 | [Twitter Share Card Maker](twitter-share-card-maker.md) | Turns a quote or data point into a ready-to-post Twitter share card image. |
@@ -110,11 +120,18 @@ Plan, write and measure posts across networks. 110 Grok Bot templates, 91 of the
 | [Whatsapp Automation](whatsapp-automation.md) | Automate WhatsApp Business messaging, templates, media, and contacts via Rube MCP. |
 | [X Article Publisher](x-article-publisher-skill.md) | Publish articles to X/Twitter with formatted posts and media. |
 | [X Brief](x-brief.md) | Connects to X, analyzes your recent posts to identify your beat, and flags relevant events with a daily wrap-up. |
+| [X DM Auto Chat](x-dm-auto-chat.md) | Scans X DMs, drafts persona-based replies, and sends them with approval. |
 | [X Growth Engine](x-growth-engine.md) | Grows your X/Twitter audience with audited profiles, engineered threads, and measured engagement. |
 | [X Publishing Assistant](x-publishing-assistant.md) | Publishes your text, images, videos, and long-form articles to X after you approve the final post. |
+| [X Thread Harvester](x-thread-harvester.md) | Collects every tweet in an X conversation thread from a root tweet ID, with full reply structure and engagement data. |
 | [Xiaohongshu Card Deck Generator](xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
+| [Xiaohongshu Content Automator](xiaohongshu-content-automator.md) | Automates Xiaohongshu content operations from topic discovery to performance tracking. |
 | [Xiaohongshu Content Strategist](xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Xiaohongshu Lifestyle Marketing](xiaohongshu-lifestyle-marketing.md) | Plans Xiaohongshu lifestyle content, tracks trends, and reports engagement against your own numbers. |
+| [Xiaohongshu Note Fetcher](xiaohongshu-note-fetcher.md) | Fetch Xiaohongshu note details and comments by note ID, returning metadata, engagement stats, and paginated comments. |
+| [Xiaohongshu Note Search](xiaohongshu-note-search.md) | Search Xiaohongshu notes by keyword with full metadata extraction and filters. |
+| [Xiaohongshu Profile Retriever](xiaohongshu-profile-retriever.md) | Fetches Xiaohongshu user profiles and published notes with engagement stats by user ID. |
+| [Xiaohongshu Search Assistant](xiaohongshu-search-assistant.md) | Search Xiaohongshu notes by keyword and return a paginated list with engagement stats. |
 | [Youtube Automation](youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)
