@@ -1,6 +1,6 @@
 # Productivity templates for Management
 
-Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 344 Grok Bot templates, 117 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -186,6 +186,7 @@ Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of t
 | [Mass Casualty Drill Planner](../../healthcare/productivity/mass-casualty-drill-planner.md) | Plans mass casualty drills around past weak points and tracks every fix to closure. |
 | [Meal Prep](../../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Meeting Action Item Follow-Through](meeting-action-item-follow-through.md) | Turns meeting notes into owned, dated action items and follows them until they are closed. |
+| [Meeting Cost Gate](meeting-cost-gate.md) | Decides if a meeting is worth it, prices it, builds a timeboxed agenda, and turns notes into owned actions. |
 | [Meeting Load Audit](meeting-load-audit.md) | Audits team calendars to cut meeting load and protect focus time. |
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Milestone Invoice and Lien Waiver Tracker](../../real-estate-and-construction/productivity/milestone-invoice-and-lien-waiver-tracker.md) | Turns verified job milestones into approved stage invoices, waivers and deadline reminders. |
@@ -239,6 +240,7 @@ Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of t
 | [Production Schedule Optimizer](../../operations/productivity/production-schedule-optimizer.md) | Builds, monitors, and optimizes production schedules, resolving conflicts and keeping stakeholders informed. |
 | [Production Technology Integration Planner](../../operations/productivity/production-technology-integration-planner.md) | Plans and optimizes production technology integration from selection to monitoring. |
 | [Project Budget Management Assistant](project-budget-management-assistant.md) | Guides project managers through budget planning, monitoring, and adjustments. |
+| [Project Delivery Orchestrator](project-delivery-orchestrator.md) | Routes project-management questions to the right specialist and runs verified delivery loops. |
 | [Project Dependency Slip Alert](project-dependency-slip-alert.md) | Tracks task slips across projects, traces downstream effects, and gets owners to replan before delays spread. |
 | [Project Management Assistant](../../executives-and-strategy/productivity/project-management-assistant.md) | Plans, tracks, and optimizes projects for managing directors. |
 | [Project Management Coordination Assistant](../../executives-and-strategy/productivity/project-management-coordination-assistant.md) | Coordinates projects, tracks progress, and flags risks for COOs. |
@@ -282,6 +284,7 @@ Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of t
 | [Session Handoff](../../operations/productivity/session-handoff.md) | Creates and resumes handoff documents so fresh sessions continue work without losing context. |
 | [Shift Swap and Time-Off Approver](../../operations/productivity/shift-swap-and-time-off-approver.md) | Reads swap and time-off requests, checks coverage and labor rules, and proposes changes for your approval. |
 | [Shop Bay Scheduling Assistant](../../operations/productivity/shop-bay-scheduling-assistant.md) | Builds tomorrow's bay and mechanic plan from bookings, parts arrivals and staff hours. |
+| [Short Drama Coordinator](short-drama-coordinator.md) | Initializes and routes local short-drama projects, manages global config, and exports deliverables. |
 | [Shutdown Readiness Tracker](../../operations/productivity/shutdown-readiness-tracker.md) | Tracks shutdown scope, parts, contractors and permits against the date and flags gaps early. |
 | [Small Job Backlog Scheduler](../../real-estate-and-construction/productivity/small-job-backlog-scheduler.md) | Builds a realistic two-week schedule from your job list and drafts customer date messages for your approval. |
 | [Spec To Task Planner](spec-to-task-planner.md) | Turns a site specification into a developer-ready task list with acceptance criteria and no scope creep. |
@@ -340,6 +343,7 @@ Plan, prioritise and clear the recurring admin. 340 Grok Bot templates, 113 of t
 | [WeChat Group Digest](wechat-group-digest.md) | Summarizes WeChat group chats into a structured, digestible highlight report with optional roast version. |
 | [Weekly Labor Schedule Assistant](../../hospitality-and-events/productivity/weekly-labor-schedule-assistant.md) | Drafts a legal weekly crew schedule that covers peak hours within your labor target. |
 | [Weekly Portfolio Status Consolidator](weekly-portfolio-status-consolidator.md) | Turns weekly project reports and tool data into one approved portfolio report with exceptions first. |
+| [Weekly Review Coach](weekly-review-coach.md) | Runs your weekly GTD review: clears open loops, audits commitments, and gates completion honestly. |
 | [Workflow Automation Planner](../../operations/productivity/workflow-automation-planner.md) | Finds and implements workflow automation opportunities for operations managers. |
 | [Workflow Orchestrator](../../operations/productivity/workflow-orchestrator.md) | Designs, implements, and optimizes complex business process workflows with state management and error handling. |
 | [Workforce Planning Assistant](../../operations/productivity/workforce-planning-assistant.md) | Optimizes workforce scheduling, allocation, and planning for production planners. |

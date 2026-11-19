@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 84 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 85 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -42,6 +42,7 @@ Plan, prioritise and clear the recurring admin. 171 Grok Bot templates, 84 of th
 | [CTO IT Project Navigator](../../executives-and-strategy/productivity/cto-it-project-navigator.md) | Oversees IT projects from planning through evaluation, with AI support for every phase. |
 | [Daily Meeting Update](daily-meeting-update.md) | Generates a daily standup update by interviewing you and pulling activity from GitHub, Jira, and Claude Code history. |
 | [Deadline Prep](../../management/productivity/deadline-prep.md) | Generate a demo outline from your change log and git history. No more scrambling for talking points. No more forgetting what you shipped. It reads you |
+| [Deep Work Day Planner](deep-work-day-planner.md) | Plans a deep-work day: classifies tasks, time-blocks focus, budgets shallow work, and tracks sessions. |
 | [Definition of Done Auditor](definition-of-done-auditor.md) | Checks every closed sprint item against the team's definition of done and reopens the ones with gaps. |
 | [Developer Signup Flow](../../product-development/productivity/developer-signup-flow.md) | Design frictionless developer signup flows with OAuth, instant API keys, and progressive profiling. |
 | [Diary](../../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |

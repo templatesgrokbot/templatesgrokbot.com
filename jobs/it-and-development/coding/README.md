@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,6 +17,7 @@ Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them fi
 | [Address Comments](address-comments.md) | Addresses pull request comments with minimal, tested changes. |
 | [Address Github Comments](address-github-comments.md) | Address GitHub PR review comments with gh CLI after user approval. |
 | [Advanced SQL Advisor for DBAs](advanced-sql-advisor-for-dbas.md) | SQL advisor for DBAs: optimize, design, and secure databases with expert guidance. |
+| [Adversarial Change Reviewer](adversarial-change-reviewer.md) | Adversarial review that keeps only findings proven by a run against your code or design. |
 | [Adversarial Code Reviewer](adversarial-code-reviewer.md) | Reviews recent code changes through three hostile reviewer personas and returns a merge verdict. |
 | [Adversarial Review Runner](adversarial-review-runner.md) | Adversarial review that proves findings with runs before reporting. |
 | [Aem Frontend Specialist](aem-frontend-specialist.md) | Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens. |
@@ -191,6 +192,7 @@ Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them fi
 | [Bug Hunt Swarm](bug-hunt-swarm.md) | Parallel read-only multi-agent root-cause investigation for bugs and regressions. |
 | [Bug Hunter](bug-hunter.md) | Trace bugs from symptom to root cause, fix them, and prevent regression. |
 | [Bug Repro](bug-repro.md) | Takes a vague bug report and works it into a minimal reproduction with an actual failing test. |
+| [Bug Repro and Fix](bug-repro-and-fix.md) | Reproduce Slack-reported bugs, verify fixes, and open a draft PR only after proof. |
 | [Bugs Are Annoying](bugs-are-annoying.md) | Adversarial code auditor that hunts bugs, logic errors, and security flaws. |
 | [Build Engineer](build-engineer.md) | Optimizes build systems to reduce compilation times and scale with growing teams. |
 | [Build Environment Repair](build-environment-repair.md) | Reproduces build failures in a sandbox, fixes them one change at a time, and records the dependency set. |
@@ -471,6 +473,8 @@ Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them fi
 | [Focused Feature Repair](focused-feature-repair.md) | Repairs one broken feature end-to-end by mapping its scope, dependencies, and root causes before changing anything. |
 | [Folder Specific Claude And Agents Md](folder-specific-claude-and-agents-md.md) | Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents. |
 | [Form Validation Edge Case Checker](form-validation-edge-case-checker.md) | Generates tricky inputs, runs browser and screen reader tests, and proposes fixes for form validation bugs. |
+| [Formal Verification Generator](formal-verification-generator.md) | Finds the code where a bug costs most, formally verifies one property, and leaves a reusable check. |
+| [Formal Verification Maintainer](formal-verification-maintainer.md) | Keeps formal verification aligned with code after changes. |
 | [Formik Patterns](formik-patterns.md) | Formik form handling with Yup validation patterns for React forms. |
 | [Fp Async](fp-async.md) | Build clean async pipelines with TaskEither instead of try/catch hell |
 | [Fp Backend](fp-backend.md) | Build type-safe Node.js/Deno backends with fp-ts and functional DI. |
@@ -805,6 +809,7 @@ Write, review, test and debug software. 1150 Grok Bot templates, 1141 of them fi
 | [Postgresql Optimization](postgresql-optimization.md) | Optimize PostgreSQL databases through query tuning, indexing, and configuration analysis. |
 | [Postman Newman Automation](postman-newman-automation.md) | Generate Newman CLI commands, shell scripts, and Jenkins pipelines for Postman collections. |
 | [Postman Openapi Converter](postman-openapi-converter.md) | Convert OpenAPI 3.x or Swagger 2.0 specs into import-ready Postman Collection v2.1 JSON. |
+| [Poteto Mode Coder](poteto-mode-coder.md) | Works in poteto's concise, verified style for coding tasks. |
 | [Power Platform Mcp Integration Expert](power-platform-mcp-integration-expert.md) | Guides building Power Platform custom connectors with MCP for Copilot Studio. |
 | [Powershell Module Architect](powershell-module-architect.md) | Designs PowerShell module and profile architectures from fragmented scripts. |
 | [Powershell Ui Architect](powershell-ui-architect.md) | Designs desktop GUIs and terminal UIs for PowerShell automation tools with clean separation of concerns. |

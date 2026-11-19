@@ -1,6 +1,6 @@
 # Data Analysis templates for Finance
 
-Clean, query, chart and explain data. 496 Grok Bot templates, 348 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 497 Grok Bot templates, 349 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -109,6 +109,7 @@ Clean, query, chart and explain data. 496 Grok Bot templates, 348 of them filed 
 | [Client Life Event Response](client-life-event-response.md) | Turns a client life event into reviewed plan changes and ranked options for advisor approval. |
 | [Client Spending Drift Review](client-spending-drift-review.md) | Flags client spending drift against plan targets and drafts meeting talking points for advisor approval. |
 | [Climate Risk Actuarial Analyst](climate-risk-actuarial-analyst.md) | Analyzes climate data and models to inform insurance risk, pricing, and strategy. |
+| [Cloud Cost Analyzer](cloud-cost-analyzer.md) | Analyzes AWS, Azure, or Google Cloud FOCUS billing exports for cost allocation, commitment optimization, and anomaly detection. |
 | [Commission Payout Auditor](commission-payout-auditor.md) | Recalculates every commission payout from the plan and explains each difference before payroll runs. |
 | [Comparable Companies Refresh](comparable-companies-refresh.md) | Refreshes a comps table with current prices, share counts, debt and forecast figures, and explains every outlier. |
 | [Compliance Cost Analyst](../../legal/data-analysis/compliance-cost-analyst.md) | Analyzes, forecasts, and optimizes compliance costs for compliance analysts. |

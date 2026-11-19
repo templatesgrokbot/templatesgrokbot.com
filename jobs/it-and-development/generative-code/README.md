@@ -1,6 +1,6 @@
 # Generative Code templates for IT and Development
 
-Scaffold apps, components and whole projects from a brief. 103 Grok Bot templates, 88 of them filed in this folder; the others live under their main field and are linked from here.
+Scaffold apps, components and whole projects from a brief. 104 Grok Bot templates, 89 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -108,6 +108,7 @@ Scaffold apps, components and whole projects from a brief. 103 Grok Bot template
 | [Web Artifacts Builder](web-artifacts-builder.md) | Builds complex multi-component HTML artifacts with React, Tailwind CSS, and shadcn/ui. |
 | [Web Games](web-games.md) | Select frameworks and optimize performance for browser-based games. |
 | [Webflow Automation](webflow-automation.md) | Automate Webflow CMS, publishing, pages, assets, and ecommerce via Rube MCP. |
+| [Webhook UI Builder](webhook-ui-builder.md) | Builds a web page that wakes a Grok Bot via webhook, keeping keys server-side. |
 | [Website Builder (Landing Page Component System)](../../marketing/generative-code/website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
 
 [← All IT and Development templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/it-and-development)

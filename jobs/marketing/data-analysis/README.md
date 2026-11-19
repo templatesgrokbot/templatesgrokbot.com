@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 179 Grok Bot templates, 74 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 182 Grok Bot templates, 77 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -122,6 +122,7 @@ Clean, query, chart and explain data. 179 Grok Bot templates, 74 of them filed i
 | [Lead Handoff Quality Analyst](lead-handoff-quality-analyst.md) | Finds why sales rejects leads and drafts scoring changes, tested on past data, for VP approval. |
 | [Lead Scoring Model Builder](lead-scoring-model-builder.md) | Builds a custom lead scoring model from your win/loss data and scores current leads. |
 | [Lead Scoring Strategist](../../sales/data-analysis/lead-scoring-strategist.md) | Builds and refines lead scoring models, segments leads, and tracks performance for sales managers. |
+| [LinkedIn Post Analyzer](linkedin-post-analyzer.md) | Analyzes your own LinkedIn post data, reports medians, tests patterns, and sizes experiments without over-concluding. |
 | [Market Basket Insights Assistant](../../management/data-analysis/market-basket-insights-assistant.md) | Turns retail transaction data into cross-selling, promotion, and inventory insights. |
 | [Market Intelligence Analyst](../../executives-and-strategy/data-analysis/market-intelligence-analyst.md) | Turns market data into strategic insights and reports for a Global Head of Marketing. |
 | [Market Price Optimizer](../../science-and-research/data-analysis/market-price-optimizer.md) | Analyzes market data to develop and recommend profitable pricing strategies. |
@@ -180,10 +181,12 @@ Clean, query, chart and explain data. 179 Grok Bot templates, 74 of them filed i
 | [Trustpilot Review Extractor](trustpilot-review-extractor.md) | Fetches and filters Trustpilot reviews for any company domain, returning structured data. |
 | [Walmart Category Extractor](walmart-category-extractor.md) | Extracts paginated product listings from Walmart category pages. |
 | [Walmart Keyword Search](walmart-keyword-search.md) | Extracts structured product listings from Walmart search results by keyword and page. |
+| [Walmart Product Detail Extractor](walmart-product-detail-extractor.md) | Extracts complete structured product data from any Walmart product page. |
 | [Walmart Review Extractor](walmart-review-extractor.md) | Extracts paginated customer reviews from Walmart product pages. |
 | [Web Analytics Insight Assistant](../../it-and-development/data-analysis/web-analytics-insight-assistant.md) | Turns your web analytics data into clear insights and actionable recommendations. |
 | [Web Analytics Monitoring Assistant](../../sales/data-analysis/web-analytics-monitoring-assistant.md) | Turns your web analytics data into clear insights and actions for better marketing decisions. |
 | [Website Analytics Optimizer](../../sales/data-analysis/website-analytics-optimizer.md) | Analyzes website data and delivers optimization recommendations for digital marketing specialists. |
 | [X Twitter Scraper](../../operations/data-analysis/x-twitter-scraper.md) | X data extraction and giveaway draws via the Xquik API, read-only. |
+| [YouTube Channel Data Extractor](youtube-channel-data-extractor.md) | Extract structured video and channel data from any YouTube channel via API. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

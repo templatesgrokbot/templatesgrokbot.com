@@ -40,10 +40,10 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
-| [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
+| [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
-| [Digital Teaching Tools Assistant](teaching-and-tutoring/digital-teaching-tools-assistant.md) | Helps primary teachers plan, run, and assess digital lessons with tools and resources. |
+| [Elementary Fun Fact Activity Maker](teaching-and-tutoring/elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
 
 [All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -70,8 +70,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Attendance Analysis Assistant](data-analysis/attendance-analysis-assistant.md) | Turns attendance records into reports, insights, and intervention plans for school principals. |
-| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
+| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
 
@@ -113,8 +113,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 |---|---|
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Visual Learning Materials Creator](design/visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
-| [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [Mobile Learning App Designer](design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Classroom Decoration Planner](design/classroom-decoration-planner.md) | Generates classroom decoration ideas and plans for primary school teachers. |
@@ -159,8 +159,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Interview Coach](../human-resources/self-improvement/interview-coach.md) | Full job search coaching: JD decoding, mock interviews, transcript analysis, and comp negotiation. |
 | [Sleep Coach](../healthcare/self-improvement/sleep-coach.md) | Correlates what you did each day with how you slept and names the one habit to change. |
 | [Satori](self-improvement/satori.md) | A structured thinking partner blending psychology and philosophy for inner exploration. |
-| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Career Changer Translator](../human-resources/self-improvement/career-changer-translator.md) | Translates skills from one industry to another for career pivots. |
+| [Workout Program Designer](self-improvement/workout-program-designer.md) | Designs personalized workout plans by goal, with progressive overload and rest-day optimization. |
 | [Cohort Progress Coach Assistant](self-improvement/cohort-progress-coach-assistant.md) | Tracks each group member's pace and drafts the right check-in before anyone falls too far behind. |
 | [Plateau Investigation Assistant](../healthcare/self-improvement/plateau-investigation-assistant.md) | Finds the most likely cause of a client's progress plateau and proposes one change at a time. |
 | [Vocal Practice Progress Tracker](self-improvement/vocal-practice-progress-tracker.md) | Measures each practice take, tracks progress against your goals, and writes a weekly note for your coach. |

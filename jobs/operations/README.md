@@ -45,9 +45,9 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
 | [Excel Analysis](../finance/data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
-| [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
 | [Power Bi Visualization Expert](data-analysis/power-bi-visualization-expert.md) | Guides Power BI report design and visualization using Microsoft best practices for effective, performant, and user-friendly dashboards. |
-| [Postgres Readonly Queries](../it-and-development/data-analysis/postgres-readonly-queries.md) | Run safe read-only SQL against PostgreSQL with multi-connection support and write protection. |
+| [Monte Carlo Performance Diagnosis](../it-and-development/data-analysis/monte-carlo-performance-diagnosis.md) | Diagnoses pipeline performance issues using Monte Carlo observability data. |
+| [Forecast Accuracy Review](data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 
 [All 645 Data Analysis templates →](data-analysis/README.md)
 
@@ -56,8 +56,8 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 | Template | What it does |
 |---|---|
 | [Doordash Group Orders](productivity/doordash-group-orders.md) | Manages group DoorDash orders with per-person cost splits and payer rotation tracking. |
-| [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Markitdown](productivity/markitdown.md) | Converts files and office documents to clean Markdown for LLM processing. |
+| [Spark](productivity/spark.md) | Guides new users through a short questionnaire, then automatically creates the bots and connectors they need. |
 | [Meal Prep](productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Obsidian Clipper Template Creator](productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
 | [Outlook Automation](productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
@@ -72,8 +72,8 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 |---|---|
 | [Zapier Make Patterns](../it-and-development/cloud-and-devops/zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Kubernetes Architect](../it-and-development/cloud-and-devops/kubernetes-architect.md) | Designs Kubernetes platform architecture and GitOps workflows for production clusters. |
-| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Network Engineer](../it-and-development/cloud-and-devops/network-engineer.md) | Designs, optimizes, and troubleshoots cloud and hybrid network infrastructures for reliability and security. |
+| [Incident Response Incident Response](../it-and-development/cloud-and-devops/incident-response-incident-response.md) | Orchestrate multi-agent incident response with SRE practices for rapid resolution and learning. |
 | [Monitoring Specialist](../it-and-development/cloud-and-devops/monitoring-specialist.md) | Monitors infrastructure health, collects metrics, and alerts on symptoms to keep systems reliable. |
 | [Cloud Sql Basics](../it-and-development/cloud-and-devops/cloud-sql-basics.md) | Creates and manages Cloud SQL instances for MySQL, PostgreSQL, and SQL Server on Google Cloud. |
 | [Cost Optimization](../it-and-development/cloud-and-devops/cost-optimization.md) | Reduce cloud spending across AWS, Azure, and GCP with systematic cost optimization strategies. |
@@ -88,11 +88,11 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 | [Powershell Security Hardening](../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
 | [Jfrog Sec](../it-and-development/security-and-compliance/jfrog-sec.md) | Automates security remediation by verifying package compliance and suggesting fixes via JFrog intelligence. |
 | [Regulatory Affairs Head](security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Regulatory Compliance Guidance Assistant](../product-development/security-and-compliance/regulatory-compliance-guidance-assistant.md) | Guides process engineers through regulatory compliance research, documentation, reporting, training, audits, and risk management. |
+| [Hazardous Material Management Assistant](security-and-compliance/hazardous-material-management-assistant.md) | Manages hazardous materials safely and compliantly from inventory to disposal. |
 | [Chemical Compliance Assistant](../science-and-research/security-and-compliance/chemical-compliance-assistant.md) | Manages chemical compliance: inventory, permits, reports, audits, and training. |
 | [Windows Ad](../it-and-development/security-and-compliance/windows-ad.md) | Run authorized Active Directory attacks: Kerberos, AD CS, BloodHound, NTLM relay. |
-| [Incident Response Planning Assistant](../legal/security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
+| [Logistics Compliance Tracker](security-and-compliance/logistics-compliance-tracker.md) | Keeps logistics operations compliant by tracking, analyzing, and communicating regulatory changes. |
 
 [All 202 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -237,8 +237,8 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 |---|---|
 | [Multimodal Whisper](../it-and-development/speech-to-text/multimodal-whisper.md) | Transcribe audio to text using Whisper, supporting 99 languages and translation to English. |
 | [Document Structure Analyzer](../it-and-development/speech-to-text/document-structure-analyzer.md) | Analyzes document layouts and maps content hierarchy before OCR processing. |
-| [Audio Transcriber](speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
 | [Transcribe](speech-to-text/transcribe.md) | Transcribes audio files to text with optional speaker labels. |
+| [Audio Transcriber](speech-to-text/audio-transcriber.md) | Transcribe audio to Markdown with speaker IDs and summaries. |
 | [Ocr Preprocessing Optimizer](../it-and-development/speech-to-text/ocr-preprocessing-optimizer.md) | Optimizes images for maximum OCR accuracy through preprocessing and enhancement. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Visual Analysis Ocr](../it-and-development/speech-to-text/visual-analysis-ocr.md) | Extracts text from images into markdown preserving structure and formatting. |
 | [Transcription Services Assistant](speech-to-text/transcription-services-assistant.md) | Turns audio and video files into accurate, formatted text for data entry specialists. |
@@ -284,8 +284,8 @@ Processes, logistics and the systems that run a business. **2,129 ready-made Gro
 | [Command Center Ui](../it-and-development/design/command-center-ui.md) | Generate dark-themed monitoring UI code for NOCs and global maps. |
 | [Screenshot Reviewer](design/screenshot-reviewer.md) | Reviews task lists against screenshots for completeness, consistency, and quality. |
 | [Process Design Innovation Assistant](../product-development/design/process-design-innovation-assistant.md) | Innovation partner for process engineers, turning data and ideas into better designs. |
-| [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Chemical Plant Design Assistant](../science-and-research/design/chemical-plant-design-assistant.md) | Supports chemical engineers with plant design tasks from material selection to troubleshooting. |
+| [Warehouse Flow Architect](design/warehouse-flow-architect.md) | Optimizes warehouse layouts for space, flow, safety, and future growth. |
 | [Site Layout Planner](../real-estate-and-construction/design/site-layout-planner.md) | Optimizes construction site layouts and utilization for contractors. |
 
 ## Prompt Engineering

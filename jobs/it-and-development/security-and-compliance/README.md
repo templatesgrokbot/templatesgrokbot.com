@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 469 Grok Bot templates, 454 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 470 Grok Bot templates, 455 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,6 +19,7 @@ Authorised security testing, audits and regulatory work. 469 Grok Bot templates,
 | [Ad Security Reviewer](ad-security-reviewer.md) | Audits Active Directory security posture and identifies privilege escalation risks from exported evidence. |
 | [Admin Access Register Builder](admin-access-register-builder.md) | Builds a register of who holds admin rights on each system, with backup admins and review dates. |
 | [Aegisops Ai](aegisops-ai.md) | Autonomous DevSecOps & FinOps guardrails for kernel patches, Terraform costs, and K8s compliance. |
+| [Agent Decision Receipts](agent-decision-receipts.md) | Mint and verify tamper-evident, post-quantum-signed receipts for consequential agent actions. |
 | [Agentic Actions Auditor](agentic-actions-auditor.md) | Static audit of GitHub Actions workflows for AI agent injection vectors. |
 | [Agentic Identity Trust Architect](agentic-identity-trust-architect.md) | Designs identity, delegation and audit systems that let autonomous agents prove who they are and what they did. |
 | [Ai Agent Audit Specialist](ai-agent-audit-specialist.md) | Designs tamper-evident audit trails for AI coding agents in regulated environments. |

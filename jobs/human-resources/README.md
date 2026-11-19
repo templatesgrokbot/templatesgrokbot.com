@@ -50,11 +50,11 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Offer Comparison Analyzer](data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Resume Ats Optimizer](data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
-| [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
-| [Feedback and Evaluation Systems Assistant](data-analysis/feedback-and-evaluation-systems-assistant.md) | Turns employee feedback and evaluation data into clear reports and improvement plans for training managers. |
+| [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
+| [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
 | [Employee Template Analytics Assistant](data-analysis/employee-template-analytics-assistant.md) | Analyzes employee strengths, finds gaps, and plans development for HR teams. |
-| [HR Reporting and Analytics Assistant](data-analysis/hr-reporting-and-analytics-assistant.md) | Turns HRIS data into reports, dashboards, and insights for HR decisions. |
+| [Feedback and Evaluation Systems Assistant](data-analysis/feedback-and-evaluation-systems-assistant.md) | Turns employee feedback and evaluation data into clear reports and improvement plans for training managers. |
 
 [All 156 Data Analysis templates →](data-analysis/README.md)
 
@@ -63,8 +63,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
-| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Resume Tailor](../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Resume Section Builder](writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
@@ -94,8 +94,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 |---|---|
 | [Protected Disclosure Compass](../legal/security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
 | [Labor Compliance Advisor](security-and-compliance/labor-compliance-advisor.md) | Labor law compliance guidance and documentation for CHROs. |
-| [Compliance Training Update Assistant](security-and-compliance/compliance-training-update-assistant.md) | Keeps compliance training current, engaging, and tailored to your organization's needs. |
 | [Year-End Payroll Reconciliation Assistant](../finance/security-and-compliance/year-end-payroll-reconciliation-assistant.md) | Reconciles year-end payroll data, verifies compliance, and prepares tax forms and reports. |
+| [Compliance Training Update Assistant](security-and-compliance/compliance-training-update-assistant.md) | Keeps compliance training current, engaging, and tailored to your organization's needs. |
 | [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Compensation Compliance Navigator](security-and-compliance/compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Employee Classification Advisor](../finance/security-and-compliance/employee-classification-advisor.md) | Guides payroll administrators through employee classification decisions and compliance. |

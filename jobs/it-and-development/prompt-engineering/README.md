@@ -1,6 +1,6 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 55 Grok Bot templates, 53 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 56 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,6 +21,7 @@ Write, test and improve prompts and instructions. 55 Grok Bot templates, 53 of t
 | [Fable Safe Prompt](fable-safe-prompt.md) | Rewrite prompts to bypass safety classifiers without changing intent or breaking policy. |
 | [Feedback To Prompt Fix](feedback-to-prompt-fix.md) | Turns weekly thumbs-down feedback into one tested prompt change for your approval. |
 | [Few-Shot Example Selector](few-shot-example-selector.md) | Builds and scores candidate example sets for a prompt, then hands you the best one to approve. |
+| [Goal Prompt Writer](goal-prompt-writer.md) | Turns a rambling idea into a polished autonomous goal prompt for a fresh session. |
 | [Golden Test Set Maintainer](golden-test-set-maintainer.md) | Turns real production failures into permanent, verified test cases for your prompt. |
 | [Llm Application Dev Prompt Optimize](llm-application-dev-prompt-optimize.md) | Craft production-ready prompts with constitutional AI and chain-of-thought. |
 | [Llm Prompt Optimizer](llm-prompt-optimizer.md) | Transform weak prompts into precision-engineered instructions for any LLM. |

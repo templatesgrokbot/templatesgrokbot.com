@@ -1,6 +1,6 @@
 # Productivity templates for Creatives
 
-Plan, prioritise and clear the recurring admin. 67 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 68 Grok Bot templates, 57 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -31,6 +31,7 @@ Plan, prioritise and clear the recurring admin. 67 Grok Bot templates, 57 of the
 | [Creative Handoff Packaging](creative-handoff-packaging.md) | Turns a client delivery checklist into a validated package with a manifest, ready for your approval. |
 | [Cue Sheet Filing Assistant](cue-sheet-filing-assistant.md) | Builds and files a complete cue sheet that matches your agreements and the society's format. |
 | [Day Player Call Sheet Prep](day-player-call-sheet-prep.md) | Builds a one-page prep list from the latest call sheet, sides and wardrobe notes. |
+| [Deep Work Day Planner](../../it-and-development/productivity/deep-work-day-planner.md) | Plans a deep-work day: classifies tasks, time-blocks focus, budgets shallow work, and tracks sessions. |
 | [Design Review Action Follow-through](design-review-action-follow-through.md) | Turns design critique comments into owned, tracked actions and closes them with evidence and lead approval. |
 | [Director Note Cue Reviser](director-note-cue-reviser.md) | Turns director notes on demo cues into musical revisions that address every note on the first try. |
 | [Event Coverage Photographer Planner](event-coverage-photographer-planner.md) | Plans event photo coverage from shot lists to delivery, with backups and client updates. |

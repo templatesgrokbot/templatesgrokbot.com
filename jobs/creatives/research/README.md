@@ -1,6 +1,6 @@
 # Research templates for Creatives
 
-Find sources, compare evidence and summarise what is known. 27 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 28 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Find sources, compare evidence and summarise what is known. 27 Grok Bot template
 | [Pitch Competitor Positioning Scan](pitch-competitor-positioning-scan.md) | Checks pitch concepts against the prospect's and rivals' recent work before the deck goes out. |
 | [Portfolio Claim Evidence Checker](portfolio-claim-evidence-checker.md) | Checks every portfolio claim and client mention against evidence and permission before you publish. |
 | [Seasonal Trend Board Builder](seasonal-trend-board-builder.md) | Turns runway, retail, search and sales signals into a sourced trend board for one season. |
+| [Short Drama Benchmarker](short-drama-benchmarker.md) | 拆解对标短剧成片，反推剧本与制作文档，同尺对照找差距。 |
 | [Soundtrack Genre Analyst](soundtrack-genre-analyst.md) | Analyzes film and game soundtrack genres to guide your composing decisions. |
 | [Stock Photo Finder](stock-photo-finder.md) | Searches free stock photo sites and filters by license, orientation, and color. |
 | [Usability Testing Assistant](usability-testing-assistant.md) | Turns usability test data into prioritized design fixes and reports for UX/UI designers. |

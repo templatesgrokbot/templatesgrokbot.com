@@ -1,6 +1,6 @@
 # Grok Bot templates for Sales
 
-Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Prospecting, pipeline and closing. **584 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -18,7 +18,7 @@ Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for thi
 | [Productivity](productivity/README.md) | 26 |
 | [Writing & Content](writing-and-content/README.md) | 19 |
 | [Security & Compliance](security-and-compliance/README.md) | 13 |
-| [Social Media](social-media/README.md) | 10 |
+| [Social Media](social-media/README.md) | 11 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 8 |
 | [Support & Community](support-and-community/README.md) | 7 |
 | [Office Tools](office-tools/README.md) | 6 |
@@ -51,8 +51,8 @@ Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for thi
 |---|---|
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
+| [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
 | [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Pharma Feedback Collector](data-analysis/pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |
@@ -148,7 +148,7 @@ Prospecting, pipeline and closing. **583 ready-made Grok Bot templates** for thi
 | [Social Media Management Assistant](social-media/social-media-management-assistant.md) | Plans, creates, and manages social media content and engagement for digital marketing managers. |
 | [Brand Reputation Sentinel](social-media/brand-reputation-sentinel.md) | Monitors and manages your brand's online reputation across platforms. |
 
-[All 10 Social Media templates →](social-media/README.md)
+[All 11 Social Media templates →](social-media/README.md)
 
 ## Teaching & Tutoring
 

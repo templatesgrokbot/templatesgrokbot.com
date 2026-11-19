@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **910 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **911 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,7 +16,7 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 73 |
 | [Security & Compliance](security-and-compliance/README.md) | 50 |
 | [Coding](coding/README.md) | 44 |
-| [Productivity](productivity/README.md) | 41 |
+| [Productivity](productivity/README.md) | 42 |
 | [Writing & Content](writing-and-content/README.md) | 23 |
 | [Knowledge Management](knowledge-management/README.md) | 16 |
 | [Cloud & DevOps](cloud-and-devops/README.md) | 15 |
@@ -37,8 +37,8 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
-| [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
+| [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
@@ -54,11 +54,11 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
-| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
-| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
-| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
+| [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
+| [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
+| [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
 
 [All 248 Research templates →](research/README.md)
 
@@ -88,7 +88,7 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | [Chemical Safety Information Manager](security-and-compliance/chemical-safety-information-manager.md) | Manages chemical safety data, procedures, and compliance for biochemistry labs. |
 | [Consultant Compliance Research](security-and-compliance/consultant-compliance-research.md) | Environmental compliance research, audits, permits, training, and reporting support for consultants. |
 | [Laboratory Safety and Protocol Design Assistant](security-and-compliance/laboratory-safety-and-protocol-design-assistant.md) | Designs and maintains lab safety protocols, training, and compliance for microbiologists. |
-| [Lab Safety Checklist Generator](security-and-compliance/lab-safety-checklist-generator.md) | Generates and verifies lab safety compliance checklists for laboratory technicians. |
+| [Environmental Monitoring Manager](security-and-compliance/environmental-monitoring-manager.md) | Environmental monitoring assistant for laboratory managers, from data collection to compliance and audits. |
 
 [All 50 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -120,7 +120,7 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
 | [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
 
-[All 41 Productivity templates →](productivity/README.md)
+[All 42 Productivity templates →](productivity/README.md)
 
 ## Writing & Content
 
@@ -162,8 +162,8 @@ Scientists, analysts and academic researchers. **910 ready-made Grok Bot templat
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
 | [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
-| [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
+| [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
 

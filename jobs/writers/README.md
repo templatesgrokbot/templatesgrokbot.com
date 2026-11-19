@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **382 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **383 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,8 +15,8 @@ Authors, copywriters, editors and journalists. **382 ready-made Grok Bot templat
 | [Research](research/README.md) | 54 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 34 |
 | [Data Analysis](data-analysis/README.md) | 13 |
+| [Productivity](productivity/README.md) | 12 |
 | [Knowledge Management](knowledge-management/README.md) | 11 |
-| [Productivity](productivity/README.md) | 11 |
 | [Social Media](social-media/README.md) | 10 |
 | [Translation](translation/README.md) | 10 |
 | [Design](design/README.md) | 8 |
@@ -351,6 +351,23 @@ Authors, copywriters, editors and journalists. **382 ready-made Grok Bot templat
 | [Text Analysis Transformer](data-analysis/text-analysis-transformer.md) | Analyzes text files for word and character statistics and applies basic transformations on demand. |
 | [Trend Analysis Content Assistant](data-analysis/trend-analysis-content-assistant.md) | Turns trend data into content-ready insights and reports for writers. |
 
+## Productivity
+
+| Template | What it does |
+|---|---|
+| [Author Query Submission Tracker](productivity/author-query-submission-tracker.md) | Keeps every agent query on schedule, on guideline, and only sends what you approve. |
+| [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
+| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Content Design Review Scheduler](productivity/content-design-review-scheduler.md) | Collects copy review requests, ranks them, and proposes a review schedule for your approval. |
+| [Deep Work Day Planner](../it-and-development/productivity/deep-work-day-planner.md) | Plans a deep-work day: classifies tasks, time-blocks focus, budgets shallow work, and tracks sessions. |
+| [Editorial Calendar Management Assistant](../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
+| [Grant Attachment Packet Builder](productivity/grant-attachment-packet-builder.md) | Builds a funder-compliant attachment packet and chases missing items before the deadline. |
+| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
+| [Pilot Rewrite Pass Tracker](productivity/pilot-rewrite-pass-tracker.md) | Maps every producer note to its scenes, tracks each rewrite pass, and reports what is done, partly done or missed. |
+| [Script Submission Tracker](productivity/script-submission-tracker.md) | Checks each script submission against target rules, drafts queries, and tracks replies to follow-up. |
+| [SME Review Chase Coordinator](productivity/sme-review-chase-coordinator.md) | Tracks every draft out for review, chases reviewers on schedule, and resolves comments before merge. |
+| [Writers Room Episode Tracker](productivity/writers-room-episode-tracker.md) | Tracks every episode's stage, flags stalled drafts, and proposes balanced assignments for showrunner approval. |
+
 ## Knowledge Management
 
 | Template | What it does |
@@ -366,22 +383,6 @@ Authors, copywriters, editors and journalists. **382 ready-made Grok Bot templat
 | [Script Notes Consolidation](knowledge-management/script-notes-consolidation.md) | Gathers every script note, maps it to scenes, and tracks each one to resolution in the next draft. |
 | [Story Archive Linking Assistant](knowledge-management/story-archive-linking-assistant.md) | Finds relevant past coverage for new drafts and proposes links with background notes for editor approval. |
 | [X Post to Markdown](knowledge-management/x-post-to-markdown.md) | Converts X posts, threads and articles into clean markdown files with front matter. |
-
-## Productivity
-
-| Template | What it does |
-|---|---|
-| [Author Query Submission Tracker](productivity/author-query-submission-tracker.md) | Keeps every agent query on schedule, on guideline, and only sends what you approve. |
-| [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
-| [Content Design Review Scheduler](productivity/content-design-review-scheduler.md) | Collects copy review requests, ranks them, and proposes a review schedule for your approval. |
-| [Editorial Calendar Management Assistant](../pr-and-communications/productivity/editorial-calendar-management-assistant.md) | Plan, schedule, and optimize your editorial calendar with AI assistance. |
-| [Grant Attachment Packet Builder](productivity/grant-attachment-packet-builder.md) | Builds a funder-compliant attachment packet and chases missing items before the deadline. |
-| [Obsidian Clipper Template Creator](../operations/productivity/obsidian-clipper-template-creator.md) | Builds importable Obsidian Web Clipper JSON templates from real page analysis. |
-| [Pilot Rewrite Pass Tracker](productivity/pilot-rewrite-pass-tracker.md) | Maps every producer note to its scenes, tracks each rewrite pass, and reports what is done, partly done or missed. |
-| [Script Submission Tracker](productivity/script-submission-tracker.md) | Checks each script submission against target rules, drafts queries, and tracks replies to follow-up. |
-| [SME Review Chase Coordinator](productivity/sme-review-chase-coordinator.md) | Tracks every draft out for review, chases reviewers on schedule, and resolves comments before merge. |
-| [Writers Room Episode Tracker](productivity/writers-room-episode-tracker.md) | Tracks every episode's stage, flags stalled drafts, and proposes balanced assignments for showrunner approval. |
 
 ## Social Media
 

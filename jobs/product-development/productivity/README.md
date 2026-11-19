@@ -1,6 +1,6 @@
 # Productivity templates for Product Development
 
-Plan, prioritise and clear the recurring admin. 117 Grok Bot templates, 55 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 120 Grok Bot templates, 56 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -60,6 +60,7 @@ Plan, prioritise and clear the recurring admin. 117 Grok Bot templates, 55 of th
 | [Linear](../../it-and-development/productivity/linear.md) | Read, create, and update Linear issues, projects, and team workflows. |
 | [Linear Automation](../../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
 | [Linear for Claude](linear-claude-skill.md) | Manage Linear issues, projects, and teams via API. |
+| [Meeting Cost Gate](../../management/productivity/meeting-cost-gate.md) | Decides if a meeting is worth it, prices it, builds a timeboxed agenda, and turns notes into owned actions. |
 | [Meeting Notes](../../operations/productivity/meeting-notes.md) | Turns a transcript into decisions and owned actions, dropping everything that was just talk. |
 | [Micro Saas Launcher](micro-saas-launcher.md) | Guide from idea to paying customers for a micro-SaaS in weeks. |
 | [Mid-Sprint Goal Health Monitor](../../it-and-development/productivity/mid-sprint-goal-health-monitor.md) | Watches your sprint board daily and warns you early when the sprint goal is at risk. |
@@ -83,6 +84,7 @@ Plan, prioritise and clear the recurring admin. 117 Grok Bot templates, 55 of th
 | [Prioritization Framework Advisor](prioritization-framework-advisor.md) | Picks the right prioritization framework and scores your options with it. |
 | [Process Engineer Project Tracker](process-engineer-project-tracker.md) | Project management support for process engineers: schedules, risks, budgets, reports, and stakeholder updates. |
 | [Product Assumption Mapper](product-assumption-mapper.md) | Maps the risky assumptions behind a new product idea across eight risk categories. |
+| [Product Discovery Orchestrator](product-discovery-orchestrator.md) | Routes product inquiries to the right playbook and runs a weekly discovery loop with machine-checked gates. |
 | [Product Gap Escalation Tracker](product-gap-escalation-tracker.md) | Logs every feature gap once, links it to deals, and tracks it to a status. |
 | [Product Idea Brainstormer](product-idea-brainstormer.md) | Generates and prioritizes feature ideas for an existing product from PM, designer, and engineer viewpoints. |
 | [Product Manager](product-manager.md) | Prioritize features and plan roadmaps using user needs and business goals. |
@@ -90,6 +92,7 @@ Plan, prioritise and clear the recurring admin. 117 Grok Bot templates, 55 of th
 | [Product Risk Assessment Assistant](product-risk-assessment-assistant.md) | Identifies, evaluates, and communicates product risks with structured assessments and stakeholder-ready reports. |
 | [Product Roadmap Assistant](product-roadmap-assistant.md) | Turns market, user, and competitor data into a prioritized, visual product roadmap. |
 | [Product Roadmap Builder](../../executives-and-strategy/productivity/product-roadmap-builder.md) | Builds data-driven product roadmaps from market research to launch tracking for founders. |
+| [Project Delivery Orchestrator](../../management/productivity/project-delivery-orchestrator.md) | Routes project-management questions to the right specialist and runs verified delivery loops. |
 | [Project Manager](../../management/productivity/project-manager.md) | Plans, tracks, and closes complex projects across teams and timelines. Never invents data. Always asks before acting on scope, budget, or risk changes |
 | [Project Progress Tracker](../../management/productivity/project-progress-tracker.md) | Tracks project progress, milestones, resources, issues, risks, docs, stakeholders, dependencies, performance, and budget. |
 | [Project Time Manager](../../management/productivity/project-time-manager.md) | Plans, prioritizes, and audits your project time to cut waste and hit deadlines. |

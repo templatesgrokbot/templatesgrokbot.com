@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10644,
+ "count": 10674,
  "templates": [
   {
    "slug": "007",
@@ -2226,6 +2226,23 @@
    "url": "https://templatesgrokbot.com/bot/advanced-sql-advisor-for-dbas"
   },
   {
+   "slug": "adversarial-change-reviewer",
+   "name": "Adversarial Change Reviewer",
+   "tagline": "Adversarial review that keeps only findings proven by a run against your code or design.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "design"
+   ],
+   "path": "jobs/it-and-development/coding/adversarial-change-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/adversarial-change-reviewer",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/interrogate",
+   "source_license": "MIT"
+  },
+  {
    "slug": "adversarial-code-reviewer",
    "name": "Adversarial Code Reviewer",
    "tagline": "Reviews recent code changes through three hostile reviewer personas and returns a merge verdict.",
@@ -2840,6 +2857,22 @@
    "path": "jobs/management/generative-ai-and-llm/agent-coordination-board.md",
    "url": "https://templatesgrokbot.com/bot/agent-coordination-board",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/board",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "agent-decision-receipts",
+   "name": "Agent Decision Receipts",
+   "tagline": "Mint and verify tamper-evident, post-quantum-signed receipts for consequential agent actions.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/agent-decision-receipts.md",
+   "url": "https://templatesgrokbot.com/bot/agent-decision-receipts",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/skills/agent-decision-receipts",
    "source_license": "MIT"
   },
   {
@@ -18538,6 +18571,22 @@
    "url": "https://templatesgrokbot.com/bot/bug-repro"
   },
   {
+   "slug": "bug-repro-and-fix",
+   "name": "Bug Repro and Fix",
+   "tagline": "Reproduce Slack-reported bugs, verify fixes, and open a draft PR only after proof.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/bug-repro-and-fix.md",
+   "url": "https://templatesgrokbot.com/bot/bug-repro-and-fix",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/automations/benny/skills/reproduce-and-fix-issues",
+   "source_license": "MIT"
+  },
+  {
    "slug": "bugcrowd-submission-assistant",
    "name": "Bugcrowd Submission Assistant",
    "tagline": "Files Bugcrowd submissions with VRT fallback, severity overrides, and OOS rebuttals.",
@@ -26890,6 +26939,22 @@
    "path": "jobs/it-and-development/cloud-and-devops/cloud-architect.md",
    "url": "https://templatesgrokbot.com/bot/cloud-architect",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/cloud-architect",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "cloud-cost-analyzer",
+   "name": "Cloud Cost Analyzer",
+   "tagline": "Analyzes AWS, Azure, or Google Cloud FOCUS billing exports for cost allocation, commitment optimization, and anomaly detection.",
+   "category": "finance",
+   "jobs": [
+    "finance"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/finance/data-analysis/cloud-cost-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/cloud-cost-analyzer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/cloud-finops/skills/cloud-finops",
    "source_license": "MIT"
   },
   {
@@ -45389,6 +45454,25 @@
    "source_license": "MIT"
   },
   {
+   "slug": "deep-work-day-planner",
+   "name": "Deep Work Day Planner",
+   "tagline": "Plans a deep-work day: classifies tasks, time-blocks focus, budgets shallow work, and tracks sessions.",
+   "category": "personal",
+   "jobs": [
+    "it-and-development",
+    "writers",
+    "science-and-research",
+    "creatives"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/deep-work-day-planner.md",
+   "url": "https://templatesgrokbot.com/bot/deep-work-day-planner",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work/skills/deep-work",
+   "source_license": "MIT"
+  },
+  {
    "slug": "deepapi",
    "name": "Deepapi",
    "tagline": "Scrape, research, and email via DeepAPI with explicit credentials and approval.",
@@ -51206,6 +51290,23 @@
    "path": "jobs/marketing/marketing-and-growth/douyin-growth-strategist.md",
    "url": "https://templatesgrokbot.com/bot/douyin-growth-strategist",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-douyin-strategist",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "douyin-video-search",
+   "name": "Douyin Video Search",
+   "tagline": "Searches Douyin by keyword and returns structured video data with stats, hashtags, and download links.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/douyin-video-search.md",
+   "url": "https://templatesgrokbot.com/bot/douyin-video-search",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/douyin-video-search",
    "source_license": "MIT"
   },
   {
@@ -65870,6 +65971,38 @@
    "url": "https://templatesgrokbot.com/bot/form-validation-edge-case-checker"
   },
   {
+   "slug": "formal-verification-generator",
+   "name": "Formal Verification Generator",
+   "tagline": "Finds the code where a bug costs most, formally verifies one property, and leaves a reusable check.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/formal-verification-generator.md",
+   "url": "https://templatesgrokbot.com/bot/formal-verification-generator",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/create-formal-verification-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "formal-verification-maintainer",
+   "name": "Formal Verification Maintainer",
+   "tagline": "Keeps formal verification aligned with code after changes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/formal-verification-maintainer.md",
+   "url": "https://templatesgrokbot.com/bot/formal-verification-maintainer",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/maintain-formal-verification-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "format-and-layout-optimizer",
    "name": "Format and Layout Optimizer",
    "tagline": "Optimizes content format and layout for readability, engagement, and accessibility.",
@@ -70695,6 +70828,22 @@
    "url": "https://templatesgrokbot.com/bot/goal-loop",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "goal-prompt-writer",
+   "name": "Goal Prompt Writer",
+   "tagline": "Turns a rambling idea into a polished autonomous goal prompt for a fresh session.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/prompt-engineering/goal-prompt-writer.md",
+   "url": "https://templatesgrokbot.com/bot/goal-prompt-writer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/fable-goal/skills/fable-goal",
+   "source_license": "MIT"
   },
   {
    "slug": "goal-verification-loop",
@@ -79886,6 +80035,23 @@
    "path": "jobs/marketing/social-media/instagram-post-comments.md",
    "url": "https://templatesgrokbot.com/bot/instagram-post-comments",
    "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-post-comments",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "instagram-profile-fetcher",
+   "name": "Instagram Profile Fetcher",
+   "tagline": "Fetch Instagram profile metadata like bio, follower counts, and verification status.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "coding"
+   ],
+   "path": "jobs/marketing/social-media/instagram-profile-fetcher.md",
+   "url": "https://templatesgrokbot.com/bot/instagram-profile-fetcher",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/social-listening/instagram-profile-meta",
    "source_license": "MIT"
   },
   {
@@ -90673,6 +90839,26 @@
    "source_license": "MIT"
   },
   {
+   "slug": "linkedin-engagement-planner",
+   "name": "LinkedIn Engagement Planner",
+   "tagline": "Builds a safe LinkedIn comment roster and one personalized outreach message at a time.",
+   "category": "marketing",
+   "jobs": [
+    "marketing",
+    "sales"
+   ],
+   "topics": [
+    "social-media",
+    "sales-and-negotiation",
+    "writing-and-content",
+    "productivity"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-engagement-planner.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-engagement-planner",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing/linkedin/skills/linkedin-engagement",
+   "source_license": "MIT"
+  },
+  {
    "slug": "linkedin-engager-analyzer",
    "name": "LinkedIn Engager Analyzer",
    "tagline": "Pulls who liked or commented on your LinkedIn posts and segments them by ICP fit.",
@@ -90727,6 +90913,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "linkedin-post-analyzer",
+   "name": "LinkedIn Post Analyzer",
+   "tagline": "Analyzes your own LinkedIn post data, reports medians, tests patterns, and sizes experiments without over-concluding.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/data-analysis/linkedin-post-analyzer.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-post-analyzer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing/linkedin/skills/linkedin-analytics",
+   "source_license": "MIT"
+  },
+  {
    "slug": "linkedin-post-writer",
    "name": "Linkedin Post Writer",
    "tagline": "Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing.",
@@ -90745,6 +90947,24 @@
    "url": "https://templatesgrokbot.com/bot/linkedin-post-writer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "linkedin-presence-builder",
+   "name": "LinkedIn Presence Builder",
+   "tagline": "Grow an authentic LinkedIn presence with profile, content, engagement, and analytics guidance.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "writing-and-content",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-presence-builder.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-presence-builder",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing/linkedin/skills/linkedin-skills",
+   "source_license": "MIT"
   },
   {
    "slug": "linkedin-profile-optimizer",
@@ -90801,6 +91021,22 @@
    "path": "jobs/writers/writing-and-content/linkedin-story-interviewer.md",
    "url": "https://templatesgrokbot.com/bot/linkedin-story-interviewer",
    "adapted_from": "https://github.com/sergebulaev/linkedin-skills/tree/main/.codex-marketplace/linkedin-skills/skills/linkedin-interviewer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "linkedin-strategy-planner",
+   "name": "LinkedIn Strategy Planner",
+   "tagline": "Builds a sustainable LinkedIn content strategy: positioning, cadence, and newsletter viability.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/linkedin-strategy-planner.md",
+   "url": "https://templatesgrokbot.com/bot/linkedin-strategy-planner",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/marketing/linkedin/skills/linkedin-strategy",
    "source_license": "MIT"
   },
   {
@@ -98978,6 +99214,23 @@
    ],
    "path": "jobs/finance/productivity/meeting-coordination-assistant.md",
    "url": "https://templatesgrokbot.com/bot/meeting-coordination-assistant"
+  },
+  {
+   "slug": "meeting-cost-gate",
+   "name": "Meeting Cost Gate",
+   "tagline": "Decides if a meeting is worth it, prices it, builds a timeboxed agenda, and turns notes into owned actions.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "product-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/management/productivity/meeting-cost-gate.md",
+   "url": "https://templatesgrokbot.com/bot/meeting-cost-gate",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/meetings/skills/meetings",
+   "source_license": "MIT"
   },
   {
    "slug": "meeting-decision-reconciliation",
@@ -119381,6 +119634,23 @@
    "url": "https://templatesgrokbot.com/bot/postpartum-visit-route-planner"
   },
   {
+   "slug": "poteto-mode-coder",
+   "name": "Poteto Mode Coder",
+   "tagline": "Works in poteto's concise, verified style for coding tasks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/poteto-mode-coder.md",
+   "url": "https://templatesgrokbot.com/bot/poteto-mode-coder",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/poteto-mode",
+   "source_license": "MIT"
+  },
+  {
    "slug": "potty-training-home-school-alignment",
    "name": "Potty Training Home-School Alignment",
    "tagline": "Aligns home and school toilet routines for one child and tracks accidents until they drop.",
@@ -122865,6 +123135,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "product-discovery-orchestrator",
+   "name": "Product Discovery Orchestrator",
+   "tagline": "Routes product inquiries to the right playbook and runs a weekly discovery loop with machine-checked gates.",
+   "category": "operations",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "productivity",
+    "research",
+    "design"
+   ],
+   "path": "jobs/product-development/productivity/product-discovery-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/product-discovery-orchestrator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/product-team/skills/product-skills",
+   "source_license": "MIT"
+  },
+  {
    "slug": "product-diversification-strategist",
    "name": "Product Diversification Strategist",
    "tagline": "Guides product diversification from market research to launch and tracking.",
@@ -124656,6 +124944,23 @@
    ],
    "path": "jobs/management/data-analysis/project-data-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/project-data-analysis-assistant"
+  },
+  {
+   "slug": "project-delivery-orchestrator",
+   "name": "Project Delivery Orchestrator",
+   "tagline": "Routes project-management questions to the right specialist and runs verified delivery loops.",
+   "category": "operations",
+   "jobs": [
+    "management",
+    "product-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/management/productivity/project-delivery-orchestrator.md",
+   "url": "https://templatesgrokbot.com/bot/project-delivery-orchestrator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/project-management/skills/pm-skills",
+   "source_license": "MIT"
   },
   {
    "slug": "project-dependency-slip-alert",
@@ -146000,6 +146305,39 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "short-drama-benchmarker",
+   "name": "Short Drama Benchmarker",
+   "tagline": "拆解对标短剧成片，反推剧本与制作文档，同尺对照找差距。",
+   "category": "operations",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "research",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/research/short-drama-benchmarker.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-benchmarker",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-breakdown",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-coordinator",
+   "name": "Short Drama Coordinator",
+   "tagline": "Initializes and routes local short-drama projects, manages global config, and exports deliverables.",
+   "category": "operations",
+   "jobs": [
+    "management"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/management/productivity/short-drama-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-coordinator",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama",
+   "source_license": "MIT"
+  },
+  {
    "slug": "short-film-budget-breakdown",
    "name": "Short Film Budget Breakdown",
    "tagline": "Reads your finished short-film script, estimates scene costs, and finds approved rewrites that bring it within budget.",
@@ -162710,6 +163048,72 @@
    "source_license": "MIT"
   },
   {
+   "slug": "tiktok-hashtag-video-extractor",
+   "name": "TikTok Hashtag Video Extractor",
+   "tagline": "Scrapes TikTok hashtag video lists with full metadata via browser navigation.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/tiktok-hashtag-video-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/tiktok-hashtag-video-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/tiktok-hashtag-videos",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "tiktok-keyword-video-finder",
+   "name": "TikTok Keyword Video Finder",
+   "tagline": "Searches TikTok by keyword and returns paginated video lists with full metadata.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/tiktok-keyword-video-finder.md",
+   "url": "https://templatesgrokbot.com/bot/tiktok-keyword-video-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/tiktok-search-videos",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "tiktok-profile-video-collector",
+   "name": "TikTok Profile Video Collector",
+   "tagline": "Collects a TikTok user's profile info and full video list with engagement stats.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/social-media/tiktok-profile-video-collector.md",
+   "url": "https://templatesgrokbot.com/bot/tiktok-profile-video-collector",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/tiktok-profile-videos",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "tiktok-video-metadata-extractor",
+   "name": "TikTok Video Metadata Extractor",
+   "tagline": "Extracts full metadata from any public TikTok video URL.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/tiktok-video-metadata-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/tiktok-video-metadata-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/tiktok-video-detail",
+   "source_license": "MIT"
+  },
+  {
    "slug": "tile-design",
    "name": "Tile Design",
    "tagline": "Build sharp-cornered Metro UI tiles with horizontal scrolling and live data for web and mobile.",
@@ -172157,6 +172561,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "walmart-product-detail-extractor",
+   "name": "Walmart Product Detail Extractor",
+   "tagline": "Extracts complete structured product data from any Walmart product page.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/walmart-product-detail-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/walmart-product-detail-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/ecommerce/walmart-product-detail",
+   "source_license": "MIT"
+  },
+  {
    "slug": "walmart-review-extractor",
    "name": "Walmart Review Extractor",
    "tagline": "Extracts paginated customer reviews from Walmart product pages.",
@@ -173366,6 +173787,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "webhook-ui-builder",
+   "name": "Webhook UI Builder",
+   "tagline": "Builds a web page that wakes a Grok Bot via webhook, keeping keys server-side.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-code",
+    "coding",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/generative-code/webhook-ui-builder.md",
+   "url": "https://templatesgrokbot.com/bot/webhook-ui-builder",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/make-bot-ui",
+   "source_license": "MIT"
+  },
+  {
    "slug": "webinar-demand-engine",
    "name": "Webinar Demand Engine",
    "tagline": "Plans, promotes, and follows up on webinars so registrations turn into pipeline, not just attendance.",
@@ -173939,6 +174378,23 @@
    ],
    "path": "jobs/finance/data-analysis/weekly-profit-and-fee-review.md",
    "url": "https://templatesgrokbot.com/bot/weekly-profit-and-fee-review"
+  },
+  {
+   "slug": "weekly-review-coach",
+   "name": "Weekly Review Coach",
+   "tagline": "Runs your weekly GTD review: clears open loops, audits commitments, and gates completion honestly.",
+   "category": "personal",
+   "jobs": [
+    "management"
+   ],
+   "topics": [
+    "productivity",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/management/productivity/weekly-review-coach.md",
+   "url": "https://templatesgrokbot.com/bot/weekly-review-coach",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/weekly-review/skills/weekly-review",
+   "source_license": "MIT"
   },
   {
    "slug": "weekly-search-plan-assistant",
@@ -176577,6 +177033,40 @@
    "source_license": "MIT"
   },
   {
+   "slug": "youtube-channel-data-extractor",
+   "name": "YouTube Channel Data Extractor",
+   "tagline": "Extract structured video and channel data from any YouTube channel via API.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis",
+    "productivity"
+   ],
+   "path": "jobs/marketing/data-analysis/youtube-channel-data-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/youtube-channel-data-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/youtube-video-api-skill",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "youtube-channel-finder",
+   "name": "YouTube Channel Finder",
+   "tagline": "Extracts structured YouTube channel data from search results via BrowserAct API.",
+   "category": "research",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media",
+    "research"
+   ],
+   "path": "jobs/marketing/social-media/youtube-channel-finder.md",
+   "url": "https://templatesgrokbot.com/bot/youtube-channel-finder",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/youtube-channel-api-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "youtube-full",
    "name": "Youtube Full",
    "tagline": "Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI.",
@@ -176592,6 +177082,22 @@
    "url": "https://templatesgrokbot.com/bot/youtube-full",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "youtube-metrics-extractor",
+   "name": "YouTube Metrics Extractor",
+   "tagline": "Extract YouTube video and channel metrics from keyword searches.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "social-media"
+   ],
+   "path": "jobs/marketing/social-media/youtube-metrics-extractor.md",
+   "url": "https://templatesgrokbot.com/bot/youtube-metrics-extractor",
+   "adapted_from": "https://github.com/browser-act/skills/tree/main/solutions/video-platforms/youtube-api-skill",
+   "source_license": "MIT"
   },
   {
    "slug": "youtube-notetaker",

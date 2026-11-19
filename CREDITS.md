@@ -1,6 +1,6 @@
 # Credits
 
-4,125 of the 10,644 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+4,155 of the 10,674 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -10,15 +10,15 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [aitmpl.com](https://www.aitmpl.com) | 817 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md), [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/aitmpl-com.md) |
 | [github.com/bestagentkits/agency-skills](https://github.com/bestagentkits/agency-skills) | 306 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-bestagentkits-agency-skills.md) |
 | [github.com/OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 118 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-onewave-ai-claude-skills.md) |
+| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 72 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 65 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-elementalsouls-claude-bughunter.md) |
-| [github.com/browser-act/skills](https://github.com/browser-act/skills) | 62 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-browser-act-skills.md) |
 | [collectivebrain.de](https://collectivebrain.de) | 61 | [see the original](LICENSES/README.md) | [list](credits/collectivebrain-de.md) |
 | [github.com/claude-office-skills/skills](https://github.com/claude-office-skills/skills) | 52 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-claude-office-skills-skills.md) |
+| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 49 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
 | [github.com/nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 49 | [Apache-2.0](LICENSES/Apache-2.0.md) | [list](credits/github-com-nexu-io-html-anything.md) |
 | [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 46 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nanocoai-nanoclaw.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
 | [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 40 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
-| [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 37 | [MIT](LICENSES/MIT.md), [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-alirezarezvani-claude-skills.md) |
 | [github.com/wshobson/agents](https://github.com/wshobson/agents) | 33 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-wshobson-agents.md) |
 | [github.com/whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) | 25 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-whyashthakker-agent-skills-marketing.md) |
 | [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
@@ -44,6 +44,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | 7 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-davepoon-buildwithclaude.md) |
 | [github.com/sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) | 7 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-sanjay3290-ai-skills.md) |
 | [github.com/zxkane/aws-skills](https://github.com/zxkane/aws-skills) | 7 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zxkane-aws-skills.md) |
+| [github.com/backnotprop/pstack](https://github.com/backnotprop/pstack) | 6 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-backnotprop-pstack.md) |
 | [github.com/ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | 6 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-chriswiles-claude-code-showcase.md) |
 | [github.com/Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 6 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-egonex-ai-understand-anything.md) |
 | [github.com/fal-ai-community/skills](https://github.com/fal-ai-community/skills) | 6 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-fal-ai-community-skills.md) |
@@ -81,6 +82,7 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/Shpigford/skills](https://github.com/Shpigford/skills) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-shpigford-skills.md) |
 | [github.com/supabase/agent-skills](https://github.com/supabase/agent-skills) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-supabase-agent-skills.md) |
 | [github.com/zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 2 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zarazhangrui-frontend-slides.md) |
+| [github.com/zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 2 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-zenstory-ai-drama-skills.md) |
 | [aidevboard.com](https://aidevboard.com) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/aidevboard-com.md) |
 | [docs.convex.dev](https://docs.convex.dev) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/docs-convex-dev.md) |
 | [github.com/5dive-ai/skills](https://github.com/5dive-ai/skills) | 1 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-5dive-ai-skills.md) |

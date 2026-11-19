@@ -1,6 +1,6 @@
 # Social Media templates for Marketing
 
-Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and measure posts across networks. 138 Grok Bot templates, 119 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -23,6 +23,7 @@ Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of th
 | [Crisis Communication Manager](crisis-communication-manager.md) | Monitors social media, drafts crisis responses, and builds playbooks for social media coordinators. |
 | [Crisis Management Guide](crisis-management-guide.md) | Guides social media managers through every phase of a crisis, from monitoring to recovery. |
 | [Digital Crisis Management Assistant](../../sales/social-media/digital-crisis-management-assistant.md) | Monitors digital channels, drafts crisis responses, and runs simulations to protect your brand online. |
+| [Douyin Video Search](douyin-video-search.md) | Searches Douyin by keyword and returns structured video data with stats, hashtags, and download links. |
 | [Evergreen Content Recycling](evergreen-content-recycling.md) | Refills your content calendar with proven evergreen posts, fact-checked and spaced, with your approval on every batch. |
 | [EVP Social Media Command Center](../../executives-and-strategy/social-media/evp-social-media-command-center.md) | Plans, creates, and optimizes your social media strategy from calendar to crisis. |
 | [Facebook Group Post Scraper](facebook-group-post-scraper.md) | Scrapes posts from a Facebook group and returns structured metadata as JSON. |
@@ -38,6 +39,7 @@ Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of th
 | [Instagram Manager](instagram.md) | Manages publishing, comments, DMs, and analytics on Instagram via the Graph API. |
 | [Instagram Place Post Fetcher](instagram-place-post-fetcher.md) | Fetches Instagram posts tagged at a specific location and returns them as structured data. |
 | [Instagram Post Comments](instagram-post-comments.md) | Fetches and paginates comments from an Instagram post. |
+| [Instagram Profile Fetcher](instagram-profile-fetcher.md) | Fetch Instagram profile metadata like bio, follower counts, and verification status. |
 | [Instagram Profile Posts](instagram-profile-posts.md) | Fetches a public Instagram profile's posts with captions, media, counts, and locations. |
 | [Keyword Commenter](keyword-commenter.md) | Searches X for keyword tweets, writes contextual replies from your brand persona, and posts them after your approval. |
 | [Link-in-Bio Hub Builder](link-in-bio-hub-builder.md) | Plans, builds and tracks the single link page your social bios point to. |
@@ -48,10 +50,13 @@ Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of th
 | [Linkedin Content Generator](linkedin-content-generator.md) | Generate LinkedIn posts, carousels, newsletters, and 30-day calendars from a topic and niche. |
 | [LinkedIn Content Manager](linkedin-content-manager.md) | Plan, draft, audit, and publish LinkedIn posts and comments with approval. |
 | [LinkedIn Content Repurposer](linkedin-content-repurposer.md) | Turns your existing tweets, videos, or blogs into native LinkedIn posts that perform. |
+| [LinkedIn Engagement Planner](linkedin-engagement-planner.md) | Builds a safe LinkedIn comment roster and one personalized outreach message at a time. |
 | [LinkedIn Engager Analyzer](../../sales/social-media/linkedin-engager-analyzer.md) | Pulls who liked or commented on your LinkedIn posts and segments them by ICP fit. |
 | [LinkedIn Hook Analyzer](linkedin-hook-analyzer.md) | Analyze any viral LinkedIn post URL and get its hook formula, structure, and a blank template. |
 | [Linkedin Post Writer](linkedin-post-writer.md) | Draft LinkedIn posts using 16 hook formulas matched to engagement goals, then scrub for AI tells before publishing. |
+| [LinkedIn Presence Builder](linkedin-presence-builder.md) | Grow an authentic LinkedIn presence with profile, content, engagement, and analytics guidance. |
 | [LinkedIn Reply Drafter](linkedin-reply-drafter.md) | Drafts replies to LinkedIn comments or sweeps an entire thread for batch replies. |
+| [LinkedIn Strategy Planner](linkedin-strategy-planner.md) | Builds a sustainable LinkedIn content strategy: positioning, cadence, and newsletter viability. |
 | [Live Event Social Coverage](live-event-social-coverage.md) | Plans, tracks and drafts approved social posts for live event moments as the schedule shifts. |
 | [Live Post Compliance Monitor](live-post-compliance-monitor.md) | Checks every contracted creator post daily and fixes or escalates changes before the brand finds out. |
 | [Monthly Competitor Social Benchmark](monthly-competitor-social-benchmark.md) | Runs a monthly competitor social benchmark and drafts three test ideas for your approval. |
@@ -102,6 +107,10 @@ Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of th
 | [Tiktok Automation](tiktok-automation.md) | Upload, publish, and manage TikTok videos and photos via Composio's TikTok toolkit. |
 | [TikTok Content Planner](tiktok-content-planner.md) | Plans TikTok content, drafts scripts and captions, and reports performance from your own account data. |
 | [TikTok Content Strategist](tiktok-content-strategist.md) | Plans, scripts, and schedules TikTok content, then reports what actually performed. |
+| [TikTok Hashtag Video Extractor](tiktok-hashtag-video-extractor.md) | Scrapes TikTok hashtag video lists with full metadata via browser navigation. |
+| [TikTok Keyword Video Finder](tiktok-keyword-video-finder.md) | Searches TikTok by keyword and returns paginated video lists with full metadata. |
+| [TikTok Profile Video Collector](tiktok-profile-video-collector.md) | Collects a TikTok user's profile info and full video list with engagement stats. |
+| [TikTok Video Metadata Extractor](tiktok-video-metadata-extractor.md) | Extracts full metadata from any public TikTok video URL. |
 | [Trend Participation Vetter](trend-participation-vetter.md) | Vets a hashtag or trend's origin, meaning and risks before the brand joins it. |
 | [Tweet Search Collector](tweet-search-collector.md) | Searches X (Twitter) by advanced query and returns normalized tweet data with pagination. |
 | [Twitter Ai Influencer Manager](twitter-ai-influencer-manager.md) | Engages with AI thought leaders on Twitter by posting, searching, and analyzing content. |
@@ -133,5 +142,7 @@ Plan, write and measure posts across networks. 127 Grok Bot templates, 108 of th
 | [Xiaohongshu Profile Retriever](xiaohongshu-profile-retriever.md) | Fetches Xiaohongshu user profiles and published notes with engagement stats by user ID. |
 | [Xiaohongshu Search Assistant](xiaohongshu-search-assistant.md) | Search Xiaohongshu notes by keyword and return a paginated list with engagement stats. |
 | [Youtube Automation](youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
+| [YouTube Channel Finder](youtube-channel-finder.md) | Extracts structured YouTube channel data from search results via BrowserAct API. |
+| [YouTube Metrics Extractor](youtube-metrics-extractor.md) | Extract YouTube video and channel metrics from keyword searches. |
 
 [← All Marketing templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/marketing)

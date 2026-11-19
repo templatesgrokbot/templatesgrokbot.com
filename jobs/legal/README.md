@@ -53,8 +53,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
-| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
 | [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 
@@ -69,8 +69,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Refusal Reasons Analysis Planner](productivity/refusal-reasons-analysis-planner.md) | Turns a refusal letter into a ranked route plan with deadlines and evidence, ready for your approval. |
 | [Inventor Disclosure Intake](productivity/inventor-disclosure-intake.md) | Reads inventor disclosures, finds the gaps, and drafts the questions and filing recommendation for your approval. |
-| [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
 | [Transcript Delivery Package Checker](productivity/transcript-delivery-package-checker.md) | Checks every court transcript delivery package against the order before it goes out. |
+| [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
 | [Clerkship Application Tracker](productivity/clerkship-application-tracker.md) | Keeps every judicial clerkship application complete, correctly named and submitted on time. |
 
 [All 49 Productivity templates →](productivity/README.md)
@@ -82,8 +82,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Azure Ai Contentunderstanding Py](../it-and-development/data-analysis/azure-ai-contentunderstanding-py.md) | Extract structured content from documents, images, audio, and video using Azure AI. |
 | [Vendor Performance Analyst](data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Deal Room Risk Analyst](../finance/data-analysis/deal-room-risk-analyst.md) | Analyzes deal room documents to deliver due diligence, risk scoring, and negotiation recommendations. |
-| [Compliance Monitoring Inspector](data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [AML Due Diligence Drafter](data-analysis/aml-due-diligence-drafter.md) | Automates AML checks: due diligence, monitoring, screening, risk scoring, reporting, and audit prep. |
+| [Compliance Monitoring Inspector](data-analysis/compliance-monitoring-inspector.md) | Monitor, assess, and report on compliance activities with precision and clarity. |
 | [Pdf Processing Pro](../operations/data-analysis/pdf-processing-pro.md) | Extracts text, tables, and form data from PDFs with validation and batch processing. |
 | [E-Discovery Project Coordinator](data-analysis/e-discovery-project-coordinator.md) | Assists legal assistants with e-discovery tasks from collection to reporting. |
 | [Azure Ai Document Intelligence Ts](../it-and-development/data-analysis/azure-ai-document-intelligence-ts.md) | Extract text, tables, and structured data from documents using Azure AI. |
@@ -99,8 +99,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Data Room Builder](../finance/knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Evidence Organization Assistant](knowledge-management/evidence-organization-assistant.md) | Organizes, tracks, and prepares legal evidence for paralegals from collection to trial. |
 | [Document Structure Parser](../it-and-development/knowledge-management/document-structure-parser.md) | Turns PDFs, Word files and images into clean structured text, tables and figures. |
-| [Evidentiary Ruling Consistency Monitor](knowledge-management/evidentiary-ruling-consistency-monitor.md) | Logs trial evidentiary rulings and flags inconsistencies for the judge to address on the record. |
 | [Data Room Q&A Tracker](../finance/knowledge-management/data-room-q-a-tracker.md) | Logs every diligence question, drafts consistent answers, and escalates before due dates. |
+| [Evidentiary Ruling Consistency Monitor](knowledge-management/evidentiary-ruling-consistency-monitor.md) | Logs trial evidentiary rulings and flags inconsistencies for the judge to address on the record. |
 | [Rights Reversion Tracker](knowledge-management/rights-reversion-tracker.md) | Tracks subsidiary rights, flags conflicts, and drafts reversion requests before windows close. |
 
 [All 30 Knowledge Management templates →](knowledge-management/README.md)

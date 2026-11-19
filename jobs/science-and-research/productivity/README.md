@@ -1,6 +1,6 @@
 # Productivity templates for Science and Research
 
-Plan, prioritise and clear the recurring admin. 41 Grok Bot templates, 40 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 42 Grok Bot templates, 40 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Plan, prioritise and clear the recurring admin. 41 Grok Bot templates, 40 of the
 | [Collaborative Project Coordinator](collaborative-project-coordinator.md) | Coordinates collaborative project tasks, communication, and reporting for process development teams. |
 | [Conference Deadline And Funding Planner](conference-deadline-and-funding-planner.md) | Tracks conference and funding deadlines, builds one funded trip plan, and flags what is overdue. |
 | [CSR Planning Assistant](csr-planning-assistant.md) | Plans and manages corporate social responsibility initiatives from stakeholder input to impact reporting. |
+| [Deep Work Day Planner](../../it-and-development/productivity/deep-work-day-planner.md) | Plans a deep-work day: classifies tasks, time-blocks focus, budgets shallow work, and tracks sessions. |
 | [Ecosystem Restoration Planner](ecosystem-restoration-planner.md) | Plans ecosystem restoration projects from data gathering to long-term management. |
 | [Electrification Project Planner](electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Electron Microscopy Sample Scheduler](electron-microscopy-sample-scheduler.md) | Books microscope slots that fit each sample's preparation timeline and instrument limits. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **747 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **749 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -13,13 +13,13 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 |---|---:|
 | [Design](design/README.md) | 217 |
 | [Writing & Content](writing-and-content/README.md) | 74 |
-| [Productivity](productivity/README.md) | 67 |
+| [Productivity](productivity/README.md) | 68 |
 | [Generative Art](generative-art/README.md) | 52 |
 | [Generative Code](generative-code/README.md) | 47 |
 | [Coding](coding/README.md) | 37 |
 | [Video Editing](video-editing/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
-| [Research](research/README.md) | 27 |
+| [Research](research/README.md) | 28 |
 | [Social Media](social-media/README.md) | 26 |
 | [Office Tools](office-tools/README.md) | 22 |
 | [Data Analysis](data-analysis/README.md) | 20 |
@@ -42,13 +42,13 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Brandkit](design/brandkit.md) | Builds a complete brand board with logo concepts, color palette, typography, and mockups from a short briefing. |
+| [Sci Fi Interface](design/sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
-| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
 | [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Ui Pattern](design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
 
 [All 217 Design templates →](design/README.md)
@@ -72,8 +72,8 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Notion Template Business](productivity/notion-template-business.md) | Advise on building and selling Notion templates as a sustainable digital product business. |
+| [Brainstorming](../management/productivity/brainstorming.md) | Turns rough ideas into validated designs through structured dialogue, one question at a time. |
 | [Live Recording Supervisor](productivity/live-recording-supervisor.md) | Supervises live recording sessions for film scores, from setup to post-production. |
 | [Royalty and Rights Manager](productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Brain Dump Organizer](../management/productivity/brain-dump-organizer.md) | Turns a messy brain dump into organized projects, tasks, connections, and concrete next offers. |
@@ -81,7 +81,7 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 | [Self-Tape Submission Assistant](productivity/self-tape-submission-assistant.md) | Renames, exports and uploads your self-tapes, verifies playback and submits before the deadline. |
 | [Artwork Shipping Prep](../operations/productivity/artwork-shipping-prep.md) | Builds a shipment plan with the right packing, paperwork, insurance and carrier for each artwork. |
 
-[All 67 Productivity templates →](productivity/README.md)
+[All 68 Productivity templates →](productivity/README.md)
 
 ## Generative Art
 
@@ -171,7 +171,7 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 | [Location Scout Planner](research/location-scout-planner.md) | Finds, vets, and plans photo shoot locations with research and logistics. |
 | [Film Music Trend Analyst](research/film-music-trend-analyst.md) | Uncovers and analyzes film music genre trends, from historical shifts to emerging styles, for composers. |
 
-[All 27 Research templates →](research/README.md)
+[All 28 Research templates →](research/README.md)
 
 ## Social Media
 
@@ -182,8 +182,8 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 | [Youtube Automation](../marketing/social-media/youtube-automation.md) | Automate YouTube uploads, playlists, analytics, and comments via Rube MCP. |
 | [Xiaohongshu Content Strategist](../marketing/social-media/xiaohongshu-content-strategist.md) | Create Xiaohongshu content optimized for saves, CTR, and search SEO. |
 | [Xiaohongshu Card Deck Generator](../marketing/social-media/xiaohongshu-card-deck-generator.md) | Turns your content into a polished Xiaohongshu-style card deck ready to post. |
-| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Social Content Scheduling Planner](../marketing/social-media/social-content-scheduling-planner.md) | Plan and schedule your social media content calendar, from ideas to posting times. |
+| [Visual Storytelling Campaign Planner](../marketing/social-media/visual-storytelling-campaign-planner.md) | Plan, create, and refine visual stories for social media campaigns from curation to analytics. |
 | [Social Post Writer Seo](../marketing/social-media/social-post-writer-seo.md) | Writes platform-optimized social posts for Instagram, LinkedIn, and Facebook. |
 
 [All 26 Social Media templates →](social-media/README.md)
@@ -227,8 +227,8 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 | [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
-| [AI Video Producer](../marketing/generative-video/ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
 | [Beatra Video Studio](generative-video/beatra-video-studio.md) | Produces short AI video clips on Beatra with a cost card and your approval before every paid call. |
+| [AI Video Producer](../marketing/generative-video/ai-video-producer.md) | Plans, generates, and assembles marketing videos using AI models, avatars, and programmatic templates. |
 | [Remotion Video Renderer](generative-video/remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 
 [All 17 Generative Video templates →](generative-video/README.md)
@@ -244,7 +244,7 @@ Designers, artists and content creators. **747 ready-made Grok Bot templates** f
 | [Photo Editing Guidance Assistant](teaching-and-tutoring/photo-editing-guidance-assistant.md) | Guides photographers through editing tasks, from color correction to creative effects. |
 | [Photography Post-Processing Guide](teaching-and-tutoring/photography-post-processing-guide.md) | Guides photographers through post-processing techniques, from color correction to composite imaging. |
 | [Photography Techniques Advisor](teaching-and-tutoring/photography-techniques-advisor.md) | Get tailored photography guidance for composition, lighting, settings, and post-processing. |
-| [VFX Concept Advisor](teaching-and-tutoring/vfx-concept-advisor.md) | Guides video editors through VFX techniques, from keying to CGI integration. |
+| [Music Copyright Navigator](teaching-and-tutoring/music-copyright-navigator.md) | Guides vocal artists and songwriters through music copyright law, licensing, and royalties. |
 
 [All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Finance
 
-Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 496 |
+| [Data Analysis](data-analysis/README.md) | 497 |
 | [Productivity](productivity/README.md) | 102 |
 | [Security & Compliance](security-and-compliance/README.md) | 79 |
 | [Research](research/README.md) | 47 |
@@ -33,15 +33,15 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 | Template | What it does |
 |---|---|
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
-| [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Excel Analysis](data-analysis/excel-analysis.md) | Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. |
+| [Data Storytelling](../executives-and-strategy/data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Auction Market Analyst](data-analysis/auction-market-analyst.md) | Analyzes liquidity, discount, ROI, and exit strategies in real estate auctions. |
-| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [School Budget Analysis Assistant](../education/data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
+| [Financial Forecasting and Analysis Assistant](../executives-and-strategy/data-analysis/financial-forecasting-and-analysis-assistant.md) | Turns financial data into forecasts, budgets, and scenario insights for a VP of Finance. |
 | [Financial Performance Analyst](../executives-and-strategy/data-analysis/financial-performance-analyst.md) | Analyzes financial performance metrics, forecasts trends, and supports executive decisions. |
 
-[All 496 Data Analysis templates →](data-analysis/README.md)
+[All 497 Data Analysis templates →](data-analysis/README.md)
 
 ## Productivity
 
@@ -64,8 +64,8 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 |---|---|
 | [Regulatory Compliance Review Assistant](security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Finance Audit Readiness Tracker](../executives-and-strategy/security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
-| [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
+| [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
@@ -84,7 +84,7 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 | [Tax Code Interpretation Assistant](research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Tax Strategy Formulation Assistant](research/tax-strategy-formulation-assistant.md) | Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization. |
-| [Smart Money Tracker](research/smart-money-tracker.md) | Tracks what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX. |
+| [Investment Research Analyst](research/investment-research-analyst.md) | Builds institutional-grade investment research with bull and bear cases, valuation, and exit triggers. |
 
 [All 47 Research templates →](research/README.md)
 
@@ -122,8 +122,8 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Tax Software Utilization Guide](teaching-and-tutoring/tax-software-utilization-guide.md) | Guides tax analysts through every stage of tax software use, from setup to e-filing. |
+| [Warren Buffett](../education/teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Financial Training Assistant](teaching-and-tutoring/financial-training-assistant.md) | Explains finance concepts, builds models, analyzes statements, and supports financial decisions. |
 | [Real Estate Tax Advisory Assistant](teaching-and-tutoring/real-estate-tax-advisory-assistant.md) | Real estate tax guidance for analysts: classification, appeals, deductions, and planning. |
 | [Employee Financial Training Program Builder](teaching-and-tutoring/employee-financial-training-program-builder.md) | Builds and runs employee financial training programs, from workshops to assessments. |
@@ -165,8 +165,8 @@ Accounting, budgeting, analysis and risk. **828 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
+| [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Buyer Outreach Tracker](sales-and-negotiation/buyer-outreach-tracker.md) | Keeps the buyer list current and drafts follow-ups for overdue sale-process steps. |
 | [Account Closure Save Assistant](sales-and-negotiation/account-closure-save-assistant.md) | Flags at-risk account closures, drafts call plans, and tracks whether saved accounts stay open. |
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
