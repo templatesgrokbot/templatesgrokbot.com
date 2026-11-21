@@ -40,10 +40,10 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
 | [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
-| [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
+| [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
-| [Elementary Fun Fact Activity Maker](teaching-and-tutoring/elementary-fun-fact-activity-maker.md) | Turns fun facts into ready-to-use classroom activities for elementary teachers. |
+| [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 
 [All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
@@ -57,8 +57,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Course Scheduling Assistant](productivity/course-scheduling-assistant.md) | Automates course scheduling, recommendations, and updates for teaching assistants. |
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
-| [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
 | [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
+| [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
 
 [All 93 Productivity templates →](productivity/README.md)
 
@@ -70,8 +70,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Attendance Analysis Assistant](data-analysis/attendance-analysis-assistant.md) | Turns attendance records into reports, insights, and intervention plans for school principals. |
-| [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
 | [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
+| [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
 | [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
 
@@ -82,8 +82,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Crossframe Critical](../writers/writing-and-content/crossframe-critical.md) | Write structural critique essays in Chinese: build a CrossFrame draft first, then output the critique body. |
-| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [Training Module Developer](../customer-support/writing-and-content/training-module-developer.md) | Training module developer for user support specialists, from research to delivery. |
+| [Safety Training Program Developer](../operations/writing-and-content/safety-training-program-developer.md) | Develops and updates workplace safety training programs from research to assessment. |
 | [E-Learning Content Creator](writing-and-content/e-learning-content-creator.md) | Assists training coordinators in creating and refining e-learning content from research to delivery. |
 | [Parent Communication Drafter](writing-and-content/parent-communication-drafter.md) | Drafts all parent communication for elementary teachers, from welcome letters to end-of-year reflections. |
 | [Latex Paper Conversion](../science-and-research/writing-and-content/latex-paper-conversion.md) | Automates LaTeX paper conversion between publisher templates. |
@@ -99,8 +99,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Academic Researcher](../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 | [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [Youtube Notetaker](research/youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
-| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
+| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Survey Generator](../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
 | [Teacher Research Assistant](research/teacher-research-assistant.md) | Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication. |
 | [Research-to-Decision Assistant](research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |

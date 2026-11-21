@@ -1,6 +1,6 @@
 # Prompt Engineering templates for IT and Development
 
-Write, test and improve prompts and instructions. 56 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 57 Grok Bot templates, 55 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -52,6 +52,7 @@ Write, test and improve prompts and instructions. 56 Grok Bot templates, 54 of t
 | [Repo Instruction Writer](repo-instruction-writer.md) | Writes and maintains a concise, repo-specific instruction file for coding agents. |
 | [Senior Prompt Engineer](senior-prompt-engineer.md) | Optimizes prompts and designs LLM systems for production-grade AI products. |
 | [Short](short.md) | Turn an open-source agent playbook into a Grok Bot template for a public catalog. Return JSON only. Write for Grok Bot specifically: identity: 2-4 sen |
+| [Structural Lesson Encoder](structural-lesson-encoder.md) | Turns repeated instructions into structural checks and rules. |
 | [Template Author Review](template-author-review.md) | Drafts and reviews agent capability instructions so they trigger reliably and stay lean. |
 | [Template Builder](../../operations/prompt-engineering/template-skill.md) | Replace with description of the template and when Claude should use it. |
 | [Template Creator](skill-creator.md) | Guides creation of AI assistant capabilities through iterative drafting, testing, and refinement. |

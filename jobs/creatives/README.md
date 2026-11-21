@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **749 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **754 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,13 +11,13 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 217 |
-| [Writing & Content](writing-and-content/README.md) | 74 |
+| [Design](design/README.md) | 219 |
+| [Writing & Content](writing-and-content/README.md) | 75 |
 | [Productivity](productivity/README.md) | 68 |
 | [Generative Art](generative-art/README.md) | 52 |
 | [Generative Code](generative-code/README.md) | 47 |
+| [Video Editing](video-editing/README.md) | 38 |
 | [Coding](coding/README.md) | 37 |
-| [Video Editing](video-editing/README.md) | 37 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Research](research/README.md) | 28 |
 | [Social Media](social-media/README.md) | 26 |
@@ -25,8 +25,8 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Data Analysis](data-analysis/README.md) | 20 |
 | [Generative Video](generative-video/README.md) | 17 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 15 |
+| [Knowledge Management](knowledge-management/README.md) | 11 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 11 |
-| [Knowledge Management](knowledge-management/README.md) | 10 |
 | [Self-Improvement](self-improvement/README.md) | 7 |
 | [Text-To-Speech](text-to-speech/README.md) | 7 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
@@ -47,11 +47,11 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Pptx Posters](design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Gradient Design](design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Search](design/hig-components-search.md) | Apple HIG guidance for search fields, page controls, and path controls. |
-| [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
-| [Neumorphism](design/neumorphism.md) | Generate Neumorphism UI code with dual shadows and extruded appearance. |
 | [Ui Pattern](design/ui-pattern.md) | Generate a composed UI pattern from design system primitives. |
+| [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
+| [Hig Technologies](design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 
-[All 217 Design templates →](design/README.md)
+[All 219 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -66,7 +66,7 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 
-[All 74 Writing & Content templates →](writing-and-content/README.md)
+[All 75 Writing & Content templates →](writing-and-content/README.md)
 
 ## Productivity
 
@@ -88,8 +88,8 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Scientific Schematics](../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
-| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
+| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
@@ -105,13 +105,28 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Makepad Font](../it-and-development/generative-code/makepad-font.md) | Configure and render text in Makepad using SDF fonts, layouter, and DSL. |
 | [Threejs Animation](generative-code/threejs-animation.md) | Animate Three.js objects with keyframes, skeletons, morphs, and blending. No physics or AI. |
 | [Threejs Postprocessing](generative-code/threejs-postprocessing.md) | Add screen-space effects like bloom, DOF, and color grading in Three.js. |
-| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Game Design](generative-code/game-design.md) | Design game loops, documents, and progression systems. |
+| [Magic Ui Generator](generative-code/magic-ui-generator.md) | Generate, compare, and integrate production-ready UI component variations using Magic by 21st.dev. |
 | [Figma](../it-and-development/generative-code/figma.md) | Fetches Figma designs and translates them into production code. |
 | [Threejs Fundamentals](generative-code/threejs-fundamentals.md) | Set up Three.js scenes, cameras, renderers, and object hierarchies. |
 | [Frontend Slides Frontend Slides](generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 
 [All 47 Generative Code templates →](generative-code/README.md)
+
+## Video Editing
+
+| Template | What it does |
+|---|---|
+| [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
+| [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
+| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
+| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
+| [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
+| [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
+| [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
+| [Short Video Editing Coach](video-editing/short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
+
+[All 38 Video Editing templates →](video-editing/README.md)
 
 ## Coding
 
@@ -127,21 +142,6 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Layered Design](../it-and-development/coding/layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
 
 [All 37 Coding templates →](coding/README.md)
-
-## Video Editing
-
-| Template | What it does |
-|---|---|
-| [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
-| [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
-| [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
-| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
-| [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
-| [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
-| [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
-| [Short Video Editing Coach](video-editing/short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
-
-[All 37 Video Editing templates →](video-editing/README.md)
 
 ## Marketing & Growth
 
@@ -248,21 +248,6 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 
 [All 15 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
-## Sales & Negotiation
-
-| Template | What it does |
-|---|---|
-| [Client Communication and Negotiation Assistant](sales-and-negotiation/client-communication-and-negotiation-assistant.md) | Manages client communication, negotiation, and project delivery for graphic designers. |
-| [Artwork Sales Follow-up Assistant](../sales/sales-and-negotiation/artwork-sales-follow-up-assistant.md) | Answers collector inquiries, drafts invoices and certificates, and tracks each sale to delivery. |
-| [Beat License Sales Ledger](sales-and-negotiation/beat-license-sales-ledger.md) | Tracks every beat sale against its license terms and payment, and catches exclusive conflicts before delivery. |
-| [Gig Booking Outreach Assistant](sales-and-negotiation/gig-booking-outreach-assistant.md) | Finds venues that fit your draw, drafts pitches, and tracks replies until your dates are booked. |
-| [Proposal Pricing Package Builder](sales-and-negotiation/proposal-pricing-package-builder.md) | Turns a client request into three fixed-price packages that meet your margin target. |
-| [Line Sheet and Buyer Order Assistant](../product-development/sales-and-negotiation/line-sheet-and-buyer-order-assistant.md) | Builds your line sheet, totals buyer orders, and flags styles under factory minimum. |
-| [Creative Project Quote Assistant](sales-and-negotiation/creative-project-quote-assistant.md) | Turns a client brief into a priced, scoped quote with your rates and margin checked before it goes out. |
-| [Image License Usage Monitor](sales-and-negotiation/image-license-usage-monitor.md) | Scans your portfolio monthly for unlicensed or expired image uses and drafts offers for your approval. |
-
-[All 11 Sales & Negotiation templates →](sales-and-negotiation/README.md)
-
 ## Knowledge Management
 
 | Template | What it does |
@@ -276,7 +261,22 @@ Designers, artists and content creators. **749 ready-made Grok Bot templates** f
 | [Digital Asset Management Organizer](knowledge-management/digital-asset-management-organizer.md) | Organize, tag, track, and manage digital assets with a complete DAM workflow assistant. |
 | [Design Decision Log Keeper](knowledge-management/design-decision-log-keeper.md) | Turns design discussions into a sourced decision log with owners, options and evidence. |
 
-[All 10 Knowledge Management templates →](knowledge-management/README.md)
+[All 11 Knowledge Management templates →](knowledge-management/README.md)
+
+## Sales & Negotiation
+
+| Template | What it does |
+|---|---|
+| [Client Communication and Negotiation Assistant](sales-and-negotiation/client-communication-and-negotiation-assistant.md) | Manages client communication, negotiation, and project delivery for graphic designers. |
+| [Artwork Sales Follow-up Assistant](../sales/sales-and-negotiation/artwork-sales-follow-up-assistant.md) | Answers collector inquiries, drafts invoices and certificates, and tracks each sale to delivery. |
+| [Beat License Sales Ledger](sales-and-negotiation/beat-license-sales-ledger.md) | Tracks every beat sale against its license terms and payment, and catches exclusive conflicts before delivery. |
+| [Proposal Pricing Package Builder](sales-and-negotiation/proposal-pricing-package-builder.md) | Turns a client request into three fixed-price packages that meet your margin target. |
+| [Gig Booking Outreach Assistant](sales-and-negotiation/gig-booking-outreach-assistant.md) | Finds venues that fit your draw, drafts pitches, and tracks replies until your dates are booked. |
+| [Line Sheet and Buyer Order Assistant](../product-development/sales-and-negotiation/line-sheet-and-buyer-order-assistant.md) | Builds your line sheet, totals buyer orders, and flags styles under factory minimum. |
+| [Creative Project Quote Assistant](sales-and-negotiation/creative-project-quote-assistant.md) | Turns a client brief into a priced, scoped quote with your rates and margin checked before it goes out. |
+| [Image License Usage Monitor](sales-and-negotiation/image-license-usage-monitor.md) | Scans your portfolio monthly for unlicensed or expired image uses and drafts offers for your approval. |
+
+[All 11 Sales & Negotiation templates →](sales-and-negotiation/README.md)
 
 ## Self-Improvement
 

@@ -1,6 +1,6 @@
 # Grok Bot templates for Writers
 
-Authors, copywriters, editors and journalists. **383 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Authors, copywriters, editors and journalists. **384 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,10 +26,10 @@ Authors, copywriters, editors and journalists. **383 ready-made Grok Bot templat
 | [Generative Code](generative-code/README.md) | 3 |
 | [Speech-To-Text](speech-to-text/README.md) | 3 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 2 |
+| [Prompt Engineering](prompt-engineering/README.md) | 2 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 2 |
 | [Text-To-Speech](text-to-speech/README.md) | 2 |
 | [Generative Art](generative-art/README.md) | 1 |
-| [Prompt Engineering](prompt-engineering/README.md) | 1 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 1 |
 | [Self-Improvement](self-improvement/README.md) | 1 |
 | [Support & Community](support-and-community/README.md) | 1 |
@@ -483,6 +483,13 @@ Authors, copywriters, editors and journalists. **383 ready-made Grok Bot templat
 | [Adversarial Document Reviewer](generative-ai-and-llm/adversarial-document-reviewer.md) | Runs a multi-agent adversarial review loop to audit documents and apply approved fixes. |
 | [Elon Musk](../creatives/generative-ai-and-llm/elon-musk.md) | Simulates Elon Musk with high-fidelity psychological and communication depth. |
 
+## Prompt Engineering
+
+| Template | What it does |
+|---|---|
+| [Prompt Library](prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
+| [Prompt Sharpener](prompt-engineering/prompt-sharpener.md) | Deepens any task prompt into a professional-grade brief. |
+
 ## Teaching & Tutoring
 
 | Template | What it does |
@@ -502,12 +509,6 @@ Authors, copywriters, editors and journalists. **383 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Article Illustrations](../creatives/generative-art/article-illustrations.md) | Generate hand-drawn 16:9 article illustrations with Grav character and sparse annotations. |
-
-## Prompt Engineering
-
-| Template | What it does |
-|---|---|
-| [Prompt Library](prompt-engineering/prompt-library.md) | Curated prompt templates for coding, writing, analysis, and creative tasks. |
 
 ## Sales & Negotiation
 

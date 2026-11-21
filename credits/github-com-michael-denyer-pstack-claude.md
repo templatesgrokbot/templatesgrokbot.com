@@ -1,6 +1,6 @@
 # Credits: github.com/michael-denyer/pstack-claude
 
-11 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+29 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -8,12 +8,30 @@
 | [Auditable Playbook Designer](../jobs/operations/productivity/auditable-playbook-designer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/figure-it-out) | [MIT](../LICENSES/MIT.md) |
 | [Benchmark Verifier](../jobs/it-and-development/data-analysis/benchmark-verifier.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/benchmark-checklist) | [MIT](../LICENSES/MIT.md) |
 | [Blast Radius Analyzer](../jobs/it-and-development/coding/blast-radius-analyzer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/blast-radius) | [MIT](../LICENSES/MIT.md) |
+| [Boundary Discipline Reviewer](../jobs/it-and-development/coding/boundary-discipline-reviewer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-boundary-discipline) | [MIT](../LICENSES/MIT.md) |
 | [Chat Catch-Up](../jobs/it-and-development/productivity/chat-catch-up.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup) | [MIT](../LICENSES/MIT.md) |
 | [Comment Cleaner](../jobs/it-and-development/coding/comment-cleaner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/no-comments) | [MIT](../LICENSES/MIT.md) |
+| [Design Space Explorer](../jobs/creatives/design/design-space-explorer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-exhaust-the-design-space) | [MIT](../LICENSES/MIT.md) |
+| [Experience First Advisor](../jobs/product-development/design/experience-first-advisor.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-experience-first) | [MIT](../LICENSES/MIT.md) |
+| [First Principles Redesigner](../jobs/it-and-development/design/first-principles-redesigner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-redesign-from-first-principles) | [MIT](../LICENSES/MIT.md) |
+| [Foundational Design Advisor](../jobs/it-and-development/design/foundational-design-advisor.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-foundational-thinking) | [MIT](../LICENSES/MIT.md) |
+| [Goal Restater](../jobs/customer-support/generative-ai-and-llm/goal-restater.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/in-your-own-words) | [MIT](../LICENSES/MIT.md) |
+| [Idempotency Design Advisor](../jobs/it-and-development/cloud-and-devops/idempotency-design-advisor.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-make-operations-idempotent) | [MIT](../LICENSES/MIT.md) |
 | [Ketchup Video Briefing](../jobs/it-and-development/generative-video/ketchup-video-briefing.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/ketchup-video) | [MIT](../LICENSES/MIT.md) |
+| [Legacy API Migrator](../jobs/it-and-development/coding/legacy-api-migrator.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-migrate-callers-then-delete-legacy-apis) | [MIT](../LICENSES/MIT.md) |
+| [Lever Builder](../jobs/it-and-development/coding/lever-builder.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-build-the-lever) | [MIT](../LICENSES/MIT.md) |
+| [Minimal Diff Reviewer](../jobs/it-and-development/coding/minimal-diff-reviewer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-laziness-protocol) | [MIT](../LICENSES/MIT.md) |
 | [Mistake Class Hardener](../jobs/it-and-development/coding/mistake-class-hardener.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/correct) | [MIT](../LICENSES/MIT.md) |
+| [Number Validator](../jobs/science-and-research/data-analysis/number-validator.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-explain-the-number) | [MIT](../LICENSES/MIT.md) |
+| [Outcome Oriented Migration Planner](../jobs/it-and-development/coding/outcome-oriented-migration-planner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-outcome-oriented-execution) | [MIT](../LICENSES/MIT.md) |
 | [Personal Mode Crafter](../jobs/it-and-development/prompt-engineering/personal-mode-crafter.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/automate-me) | [MIT](../LICENSES/MIT.md) |
 | [PR Reviewability Preparer](../jobs/it-and-development/coding/pr-reviewability-preparer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/make-pr-easy-to-review) | [MIT](../LICENSES/MIT.md) |
+| [Premise Attack Planner](../jobs/it-and-development/coding/premise-attack-planner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-attack-the-premise) | [MIT](../LICENSES/MIT.md) |
+| [Proactive Execution Assistant](../jobs/it-and-development/productivity/proactive-execution-assistant.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-never-block-on-the-human) | [MIT](../LICENSES/MIT.md) |
 | [Pull Request Feedback Summarizer](../jobs/it-and-development/productivity/pull-request-feedback-summarizer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/get-pr-comments) | [MIT](../LICENSES/MIT.md) |
+| [Reader Load Reviewer](../jobs/it-and-development/coding/reader-load-reviewer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-minimize-reader-load) | [MIT](../LICENSES/MIT.md) |
+| [Root Cause Fixer](../jobs/it-and-development/coding/root-cause-fixer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-fix-root-causes) | [MIT](../LICENSES/MIT.md) |
+| [Simplification-First Refactorer](../jobs/it-and-development/coding/simplification-first-refactorer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-subtract-before-you-add) | [MIT](../LICENSES/MIT.md) |
+| [Structural Lesson Encoder](../jobs/it-and-development/prompt-engineering/structural-lesson-encoder.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-encode-lessons-in-structure) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 268 Grok Bot templates, 248 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 269 Grok Bot templates, 249 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -209,6 +209,7 @@ Work with language models, agents and their plumbing. 268 Grok Bot templates, 24
 | [Orchestrate](orchestrate.md) | Coordinate focused subagents on substantial work and integrate their verified results. |
 | [Parallel Agent Spawner](parallel-agent-spawner.md) | Launch parallel agents in isolated worktrees for a session. |
 | [Parallel Attempt Coordinator](parallel-attempt-coordinator.md) | Runs several independent attempts at one task in parallel and hands back the best one. |
+| [Parallel Swarm Coordinator](parallel-swarm-coordinator.md) | Fans out parallel workers, aggregates their results, and returns one consolidated report. |
 | [Pi Custom Model](pi-custom-model.md) | Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly. |
 | [Pipeline Orchestrator](pipeline-orchestrator.md) | Coordinates a multi-agent pipeline that turns requirements into committed code. |
 | [Plugin Quality Interpreter](plugin-quality-interpreter.md) | Scores plugin quality across ten dimensions and explains how to improve it. |

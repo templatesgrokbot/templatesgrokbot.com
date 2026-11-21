@@ -65,10 +65,10 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 
 | Template | What it does |
 |---|---|
-| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Ilya Sutskever Simulator](../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
-| [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
+| [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
+| [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Startup Business Analyst Market Opportunity](research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
@@ -98,8 +98,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [M&A Deal Support Assistant](sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
 | [Pitch Preparation Assistant](sales-and-negotiation/pitch-preparation-assistant.md) | Prepares business development pitches from research to follow-up, with drafts awaiting your approval. No hype, no filler. |
 | [Partnership Opportunity Finder](sales-and-negotiation/partnership-opportunity-finder.md) | Finds, evaluates, and manages strategic partnerships for business development directors. |
-| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
 | [Sales Process Optimizer](../sales/sales-and-negotiation/sales-process-optimizer.md) | Analyzes sales data, segments customers, optimizes pipelines, and generates tailored sales materials. |
+| [EVP Sales Competitive Intel](sales-and-negotiation/evp-sales-competitive-intel.md) | Turns competitor data into actionable sales intelligence for the EVP of Sales. |
 | [M&A Strategy Advisor](sales-and-negotiation/m-a-strategy-advisor.md) | M&A strategy assistant for SVP-level deal work, from target screening to post-merger review. |
 | [Vendor Management and Evaluation Assistant](../it-and-development/sales-and-negotiation/vendor-management-and-evaluation-assistant.md) | Manages vendor lifecycle from selection to performance improvement for IT leaders. |
 | [Global Sales Cross-Sell Upsell Planner](../sales/sales-and-negotiation/global-sales-cross-sell-upsell-planner.md) | Turns sales data into cross-sell and upsell actions for global sales leaders. |
@@ -131,8 +131,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |
-| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 | [Executive Communication Assistant](writing-and-content/executive-communication-assistant.md) | Prepares speeches, presentations, emails, reports, and communication plans for senior executives, with approval before sending or publishing. |
+| [Stakeholder Communication Director](writing-and-content/stakeholder-communication-director.md) | Plans and executes all stakeholder communication for a Director of Strategy. |
 
 [All 24 Writing & Content templates →](writing-and-content/README.md)
 
@@ -175,8 +175,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Company Context Interview](knowledge-management/company-context-interview.md) | Interviews you once and keeps a durable company context file that every advisor reads before answering. |
 | [Executive Stakeholder Map Maintenance](knowledge-management/executive-stakeholder-map-maintenance.md) | Keeps your stakeholder map current and flags changes that affect your priorities. |
 | [Acquisition Diligence Request Tracker](knowledge-management/acquisition-diligence-request-tracker.md) | Reads new data-room documents and maps which diligence requests are answered, partly answered or contradicted. |
-| [C-Suite Onboarding](knowledge-management/c-suite-onboarding.md) | Guides founders through a structured onboarding interview to build a persistent company context file for all C-suite advisors. |
 | [Founder Context Interview](knowledge-management/founder-context-interview.md) | Interviews founders once to build a persistent company context file for advisory work. |
+| [C-Suite Onboarding](knowledge-management/c-suite-onboarding.md) | Guides founders through a structured onboarding interview to build a persistent company context file for all C-suite advisors. |
 | [Quarterly Risk Register Review](../operations/knowledge-management/quarterly-risk-register-review.md) | Brings the operational risk register up to date with cited evidence before the quarterly review. |
 
 [All 11 Knowledge Management templates →](knowledge-management/README.md)

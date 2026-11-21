@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 217 Grok Bot templates, 163 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 219 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Interfaces, brands, layouts and visual systems. 217 Grok Bot templates, 163 of t
 | [Design Mirror](design-mirror.md) | Replicates any website's visual style and applies it to your existing codebase. |
 | [Design Orchestration](design-orchestration.md) | Routes design work through brainstorming, review, and execution readiness checks. |
 | [Design Philosophy](design-philosophy.md) | Generate a named visual philosophy and art-direction for high-concept frontend work. |
+| [Design Space Explorer](design-space-explorer.md) | Builds 2-3 competing prototypes for novel UI or design decisions before committing. |
 | [Design Spatial](design-spatial.md) | Render, critique, and fix spatial layout until horizontal overflow is zero. |
 | [Design Spells](design-spells.md) | Curated micro-interactions and UX patterns to add magic to web interfaces. |
 | [Design System Audit & Extend](../../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
@@ -173,6 +174,7 @@ Interfaces, brands, layouts and visual systems. 217 Grok Bot templates, 163 of t
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
+| [Short Drama Visual Continuity Setter](short-drama-visual-continuity-setter.md) | Turns short-drama scripts into visual continuity specs for characters, sets, and props. |
 | [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Social Graphic Resize Checker](social-graphic-resize-checker.md) | Resizes master artwork into platform sizes and verifies text, logos and file weight before delivery. |
 | [Social Media Graphics Designer](social-media-graphics-designer.md) | Designs complete social media graphics from templates to animations for graphic designers. |

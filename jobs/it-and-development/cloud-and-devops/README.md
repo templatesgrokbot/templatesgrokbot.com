@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 590 Grok Bot templates, 575 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 591 Grok Bot templates, 576 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -304,6 +304,7 @@ Infrastructure, deployments, monitoring and incident response. 590 Grok Bot temp
 | [Huggingface Spaces](huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Hybrid Cloud Architect](hybrid-cloud-architect.md) | Designs and manages hybrid multi-cloud infrastructure across AWS, Azure, GCP, and private clouds. |
 | [Hybrid Cloud Networking](hybrid-cloud-networking.md) | Configure secure hybrid cloud networking with VPN, Direct Connect, and ExpressRoute. |
+| [Idempotency Design Advisor](idempotency-design-advisor.md) | Designs operations that converge to the same end state despite crashes, restarts, and retries. |
 | [iMessage Channel Installer](imessage-channel-installer.md) | Adds iMessage to NanoClaw with local or hosted backend. |
 | [Incident Commander](incident-commander.md) | Runs your availability incidents from declaration to post-incident review with clear severity and timelines. |
 | [Incident Postmortem Action Tracker](incident-postmortem-action-tracker.md) | Turns postmortem actions into owned tickets and verifies each one is really done. |

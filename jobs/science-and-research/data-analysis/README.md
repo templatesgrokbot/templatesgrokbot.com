@@ -1,6 +1,6 @@
 # Data Analysis templates for Science and Research
 
-Clean, query, chart and explain data. 363 Grok Bot templates, 246 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 364 Grok Bot templates, 247 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -224,6 +224,7 @@ Clean, query, chart and explain data. 363 Grok Bot templates, 246 of them filed 
 | [NEXRAD Mosaic Builder](nexrad-mosaic-builder.md) | Builds a traceable multi-radar NEXRAD mosaic from aligned single-site products with full provenance. |
 | [NEXRAD Product Access](nexrad-product-access.md) | Selects and retrieves the exact NEXRAD radar volume, chunk set, or Level III product you ask for. |
 | [NEXRAD Radar Plotter](nexrad-radar-plotter.md) | Plots verified NEXRAD radar scans and mosaics with correct geometry, units, and provenance. |
+| [Number Validator](number-validator.md) | Validates performance and eval numbers before you trust, report, or act on them. |
 | [Nutrition Analyzer](../../healthcare/data-analysis/nutrition-analyzer.md) | Analyze nutrition data, identify patterns, and give personalized dietary advice. |
 | [Observation Quality Control](observation-quality-control.md) | Flags suspect station data and keeps a reviewed, dated exclusion list for analyses and verification. |
 | [Omero Integration](omero-integration.md) | Manage microscopy images and metadata via OMERO Python API. |

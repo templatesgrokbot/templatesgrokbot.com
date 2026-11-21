@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10674,
+ "count": 10704,
  "templates": [
   {
    "slug": "007",
@@ -16568,6 +16568,22 @@
    ],
    "path": "jobs/sales/sales-and-negotiation/bounced-contact-repair.md",
    "url": "https://templatesgrokbot.com/bot/bounced-contact-repair"
+  },
+  {
+   "slug": "boundary-discipline-reviewer",
+   "name": "Boundary Discipline Reviewer",
+   "tagline": "Guards validation and error handling at system boundaries, keeping internal logic pure.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/boundary-discipline-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/boundary-discipline-reviewer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-boundary-discipline",
+   "source_license": "MIT"
   },
   {
    "slug": "boundary-monument-recovery-log",
@@ -34693,6 +34709,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "context-recall-assistant",
+   "name": "Context Recall Assistant",
+   "tagline": "Rebuild your recent working context from chat history and shared records into a tight current-state brief.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/context-recall-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/context-recall-assistant",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/recall",
+   "source_license": "MIT"
+  },
+  {
    "slug": "context-window-budget-planner",
    "name": "Context Window Budget Planner",
    "tagline": "Measures token use per prompt section, tests trims, and sets a budget that fits the limit without losing answer quality.",
@@ -45256,6 +45288,23 @@
    "url": "https://templatesgrokbot.com/bot/decision-threshold-tuner"
   },
   {
+   "slug": "decision-trail-keeper",
+   "name": "Decision Trail Keeper",
+   "tagline": "Keep a reviewable decision trail for long-running or unattended work.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/decision-trail-keeper.md",
+   "url": "https://templatesgrokbot.com/bot/decision-trail-keeper",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/show-me-your-work",
+   "source_license": "MIT"
+  },
+  {
    "slug": "deck-chart-data-accuracy",
    "name": "Deck Chart Data Accuracy",
    "tagline": "Checks every number and chart in a deck against the source data and reports each mismatch.",
@@ -46972,6 +47021,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "design-rationale-researcher",
+   "name": "Design Rationale Researcher",
+   "tagline": "Explains why code works this way, from the project's commit and PR record.",
+   "category": "research",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "research"
+   ],
+   "path": "jobs/it-and-development/research/design-rationale-researcher.md",
+   "url": "https://templatesgrokbot.com/bot/design-rationale-researcher",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/why",
+   "source_license": "MIT"
+  },
+  {
    "slug": "design-research-participant-pool",
    "name": "Design Research Participant Pool",
    "tagline": "Books qualified, consenting participants from your existing pool before you recruit externally.",
@@ -47034,6 +47099,23 @@
    ],
    "path": "jobs/product-development/productivity/design-review-package-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/design-review-package-coordinator"
+  },
+  {
+   "slug": "design-space-explorer",
+   "name": "Design Space Explorer",
+   "tagline": "Builds 2-3 competing prototypes for novel UI or design decisions before committing.",
+   "category": "creative",
+   "jobs": [
+    "creatives",
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/design-space-explorer.md",
+   "url": "https://templatesgrokbot.com/bot/design-space-explorer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-exhaust-the-design-space",
+   "source_license": "MIT"
   },
   {
    "slug": "design-spatial",
@@ -60183,6 +60265,22 @@
    "url": "https://templatesgrokbot.com/bot/expense-tracking-manager"
   },
   {
+   "slug": "experience-first-advisor",
+   "name": "Experience First Advisor",
+   "tagline": "Guides product and UX tradeoffs toward user delight over implementation ease.",
+   "category": "operations",
+   "jobs": [
+    "product-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/product-development/design/experience-first-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/experience-first-advisor",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-experience-first",
+   "source_license": "MIT"
+  },
+  {
    "slug": "experience-studies-analyst",
    "name": "Experience Studies Analyst",
    "tagline": "Analyzes insurance experience data to inform pricing and risk decisions.",
@@ -64719,6 +64817,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "first-principles-redesigner",
+   "name": "First Principles Redesigner",
+   "tagline": "Redesigns existing systems from first principles when integrating new requirements.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/it-and-development/design/first-principles-redesigner.md",
+   "url": "https://templatesgrokbot.com/bot/first-principles-redesigner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-redesign-from-first-principles",
+   "source_license": "MIT"
+  },
+  {
    "slug": "first-year-check-in-advisor",
    "name": "First-Year Check-In Advisor",
    "tagline": "Keeps every first-year student in contact through the first term and connects struggling ones to support.",
@@ -66052,6 +66166,23 @@
    ],
    "path": "jobs/sales/writing-and-content/formulary-change-communicator.md",
    "url": "https://templatesgrokbot.com/bot/formulary-change-communicator"
+  },
+  {
+   "slug": "foundational-design-advisor",
+   "name": "Foundational Design Advisor",
+   "tagline": "Guides structural decisions before writing logic to keep code simple and option value high.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/design/foundational-design-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/foundational-design-advisor",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-foundational-thinking",
+   "source_license": "MIT"
   },
   {
    "slug": "founder-content-creation-assistant",
@@ -70843,6 +70974,23 @@
    "path": "jobs/it-and-development/prompt-engineering/goal-prompt-writer.md",
    "url": "https://templatesgrokbot.com/bot/goal-prompt-writer",
    "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/fable-goal/skills/fable-goal",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "goal-restater",
+   "name": "Goal Restater",
+   "tagline": "Restates your goals and problem in your own words to confirm understanding.",
+   "category": "operations",
+   "jobs": [
+    "customer-support"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "self-improvement"
+   ],
+   "path": "jobs/customer-support/generative-ai-and-llm/goal-restater.md",
+   "url": "https://templatesgrokbot.com/bot/goal-restater",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/in-your-own-words",
    "source_license": "MIT"
   },
   {
@@ -77230,6 +77378,22 @@
    ],
    "path": "jobs/product-development/design/ideation-session-facilitator.md",
    "url": "https://templatesgrokbot.com/bot/ideation-session-facilitator"
+  },
+  {
+   "slug": "idempotency-design-advisor",
+   "name": "Idempotency Design Advisor",
+   "tagline": "Designs operations that converge to the same end state despite crashes, restarts, and retries.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/idempotency-design-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/idempotency-design-advisor",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-make-operations-idempotent",
+   "source_license": "MIT"
   },
   {
    "slug": "identity-access-manager",
@@ -89302,6 +89466,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "legacy-api-migrator",
+   "name": "Legacy API Migrator",
+   "tagline": "Migrate internal API callers and delete legacy APIs in the same wave.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/coding/legacy-api-migrator.md",
+   "url": "https://templatesgrokbot.com/bot/legacy-api-migrator",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-migrate-callers-then-delete-legacy-apis",
+   "source_license": "MIT"
+  },
+  {
    "slug": "legacy-business-rule-extractor",
    "name": "Legacy Business Rule Extractor",
    "tagline": "Reads a legacy system and returns a tested catalog of its business rules with sources, owners and status.",
@@ -90218,6 +90399,22 @@
    ],
    "path": "jobs/creatives/design/level-layout-playability-review.md",
    "url": "https://templatesgrokbot.com/bot/level-layout-playability-review"
+  },
+  {
+   "slug": "lever-builder",
+   "name": "Lever Builder",
+   "tagline": "Builds the tool that does or proves the work instead of doing it by hand.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/lever-builder.md",
+   "url": "https://templatesgrokbot.com/bot/lever-builder",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-build-the-lever",
+   "source_license": "MIT"
   },
   {
    "slug": "lex",
@@ -100382,6 +100579,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "minimal-diff-reviewer",
+   "name": "Minimal Diff Reviewer",
+   "tagline": "Keeps your code changes minimal by deleting and simplifying before adding.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/minimal-diff-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/minimal-diff-reviewer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-laziness-protocol",
+   "source_license": "MIT"
+  },
+  {
    "slug": "minimalism",
    "name": "Minimalism",
    "tagline": "Generate minimal layouts with extreme whitespace, strict typography, and no decoration.",
@@ -106746,6 +106959,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "number-validator",
+   "name": "Number Validator",
+   "tagline": "Validates performance and eval numbers before you trust, report, or act on them.",
+   "category": "operations",
+   "jobs": [
+    "science-and-research"
+   ],
+   "topics": [
+    "data-analysis",
+    "research"
+   ],
+   "path": "jobs/science-and-research/data-analysis/number-validator.md",
+   "url": "https://templatesgrokbot.com/bot/number-validator",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-explain-the-number",
+   "source_license": "MIT"
+  },
+  {
    "slug": "nurse-staffing-gap-filler",
    "name": "Nurse Staffing Gap Filler",
    "tagline": "Finds shifts below safe staffing and drafts the lowest-cost fill for your approval.",
@@ -111025,6 +111255,22 @@
    "url": "https://templatesgrokbot.com/bot/outcome-metrics-alignment"
   },
   {
+   "slug": "outcome-oriented-migration-planner",
+   "name": "Outcome Oriented Migration Planner",
+   "tagline": "Plans and executes rewrites or migrations, converging on the target architecture without preserving throwaway compatibility states.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/outcome-oriented-migration-planner.md",
+   "url": "https://templatesgrokbot.com/bot/outcome-oriented-migration-planner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-outcome-oriented-execution",
+   "source_license": "MIT"
+  },
+  {
    "slug": "outcome-roadmap-rewriter",
    "name": "Outcome Roadmap Rewriter",
    "tagline": "Rewrites feature-based roadmaps as measurable outcome statements tied to strategy.",
@@ -112001,6 +112247,23 @@
    "path": "jobs/it-and-development/productivity/parallel-feature-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/parallel-feature-coordinator",
    "adapted_from": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-feature-development",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "parallel-swarm-coordinator",
+   "name": "Parallel Swarm Coordinator",
+   "tagline": "Fans out parallel workers, aggregates their results, and returns one consolidated report.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "research"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/parallel-swarm-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/parallel-swarm-coordinator",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/swarm",
    "source_license": "MIT"
   },
   {
@@ -120927,6 +121190,23 @@
    "url": "https://templatesgrokbot.com/bot/preference-certificate-expiry-tracker"
   },
   {
+   "slug": "premise-attack-planner",
+   "name": "Premise Attack Planner",
+   "tagline": "Tests the shared premise behind repeated fix failures before writing another fix.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/premise-attack-planner.md",
+   "url": "https://templatesgrokbot.com/bot/premise-attack-planner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-attack-the-premise",
+   "source_license": "MIT"
+  },
+  {
    "slug": "premium-3d-website",
    "name": "Premium 3d Website",
    "tagline": "Build premium 3D websites with custom WebGL shaders, post-processing, and physics interactions.",
@@ -122285,6 +122565,23 @@
    ],
    "path": "jobs/finance/data-analysis/pro-rata-rights-tracker.md",
    "url": "https://templatesgrokbot.com/bot/pro-rata-rights-tracker"
+  },
+  {
+   "slug": "proactive-execution-assistant",
+   "name": "Proactive Execution Assistant",
+   "tagline": "Proceed with reversible work and report results instead of asking permission.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/productivity/proactive-execution-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/proactive-execution-assistant",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-never-block-on-the-human",
+   "source_license": "MIT"
   },
   {
    "slug": "probation-review-tracker",
@@ -125956,6 +126253,22 @@
    ],
    "path": "jobs/it-and-development/prompt-engineering/prompt-release-handoff.md",
    "url": "https://templatesgrokbot.com/bot/prompt-release-handoff"
+  },
+  {
+   "slug": "prompt-sharpener",
+   "name": "Prompt Sharpener",
+   "tagline": "Deepens any task prompt into a professional-grade brief.",
+   "category": "creative",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "prompt-engineering"
+   ],
+   "path": "jobs/writers/prompt-engineering/prompt-sharpener.md",
+   "url": "https://templatesgrokbot.com/bot/prompt-sharpener",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/sharpen",
+   "source_license": "MIT"
   },
   {
    "slug": "prompting-power-user-coach",
@@ -129984,6 +130297,22 @@
    ],
    "path": "jobs/writers/marketing-and-growth/reader-engagement-planner.md",
    "url": "https://templatesgrokbot.com/bot/reader-engagement-planner"
+  },
+  {
+   "slug": "reader-load-reviewer",
+   "name": "Reader Load Reviewer",
+   "tagline": "Reviews code to minimize reader load by collapsing layers and shrinking state scope.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/reader-load-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/reader-load-reviewer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-minimize-reader-load",
+   "source_license": "MIT"
   },
   {
    "slug": "reader-pulse-survey-cycle",
@@ -137065,6 +137394,22 @@
    ],
    "path": "jobs/operations/data-analysis/root-cause-analysis-assistant.md",
    "url": "https://templatesgrokbot.com/bot/root-cause-analysis-assistant"
+  },
+  {
+   "slug": "root-cause-fixer",
+   "name": "Root Cause Fixer",
+   "tagline": "Trace bugs to their first wrong decision and fix them there.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/root-cause-fixer.md",
+   "url": "https://templatesgrokbot.com/bot/root-cause-fixer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-fix-root-causes",
+   "source_license": "MIT"
   },
   {
    "slug": "root-cause-pareto",
@@ -146338,6 +146683,55 @@
    "source_license": "MIT"
   },
   {
+   "slug": "short-drama-developer",
+   "name": "Short Drama Developer",
+   "tagline": "Turns Chinese novels, short-drama ideas, or multi-episode scripts into documented adaptation plans and episode outlines.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/writing-and-content/short-drama-developer.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-developer",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-develop",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-editor",
+   "name": "Short Drama Editor",
+   "tagline": "Assembles produced short-drama shots into a final cut with edit notes and delivery specs.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing"
+   ],
+   "path": "jobs/creatives/video-editing/short-drama-editor.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-editor",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-edit",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-visual-continuity-setter",
+   "name": "Short Drama Visual Continuity Setter",
+   "tagline": "Turns short-drama scripts into visual continuity specs for characters, sets, and props.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/design/short-drama-visual-continuity-setter.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-visual-continuity-setter",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-assets",
+   "source_license": "MIT"
+  },
+  {
    "slug": "short-film-budget-breakdown",
    "name": "Short Film Budget Breakdown",
    "tagline": "Reads your finished short-film script, estimates scene costs, and finds approved rewrites that bring it within budget.",
@@ -146418,6 +146812,24 @@
    "path": "jobs/creatives/video-editing/short-video-editing-coach.md",
    "url": "https://templatesgrokbot.com/bot/short-video-editing-coach",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-short-video-editing-coach",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-knowledge-curator",
+   "name": "Short-Drama Knowledge Curator",
+   "tagline": "维护者专用的短剧创作经验提炼、分级验证与规则维护工具。",
+   "category": "research",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "knowledge-management",
+    "writing-and-content",
+    "research"
+   ],
+   "path": "jobs/creatives/knowledge-management/short-drama-knowledge-curator.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-knowledge-curator",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/maintainers/skills/short-drama-knowhow",
    "source_license": "MIT"
   },
   {
@@ -146618,6 +147030,22 @@
    "path": "jobs/product-development/generative-ai-and-llm/simple-app-idea-generator.md",
    "url": "https://templatesgrokbot.com/bot/simple-app-idea-generator",
    "adapted_from": "https://www.aitmpl.com/component/agents/data-ai/simple-app-idea-generator",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "simplification-first-refactorer",
+   "name": "Simplification-First Refactorer",
+   "tagline": "Removes dead code and redundancy before building new features, keeping systems simple.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/simplification-first-refactorer.md",
+   "url": "https://templatesgrokbot.com/bot/simplification-first-refactorer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-subtract-before-you-add",
    "source_license": "MIT"
   },
   {
@@ -153275,6 +153703,23 @@
    "path": "jobs/real-estate-and-construction/security-and-compliance/structural-design-checker.md",
    "url": "https://templatesgrokbot.com/bot/structural-design-checker",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/specialized/specialized-civil-engineer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "structural-lesson-encoder",
+   "name": "Structural Lesson Encoder",
+   "tagline": "Turns repeated instructions into structural checks and rules.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "prompt-engineering",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/prompt-engineering/structural-lesson-encoder.md",
+   "url": "https://templatesgrokbot.com/bot/structural-lesson-encoder",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-encode-lessons-in-structure",
    "source_license": "MIT"
   },
   {
@@ -161783,6 +162228,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "test-behavior-advisor",
+   "name": "Test Behavior Advisor",
+   "tagline": "Writes and reviews tests that assert observable behavior, not internal implementation.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/test-behavior-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/test-behavior-advisor",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/principle-test-behavior-not-implementation",
+   "source_license": "MIT"
+  },
+  {
    "slug": "test-campaign-scheduler",
    "name": "Test Campaign Scheduler",
    "tagline": "Builds a conflict-free test campaign schedule and drafts facility booking requests for your approval.",
@@ -166328,6 +166789,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "typescript-type-discipline",
+   "name": "TypeScript Type Discipline",
+   "tagline": "Enforces disciplined TypeScript modeling to prevent impossible states and runtime crashes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/typescript-type-discipline.md",
+   "url": "https://templatesgrokbot.com/bot/typescript-type-discipline",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/typescript-best-practices",
+   "source_license": "MIT"
+  },
+  {
    "slug": "typography-first",
    "name": "Typography First",
    "tagline": "Generates text-first UI code where typography is the primary visual element.",
@@ -170046,6 +170524,22 @@
    "url": "https://templatesgrokbot.com/bot/verification-before-completion",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "verification-harness-generator",
+   "name": "Verification Harness Generator",
+   "tagline": "Generates a project-local verification harness that drives your app like a user and captures proof.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/verification-harness-generator.md",
+   "url": "https://templatesgrokbot.com/bot/verification-harness-generator",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/create-verification-skill",
+   "source_license": "MIT"
   },
   {
    "slug": "verify-citations",

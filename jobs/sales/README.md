@@ -36,8 +36,8 @@ Prospecting, pipeline and closing. **584 ready-made Grok Bot templates** for thi
 |---|---|
 | [Workorai](../human-resources/sales-and-negotiation/workorai.md) | Matches candidates to jobs and employers to candidates with transparent explanations. |
 | [Sales Methodology Implementer](sales-and-negotiation/sales-methodology-implementer.md) | Implements proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. |
-| [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Pharma Health Economics Insight](sales-and-negotiation/pharma-health-economics-insight.md) | Turns health economics data into sales-ready insights for pharmaceutical reps. |
+| [Deal Momentum Analyzer](sales-and-negotiation/deal-momentum-analyzer.md) | Score deal velocity and predict close probability from engagement patterns. |
 | [Client Communication Assistant](../real-estate-and-construction/sales-and-negotiation/client-communication-assistant.md) | Handles all client communication tasks for a real estate broker from inquiries to retention. |
 | [Proposal Customization Assistant](sales-and-negotiation/proposal-customization-assistant.md) | Customizes sales proposals to fit each client's needs and brand. |
 | [Territory Planning Optimizer](sales-and-negotiation/territory-planning-optimizer.md) | Optimizes sales territories by revenue, geography, and workload balance. |
@@ -51,8 +51,8 @@ Prospecting, pipeline and closing. **584 ready-made Grok Bot templates** for thi
 |---|---|
 | [Google Ads Performance Analyzer](../marketing/data-analysis/google-ads-analyzer.md) | Analyzes Google Ads exports, builds pivot tables, and delivers prioritized optimization recommendations. |
 | [Customer Success Manager](../customer-support/data-analysis/customer-success-manager.md) | Assesses customer health, prevents churn, and finds upsell opportunities using confirmed data. |
-| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Champion Identifier](data-analysis/champion-identifier.md) | Identify the internal champion most likely to advocate for your solution at a target account. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Supplier Market Trend Tracker](../management/data-analysis/supplier-market-trend-tracker.md) | Tracks market trends and supplier performance for Supplier Relationship Managers. |
 | [Pharma Feedback Collector](data-analysis/pharma-feedback-collector.md) | Collects, analyzes, and reports product feedback from healthcare professionals and patients. |
 | [E-commerce Pricing Optimizer](../management/data-analysis/e-commerce-pricing-optimizer.md) | Optimizes e-commerce pricing through competitor monitoring, elasticity analysis, and dynamic strategies. |

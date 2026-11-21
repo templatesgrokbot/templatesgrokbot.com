@@ -38,8 +38,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Onboarding Optimization Assistant](productivity/onboarding-optimization-assistant.md) | Optimizes the entire employee onboarding process, from paperwork to feedback. |
 | [Training Program Advisor](productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [Exit Interview Coordinator](productivity/exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
-| [Employee Wellness Program Planner](productivity/employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
 | [HRIS Migration Planner](productivity/hris-migration-planner.md) | Plan and execute HRIS data migrations and integrations end-to-end. |
+| [Employee Wellness Program Planner](productivity/employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
 
 [All 169 Productivity templates →](productivity/README.md)
 
@@ -50,11 +50,11 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Offer Comparison Analyzer](data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Resume Ats Optimizer](data-analysis/resume-ats-optimizer.md) | Analyzes resumes for ATS compatibility and optimizes keyword match against job descriptions. |
-| [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
-| [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
-| [Employee Template Analytics Assistant](data-analysis/employee-template-analytics-assistant.md) | Analyzes employee strengths, finds gaps, and plans development for HR teams. |
+| [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Feedback and Evaluation Systems Assistant](data-analysis/feedback-and-evaluation-systems-assistant.md) | Turns employee feedback and evaluation data into clear reports and improvement plans for training managers. |
+| [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
+| [Benefits Analysis and Optimization Assistant](data-analysis/benefits-analysis-and-optimization-assistant.md) | Analyzes and optimizes employee benefits packages for compensation analysts. |
 
 [All 156 Data Analysis templates →](data-analysis/README.md)
 
@@ -69,7 +69,7 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
 | [Resume Section Builder](writing-and-content/resume-section-builder.md) | Build targeted resume sections for different experience levels and roles. |
 | [Talent Acquisition Strategy Assistant](writing-and-content/talent-acquisition-strategy-assistant.md) | Streamlines talent acquisition from sourcing to onboarding with AI-driven insights and content. |
-| [Conflict Resolution Strategies Assistant](../executives-and-strategy/writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
+| [Resume Formatter](writing-and-content/resume-formatter.md) | Reformats resumes for ATS compatibility and clean, scannable layouts. |
 
 [All 67 Writing & Content templates →](writing-and-content/README.md)
 
@@ -80,8 +80,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Team Training Program Designer](../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
 | [Training and Development Assistant](teaching-and-tutoring/training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Tech Upskilling Program Coordinator](teaching-and-tutoring/tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
-| [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
+| [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
 | [Soft Templates Workshop Designer](teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
@@ -99,7 +99,7 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Event Staffing Compliance](security-and-compliance/event-staffing-compliance.md) | Assess worker classification and compliance risk for temporary event staffing in the US and Canada. |
 | [Compensation Compliance Navigator](security-and-compliance/compensation-compliance-navigator.md) | Keeps compensation practices compliant with up-to-date law and tailored guidance. |
 | [Employee Classification Advisor](../finance/security-and-compliance/employee-classification-advisor.md) | Guides payroll administrators through employee classification decisions and compliance. |
-| [Health and Safety Protocol Planner](security-and-compliance/health-and-safety-protocol-planner.md) | Guides HR managers through workplace health and safety protocols, from risk assessment to training and compliance. |
+| [Wage Garnishment Administrator](../finance/security-and-compliance/wage-garnishment-administrator.md) | Guides payroll admins through garnishment setup, calculation, compliance, and communication. |
 
 [All 33 Security & Compliance templates →](security-and-compliance/README.md)
 

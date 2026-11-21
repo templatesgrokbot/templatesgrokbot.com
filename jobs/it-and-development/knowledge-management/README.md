@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 77 Grok Bot templates, 59 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 79 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,7 +29,9 @@ Notes, documents, PDFs and knowledge bases kept in order. 77 Grok Bot templates,
 | [Context Driven Development](context-driven-development.md) | Manage project context as a living artifact for consistent AI and team alignment. |
 | [Context Management Context Restore](context-management-context-restore.md) | Restore project context from saved handoffs and current evidence. |
 | [Context Management Context Save](context-management-context-save.md) | Captures, serializes, and retrieves project context for multi-session AI workflows, with no guessing or filler tasks. |
+| [Context Recall Assistant](context-recall-assistant.md) | Rebuild your recent working context from chat history and shared records into a tight current-state brief. |
 | [Data Catalog Freshness Keeper](data-catalog-freshness-keeper.md) | Keeps your data catalog matching the real databases, with owners and sensitivity tags current. |
+| [Decision Trail Keeper](decision-trail-keeper.md) | Keep a reviewable decision trail for long-running or unattended work. |
 | [Digital Preservation File Check](digital-preservation-file-check.md) | Checks collection files for silent corruption, restores good copies, and lists what needs your decision. |
 | [Docs Search](docs-search.md) | Search auto-generated codebase docs for function signatures, API docs, class definitions, and code comments. |
 | [Document Data Extractor](document-data-extractor.md) | Turns PDFs, Office files, emails, HTML and images into structured, metadata-rich elements and chunks. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Customer Support
 
-Answering, routing and resolving customer requests. **262 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Answering, routing and resolving customer requests. **263 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -19,8 +19,8 @@ Answering, routing and resolving customer requests. **262 ready-made Grok Bot te
 | [Cloud & DevOps](cloud-and-devops/README.md) | 6 |
 | [Security & Compliance](security-and-compliance/README.md) | 6 |
 | [Coding](coding/README.md) | 5 |
+| [Generative AI and LLM](generative-ai-and-llm/README.md) | 5 |
 | [Translation](translation/README.md) | 5 |
-| [Generative AI and LLM](generative-ai-and-llm/README.md) | 4 |
 | [Research](research/README.md) | 3 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 3 |
 | [Sales & Negotiation](sales-and-negotiation/README.md) | 2 |
@@ -310,6 +310,16 @@ Answering, routing and resolving customer requests. **262 ready-made Grok Bot te
 | [Sendblue Api](../it-and-development/coding/sendblue-api.md) | Send and receive iMessage, SMS, and RCS via the Sendblue HTTP API. |
 | [Twilio Communications](../it-and-development/coding/twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 
+## Generative AI and LLM
+
+| Template | What it does |
+|---|---|
+| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
+| [Call Center AI Integrator](generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
+| [E-commerce Chatbot Developer](../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
+| [Goal Restater](generative-ai-and-llm/goal-restater.md) | Restates your goals and problem in your own words to confirm understanding. |
+| [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
+
 ## Translation
 
 | Template | What it does |
@@ -319,15 +329,6 @@ Answering, routing and resolving customer requests. **262 ready-made Grok Bot te
 | [Multilingual Support Documentation Assistant](translation/multilingual-support-documentation-assistant.md) | Translates and localizes all support content into multiple languages for global users. |
 | [Reception Language Assistant](translation/reception-language-assistant.md) | Handles front-desk language needs: translation, interpretation, and inclusive communication. |
 | [Spanish English Translator](translation/spanish-english-translator.md) | Translates between Spanish and English with the right tone, dialect, and cultural context. |
-
-## Generative AI and LLM
-
-| Template | What it does |
-|---|---|
-| [Azure Ai Contentsafety Py](../it-and-development/generative-ai-and-llm/azure-ai-contentsafety-py.md) | Classify text and image content for hate, sexual, violence, and self-harm at multiple severity levels. |
-| [Call Center AI Integrator](generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
-| [E-commerce Chatbot Developer](../management/generative-ai-and-llm/e-commerce-chatbot-developer.md) | Builds, trains, tests, and maintains customer service chatbots for e-commerce stores. |
-| [Mercury Mcp](../it-and-development/generative-ai-and-llm/mercury-mcp.md) | Look up Mercury MCP tools for messaging, tasks, automations, and admin graph edits. |
 
 ## Research
 

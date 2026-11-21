@@ -1,6 +1,6 @@
 # Video Editing templates for Creatives
 
-Cut, caption and polish video. 37 Grok Bot templates, 36 of them filed in this folder; the others live under their main field and are linked from here.
+Cut, caption and polish video. 38 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -26,6 +26,7 @@ Cut, caption and polish video. 37 Grok Bot templates, 36 of them filed in this f
 | [Royalty-Free Resource Finder](royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
 | [Screenstudio Alt](screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |
 | [Script Breakdown Analyst](script-breakdown-analyst.md) | Script breakdown assistant for video editors, turning scripts into production-ready breakdowns and edit insights. |
+| [Short Drama Editor](short-drama-editor.md) | Assembles produced short-drama shots into a final cut with edit notes and delivery specs. |
 | [Short Video Editing Coach](short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
 | [Social Media Clip Creator](social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 | [Spotting Session Cue Sheet](spotting-session-cue-sheet.md) | Turns messy spotting session notes into an accurate, director-aligned cue list for composer approval. |

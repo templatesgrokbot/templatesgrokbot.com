@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -175,6 +175,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Blueprint Mode](blueprint-mode.md) | Executes structured coding workflows with strict correctness and maintainability. |
 | [Blueprint Mode Codex](blueprint-mode-codex.md) | Executes structured coding workflows with strict correctness and minimal tool use. |
 | [Boost Asio Pro](boost-asio-pro.md) | Write async C++ networking code with Boost.Asio or standalone Asio, matching the correct API style to the user's toolchain. |
+| [Boundary Discipline Reviewer](boundary-discipline-reviewer.md) | Guards validation and error handling at system boundaries, keeping internal logic pure. |
 | [Bright Data Best Practices](bright-data-best-practices.md) | Reference for developers building Bright Data integrations with best practices. |
 | [Brooks Audit](brooks-audit.md) | Audits module dependencies, layering, and structural decay using classic engineering rules. |
 | [Brooks Debt](brooks-debt.md) | Assess tech debt, classify risks, and prioritize refactoring using classic engineering principles. |
@@ -623,9 +624,11 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Laravel Specialist](laravel-specialist.md) | Builds and optimizes Laravel 10+ applications with Eloquent, queues, and APIs. |
 | [Launchdarkly Flag Cleanup](launchdarkly-flag-cleanup.md) | Safely automates LaunchDarkly feature flag removal by verifying readiness and preserving production behavior. |
 | [Layered Design](layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
+| [Legacy API Migrator](legacy-api-migrator.md) | Migrate internal API callers and delete legacy APIs in the same wave. |
 | [Legacy Code Refactor Assistant](legacy-code-refactor-assistant.md) | Makes legacy modules clear and safe to change, proving unchanged behavior with characterization tests. |
 | [Legacy Modernizer](legacy-modernizer.md) | Plan and execute safe, incremental migrations of legacy systems to modern architectures. |
 | [Lemmaly](lemmaly.md) | State Big-O, data structure, and algorithm family before writing any loop or query. |
+| [Lever Builder](lever-builder.md) | Builds the tool that does or proves the work instead of doing it by hand. |
 | [Library API Verifier](library-api-verifier.md) | Checks installed library versions and real API signatures before writing code. |
 | [Lightning Channel Factories](lightning-channel-factories.md) | Technical reference for Lightning Network channel factories, multi-party channels, and LSP architectures. |
 | [Lingodotdev I18n](lingodotdev-i18n.md) | Implements multi-language support in web apps using a step-by-step checklist. |
@@ -690,6 +693,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Migration Guide Builder](migration-guide-builder.md) | Extracts your customizations into a replayable guide and upgrades cleanly without merge conflicts. |
 | [Minecraft Bukkit Pro](minecraft-bukkit-pro.md) | Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. |
 | [Minimal Change Engineer](minimal-change-engineer.md) | Delivers the smallest diff that fixes exactly what was asked, and nothing more. |
+| [Minimal Diff Reviewer](minimal-diff-reviewer.md) | Keeps your code changes minimal by deleting and simplifying before adding. |
 | [Minimalist Coder](minimalist-coder.md) | Writes the least code needed to solve a problem, avoiding over-engineering. |
 | [Mistake Class Hardener](mistake-class-hardener.md) | Find repeated agent mistakes in a repo and make each one impossible to repeat. |
 | [Ml Pipeline Workflow](ml-pipeline-workflow.md) | End-to-end MLOps pipeline orchestration from data prep to model deployment and monitoring. |
@@ -765,6 +769,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Opentrons Integration](../../science-and-research/coding/opentrons-integration.md) | Writes Opentrons Protocol API v2 Python scripts for Flex/OT-2 liquid handling workflows. |
 | [Optim Agent](optim-agent.md) | Guide agent-driven parameter optimization for configurable systems with measurable objectives. |
 | [Orchestrate Batch Refactor](orchestrate-batch-refactor.md) | Plan and execute large refactors with dependency-aware work packets and parallel analysis. |
+| [Outcome Oriented Migration Planner](outcome-oriented-migration-planner.md) | Plans and executes rewrites or migrations, converging on the target architecture without preserving throwaway compatibility states. |
 | [Pakistan Payments Stack](pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
 | [Parallel Debugging Arbiter](parallel-debugging-arbiter.md) | Debug complex issues by testing competing root-cause hypotheses with evidence and arbitration. |
 | [Patterns](patterns.md) | Reference document for monopoly design patterns. |
@@ -816,6 +821,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Powershell Windows](powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Pr Merge Champion](pr-merge-champion.md) | Prepare pull requests for fast approval with clean diffs and self-reviews. |
 | [PR Reviewability Preparer](pr-reviewability-preparer.md) | Prepares pull requests for review by cleaning history, improving descriptions, and adding guidance. |
+| [Premise Attack Planner](premise-attack-planner.md) | Tests the shared premise behind repeated fix failures before writing another fix. |
 | [Premium Web Implementation](premium-web-implementation.md) | Implements premium Laravel, Livewire and FluxUI interfaces from an approved task list. |
 | [Principal Software Engineer](principal-software-engineer.md) | Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation. |
 | [Product Testing Assistant](../../operations/coding/product-testing-assistant.md) | Generates, runs, and reports product tests, tracking defects and ensuring quality. |
@@ -873,6 +879,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [React Specialist](react-specialist.md) | Optimizes React apps for performance, migrates to React 19+, and builds scalable component architectures. |
 | [React Ui Patterns](react-ui-patterns.md) | Generates React components with correct loading, error, empty, and button states for async data. |
 | [React Useeffect](react-useeffect.md) | Reviews React code to replace unnecessary Effects with simpler alternatives. |
+| [Reader Load Reviewer](reader-load-reviewer.md) | Reviews code to minimize reader load by collapsing layers and shrinking state scope. |
 | [Real-Time Systems Development Assistant](real-time-systems-development-assistant.md) | Designs, builds, and troubleshoots real-time systems across domains with AI assistance. |
 | [Receiving Code Review](receiving-code-review.md) | Evaluate code review feedback technically, verify against the codebase, and push back with reasoning. |
 | [Recsys Pipeline Architect](recsys-pipeline-architect.md) | Design composable recommendation and ranking pipelines using the six-stage framework. |
@@ -900,6 +907,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Robius Widget Patterns](robius-widget-patterns.md) | Reusable Makepad widget patterns from Robrix and Moly codebases. |
 | [Robot Framework](robot-framework-skill.md) | Generate Robot Framework tests with keyword-driven syntax and Python libraries. No test execution or environment setup. |
 | [Roier Seo](roier-seo.md) | Audits websites for SEO, performance, and accessibility issues and auto-fixes them in the codebase. |
+| [Root Cause Fixer](root-cause-fixer.md) | Trace bugs to their first wrong decision and fix them there. |
 | [Routerbase Model Gateway](routerbase-model-gateway.md) | Route GPT, Claude, Gemini, and media through one OpenAI-compatible gateway. |
 | [Ruby Mcp Expert](ruby-mcp-expert.md) | Helps you build MCP servers in Ruby with the official SDK and Rails integration. |
 | [Ruby Pro](ruby-pro.md) | Idiomatic Ruby and Rails code with metaprogramming, testing, performance, and refactoring guidance. |
@@ -948,6 +956,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Shopify Apps](shopify-apps.md) | Generates Shopify app code with Remix, App Bridge, webhooks, and GraphQL patterns. |
 | [Shopify Expert](shopify-expert.md) | Builds and customizes Shopify themes, apps, and APIs with Liquid, GraphQL, and Online Store 2.0. |
 | [Similarity Search Patterns](similarity-search-patterns.md) | Design efficient vector similarity search for production systems. |
+| [Simplification-First Refactorer](simplification-first-refactorer.md) | Removes dead code and redundancy before building new features, keeping systems simple. |
 | [Simplify Code](simplify-code.md) | Review diffs for clarity and safe simplifications, then optionally apply low-risk fixes. |
 | [Skyvern Browser Automation](skyvern-browser-automation.md) | Navigate websites, fill forms, extract data, and automate browser workflows. |
 | [Slack Bot Builder](slack-bot-builder.md) | Build production-ready Slack apps with Bolt, Block Kit, and OAuth flows. |
@@ -1040,6 +1049,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Terraform Azure Implement](terraform-azure-implement.md) | Creates and reviews Azure Terraform code from planning files or user requests. |
 | [Test Automation Framework Advisor](test-automation-framework-advisor.md) | QA automation framework advisor: research, select, implement, and maintain your test automation stack. |
 | [Test Automator](test-automator.md) | Create comprehensive test suites and CI pipelines with self-healing and AI-powered automation. |
+| [Test Behavior Advisor](test-behavior-advisor.md) | Writes and reviews tests that assert observable behavior, not internal implementation. |
 | [Test Case Development Assistant](test-case-development-assistant.md) | Builds, reviews, documents, and prioritizes test cases for QA managers. |
 | [Test Coverage Gap Mapper](test-coverage-gap-mapper.md) | Maps every testable surface in your app and reports which parts have no tests. |
 | [Test Coverage Gap Planner](test-coverage-gap-planner.md) | Finds the riskiest, least-covered parts of your product and drafts the tests they need. |
@@ -1075,6 +1085,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [TypeScript Idiom Reviewer](typescript-idiom-reviewer.md) | Reviews TypeScript and JavaScript code against idiomatic patterns and reports concrete fixes. |
 | [Typescript Mcp Expert](typescript-mcp-expert.md) | Builds production-ready TypeScript MCP servers with the official SDK. |
 | [Typescript Pro](typescript-pro.md) | Design and enforce advanced TypeScript types for enterprise systems |
+| [TypeScript Type Discipline](typescript-type-discipline.md) | Enforces disciplined TypeScript modeling to prevent impossible states and runtime crashes. |
 | [Ui A11y](ui-a11y.md) | Audit a component or page for WCAG 2.2 AA compliance and apply fixes. |
 | [Ui Lint](ui-lint.md) | Scans code for common design system violations in seconds. |
 | [Ui Review](ui-review.md) | Review UI code for design system compliance, accessibility, and best practices. |
@@ -1109,6 +1120,7 @@ Write, review, test and debug software. 1155 Grok Bot templates, 1146 of them fi
 | [Vercel React Best Practices](vercel-react-best-practices.md) | Reviews React/Next.js code for performance, rendering, and bundle issues with prioritized fixes. |
 | [Vercel React View Transitions](vercel-react-view-transitions.md) | Guide React and Next.js view transitions with shared elements, route animations, and reduced-motion-safe CSS. |
 | [Verification Before Completion](verification-before-completion.md) | Enforce fresh verification before any completion claim. |
+| [Verification Harness Generator](verification-harness-generator.md) | Generates a project-local verification harness that drives your app like a user and captures proof. |
 | [Vibe Code Auditor](vibe-code-auditor.md) | Audit AI-generated or rapid-prototype code for production risks and structural flaws. |
 | [Vibe Code Cleanup](vibe-code-cleanup.md) | Safe cleanup for vibe-coded fullstack apps — remove dead code without breaking routes or APIs. |
 | [Vibe Delegate](vibe-delegate.md) | Orchestrate coding tasks by delegating to Mistral Vibe CLI and reviewing its output. |

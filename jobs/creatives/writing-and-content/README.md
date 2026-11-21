@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 74 Grok Bot templates, 17 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -69,6 +69,7 @@ Plan, write and edit articles, copy and documentation. 74 Grok Bot templates, 17
 | [Seo Aeo Landing Page Writer](../../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [SEO Content Optimizer](../../writers/writing-and-content/seo-content-optimizer.md) | Optimizes content for search engines through keyword research, on-page fixes, and reporting. |
 | [Seo Content Writer](../../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
+| [Short Drama Developer](short-drama-developer.md) | Turns Chinese novels, short-drama ideas, or multi-episode scripts into documented adaptation plans and episode outlines. |
 | [Short Story Analyzer](../../writers/writing-and-content/short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Sports Trivia Builder](sports-trivia-builder.md) | Generates sports trivia questions by sport, era, and difficulty with explanations. |
 | [Support Ticket Language Miner](../../writers/writing-and-content/support-ticket-language-miner.md) | Finds confusing product copy in support tickets, proposes fixes, and measures whether tickets drop. |

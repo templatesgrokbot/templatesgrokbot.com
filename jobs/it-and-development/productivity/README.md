@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 85 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 86 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -115,6 +115,7 @@ Plan, prioritise and clear the recurring admin. 172 Grok Bot templates, 85 of th
 | [Plugin Settings](plugin-settings.md) | Creates and reads per-project plugin config from .claude/plugin-name.local.md files with YAML frontmatter. |
 | [Plugin Structure](plugin-structure.md) | Scaffolds and explains Claude Code plugin structure, manifest, and component organization. |
 | [Postmark Automation](../../marketing/productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
+| [Proactive Execution Assistant](proactive-execution-assistant.md) | Proceed with reversible work and report results instead of asking permission. |
 | [Project Status and Risk Reporter](../../management/productivity/project-status-and-risk-reporter.md) | Gathers real project progress and drafts an evidence-based weekly status and risk report for your approval. |
 | [Project Supervisor Orchestrator](../../operations/productivity/project-supervisor-orchestrator.md) | Coordinates multi-agent workflows by routing requests and validating payloads. |
 | [Pull Request Feedback Summarizer](pull-request-feedback-summarizer.md) | Summarizes pull request feedback into a prioritized action list. |

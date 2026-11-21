@@ -1,6 +1,6 @@
 # Design templates for Product Development
 
-Interfaces, brands, layouts and visual systems. 114 Grok Bot templates, 31 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 116 Grok Bot templates, 32 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -30,6 +30,7 @@ Interfaces, brands, layouts and visual systems. 114 Grok Bot templates, 31 of th
 | [Design Md](../../creatives/design/design-md.md) | Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files |
 | [Design Optimization Assistant](design-optimization-assistant.md) | Optimize product designs through simulation, analysis, and material selection. |
 | [Design Philosophy](../../creatives/design/design-philosophy.md) | Generate a named visual philosophy and art-direction for high-concept frontend work. |
+| [Design Space Explorer](../../creatives/design/design-space-explorer.md) | Builds 2-3 competing prototypes for novel UI or design decisions before committing. |
 | [Design System](../../it-and-development/design/design-system.md) | Token architecture, component specs, and slide generation with FOUT-free loading order and motion timing invariants. |
 | [Design System Audit & Extend](../../it-and-development/design/design-design-system.md) | Audits your design system for hardcoded values, inconsistencies, and drift, then proposes new patterns that fit. |
 | [Design System Companion](../../creatives/design/design-system-companion.md) | Builds and keeps your design system consistent, documented, and adopted. |
@@ -43,6 +44,7 @@ Interfaces, brands, layouts and visual systems. 114 Grok Bot templates, 31 of th
 | [Emil Design Eng](../../creatives/design/emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
 | [Esports Feature Planning Assistant](../../it-and-development/design/esports-feature-planning-assistant.md) | Plans esports features for game developers from stats tracking to event integration. |
 | [Ethical UX Design Advisor](ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
+| [Experience First Advisor](experience-first-advisor.md) | Guides product and UX tradeoffs toward user delight over implementation ease. |
 | [Flat Design 2](../../it-and-development/design/flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Floating Ui](../../it-and-development/design/floating-ui.md) | Implement floating, detached UI elements with soft shadows and pill shapes. |
 | [Game Art](../../creatives/design/game-art.md) | Guide game art style, asset pipeline, and animation workflow decisions. |

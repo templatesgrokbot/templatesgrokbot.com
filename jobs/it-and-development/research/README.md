@@ -1,6 +1,6 @@
 # Research templates for IT and Development
 
-Find sources, compare evidence and summarise what is known. 123 Grok Bot templates, 69 of them filed in this folder; the others live under their main field and are linked from here.
+Find sources, compare evidence and summarise what is known. 124 Grok Bot templates, 70 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Find sources, compare evidence and summarise what is known. 123 Grok Bot templat
 | [Datasheet Register Lookup](datasheet-register-lookup.md) | Answers chip register, timing and limit questions with page references and errata checks. |
 | [Deepchem](../../science-and-research/research/deepchem.md) | Predict molecular properties and train ML models for drug discovery. |
 | [Defuddle](defuddle.md) | Extract clean markdown from web pages using Defuddle CLI. |
+| [Design Rationale Researcher](design-rationale-researcher.md) | Explains why code works this way, from the project's commit and PR record. |
 | [Efficient Web Research](../../science-and-research/research/efficient-web-research.md) | Token-efficient web research protocol that fetches minimum needed to answer. |
 | [Entropy Box](entropy-box.md) | Compiles embodied-AI knowledge into grounded, source-linked implementation paths. |
 | [Esm](../../science-and-research/research/esm.md) | Designs and analyzes proteins using ESM language models for sequence, structure, and function tasks. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Science and Research
 
-Scientists, analysts and academic researchers. **911 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Scientists, analysts and academic researchers. **912 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Scientists, analysts and academic researchers. **911 ready-made Grok Bot templat
 
 | Kind of work | Templates |
 |---|---:|
-| [Data Analysis](data-analysis/README.md) | 363 |
+| [Data Analysis](data-analysis/README.md) | 364 |
 | [Research](research/README.md) | 248 |
 | [Generative AI and LLM](generative-ai-and-llm/README.md) | 73 |
 | [Security & Compliance](security-and-compliance/README.md) | 50 |
@@ -37,15 +37,15 @@ Scientists, analysts and academic researchers. **911 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
-| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
-| [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
+| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
+| [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Rdkit](data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
 
-[All 363 Data Analysis templates →](data-analysis/README.md)
+[All 364 Data Analysis templates →](data-analysis/README.md)
 
 ## Research
 
@@ -73,7 +73,7 @@ Scientists, analysts and academic researchers. **911 ready-made Grok Bot templat
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
-| [Multimodal Llava](generative-ai-and-llm/multimodal-llava.md) | Analyze images through conversational question answering and description. Requires a GPU with at least 14 GB VRAM for the 7B model. You will load a LL |
+| [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
 
 [All 73 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -112,9 +112,9 @@ Scientists, analysts and academic researchers. **911 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
 | [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
+| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
@@ -162,8 +162,8 @@ Scientists, analysts and academic researchers. **911 ready-made Grok Bot templat
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
 | [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
-| [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 | [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
+| [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
 

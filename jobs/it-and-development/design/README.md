@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 115 Grok Bot templates, 49 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 117 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -55,9 +55,11 @@ Interfaces, brands, layouts and visual systems. 115 Grok Bot templates, 49 of th
 | [Environmental Art Concept Generator](environmental-art-concept-generator.md) | Helps game developers generate and refine environmental art concepts and nature-themed game ideas. |
 | [Esports Feature Planning Assistant](esports-feature-planning-assistant.md) | Plans esports features for game developers from stats tracking to event integration. |
 | [Figma Automation](../../creatives/design/figma-automation.md) | Automate Figma file inspection, component extraction, token export, and image rendering via Rube MCP. |
+| [First Principles Redesigner](first-principles-redesigner.md) | Redesigns existing systems from first principles when integrating new requirements. |
 | [Flat Design](flat-design.md) | Generate UI code with zero shadows, sharp edges, and bold solid colors. |
 | [Flat Design 2](flat-design-2.md) | Implement Flat Design 2.0 with subtle shadows and improved usability across web and apps. |
 | [Floating Ui](floating-ui.md) | Implement floating, detached UI elements with soft shadows and pill shapes. |
+| [Foundational Design Advisor](foundational-design-advisor.md) | Guides structural decisions before writing logic to keep code simple and option value high. |
 | [Frontend Design](../../creatives/design/frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game AI Behavior Designer](game-ai-behavior-designer.md) | Designs and refines game AI behaviors, from NPC dialogue to adaptive enemy tactics, for game developers. |
 | [Game Designer](../../creatives/design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |

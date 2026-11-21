@@ -64,8 +64,8 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 |---|---|
 | [Regulatory Compliance Review Assistant](security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Finance Audit Readiness Tracker](../executives-and-strategy/security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
-| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
+| [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
@@ -84,7 +84,7 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 | [Tax Code Interpretation Assistant](research/tax-code-interpretation-assistant.md) | Helps tax analysts interpret tax codes, research provisions, and assess compliance. |
 | [Term Sheet Reader](research/term-sheet-reader.md) | Explains what a term sheet does to your ownership and control, clause by clause. |
 | [Tax Strategy Formulation Assistant](research/tax-strategy-formulation-assistant.md) | Researches tax law, analyzes financial data, and designs tax-efficient strategies for your organization. |
-| [Investment Research Analyst](research/investment-research-analyst.md) | Builds institutional-grade investment research with bull and bear cases, valuation, and exit triggers. |
+| [Smart Money Tracker](research/smart-money-tracker.md) | Tracks what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX. |
 
 [All 47 Research templates →](research/README.md)
 
@@ -165,8 +165,8 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
 | [M&A Deal Support Assistant](../executives-and-strategy/sales-and-negotiation/m-a-deal-support-assistant.md) | End-to-end M&A deal support: scouting, due diligence, valuation, negotiation, integration, and exit planning. |
+| [Debt Negotiation Planner](sales-and-negotiation/debt-negotiation-planner.md) | Analyzes debt, builds repayment plans, and guides negotiations for a company's finances. |
 | [Buyer Outreach Tracker](sales-and-negotiation/buyer-outreach-tracker.md) | Keeps the buyer list current and drafts follow-ups for overdue sale-process steps. |
 | [Account Closure Save Assistant](sales-and-negotiation/account-closure-save-assistant.md) | Flags at-risk account closures, drafts call plans, and tracks whether saved accounts stay open. |
 | [Deal Desk](sales-and-negotiation/deal-desk.md) | Checks a proposed deal against your pricing rules and flags what needs approval before it ships. |
