@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10704,
+ "count": 10734,
  "templates": [
   {
    "slug": "007",
@@ -7743,6 +7743,24 @@
    "url": "https://templatesgrokbot.com/bot/appdeploy",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "app-design-researcher",
+   "name": "App Design Researcher",
+   "tagline": "Research top-grossing mobile apps and build better screens from real design patterns.",
+   "category": "research",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "research",
+    "knowledge-management"
+   ],
+   "path": "jobs/creatives/design/app-design-researcher.md",
+   "url": "https://templatesgrokbot.com/bot/app-design-researcher",
+   "adapted_from": "https://github.com/Appllama/appllama-skills/tree/main/skills/appllama-usage",
+   "source_license": "MIT"
   },
   {
    "slug": "app-review-feedback-triage",
@@ -15603,6 +15621,40 @@
    "path": "jobs/it-and-development/security-and-compliance/ble-security-assessor.md",
    "url": "https://templatesgrokbot.com/bot/ble-security-assessor",
    "adapted_from": "https://github.com/SnailSploit/Claude-Red/tree/main/Skills/wireless/offensive-bluetooth-ble",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "blender-animation-expert",
+   "name": "Blender Animation Expert",
+   "tagline": "Animates Blender characters and objects with expert blocking, splining, and review.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-video/blender-animation-expert.md",
+   "url": "https://templatesgrokbot.com/bot/blender-animation-expert",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-animation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "blender-asset-finisher",
+   "name": "Blender Asset Finisher",
+   "tagline": "Expert Blender modeling, sculpting, and asset finishing through Python or MCP, with professional checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-art/blender-asset-finisher.md",
+   "url": "https://templatesgrokbot.com/bot/blender-asset-finisher",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-expert",
    "source_license": "MIT"
   },
   {
@@ -65033,6 +65085,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "flask-app-builder",
+   "name": "Flask App Builder",
+   "tagline": "Builds, modernizes, and audits Flask 3.x applications with best practices.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/coding/flask-app-builder.md",
+   "url": "https://templatesgrokbot.com/bot/flask-app-builder",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/flask-expert",
+   "source_license": "MIT"
+  },
+  {
    "slug": "flat-design",
    "name": "Flat Design",
    "tagline": "Generate UI code with zero shadows, sharp edges, and bold solid colors.",
@@ -68127,6 +68197,23 @@
    "url": "https://templatesgrokbot.com/bot/game-art",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "game-asset-manifest-validator",
+   "name": "Game Asset Manifest Validator",
+   "tagline": "Plans and validates a browser game's asset manifest before any art or code is generated.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/design/game-asset-manifest-validator.md",
+   "url": "https://templatesgrokbot.com/bot/game-asset-manifest-validator",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/game-universe-studio",
+   "source_license": "MIT"
   },
   {
    "slug": "game-audio",
@@ -86240,6 +86327,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "keyword-opportunity-finder",
+   "name": "Keyword Opportunity Finder",
+   "tagline": "Discovers and prioritizes SEO and GEO keywords from a seed, building topic clusters for content strategy.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "research"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/keyword-opportunity-finder.md",
+   "url": "https://templatesgrokbot.com/bot/keyword-opportunity-finder",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/skills/keyword-research",
+   "source_license": "MIT"
+  },
+  {
    "slug": "keyword-research-planner",
    "name": "Keyword Research Planner",
    "tagline": "Turns a seed topic into a ranked keyword plan with real Google volume, CPC, intent, and difficulty.",
@@ -101303,6 +101407,24 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "mobile-screen-designer",
+   "name": "Mobile Screen Designer",
+   "tagline": "Designs native-feeling mobile app screens with Apple HIG fidelity and anti-slop discipline.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "coding",
+    "research"
+   ],
+   "path": "jobs/creatives/design/mobile-screen-designer.md",
+   "url": "https://templatesgrokbot.com/bot/mobile-screen-designer",
+   "adapted_from": "https://github.com/Appllama/appllama-skills/tree/main/skills/appllama-app-design-skill",
+   "source_license": "MIT"
+  },
+  {
    "slug": "mobile-security-coder",
    "name": "Mobile Security Coder",
    "tagline": "Secure mobile coding expert for input validation, WebView security, and platform-specific vulnerabilities.",
@@ -106874,6 +106996,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "novel-adaptation-analyst",
+   "name": "Novel Adaptation Analyst",
+   "tagline": "拆解长篇小说，产出章节索引、改编价值评估与分集候选，移交短剧开发。",
+   "category": "research",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/writing-and-content/novel-adaptation-analyst.md",
+   "url": "https://templatesgrokbot.com/bot/novel-adaptation-analyst",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-novel-analyze",
+   "source_license": "MIT"
+  },
+  {
    "slug": "novel-cover-designer",
    "name": "Novel Cover Designer",
    "tagline": "Generates professional web novel covers with title and author name from book details.",
@@ -107040,6 +107178,23 @@
    ],
    "path": "jobs/product-development/security-and-compliance/nutrition-label-calculation-assistant.md",
    "url": "https://templatesgrokbot.com/bot/nutrition-label-calculation-assistant"
+  },
+  {
+   "slug": "nuxt-full-stack-architect",
+   "name": "Nuxt Full-Stack Architect",
+   "tagline": "Builds, upgrades, and reviews Nuxt 4 full-stack apps with SSR-safe data fetching and secure server routes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/nuxt-full-stack-architect.md",
+   "url": "https://templatesgrokbot.com/bot/nuxt-full-stack-architect",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/skills/nuxt-expert",
+   "source_license": "MIT"
   },
   {
    "slug": "nx-workspace-patterns",
@@ -111988,6 +112143,24 @@
    "source_license": "MIT"
   },
   {
+   "slug": "paid-media-creative-strategist",
+   "name": "Paid Media Creative Strategist",
+   "tagline": "Generates grounded paid-media creative concepts, copy angles, and test briefs.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "marketing-and-growth",
+    "writing-and-content",
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/marketing-and-growth/paid-media-creative-strategist.md",
+   "url": "https://templatesgrokbot.com/bot/paid-media-creative-strategist",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/skills/paid-ads-creative",
+   "source_license": "MIT"
+  },
+  {
    "slug": "paid-media-reviewer",
    "name": "Paid Media Reviewer",
    "tagline": "Read-only paid-media performance reviews with evidence-based insights and recommendations.",
@@ -112211,6 +112384,22 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/parallel-attempt-coordinator.md",
    "url": "https://templatesgrokbot.com/bot/parallel-attempt-coordinator",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/agenthub",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "parallel-code-review-synthesizer",
+   "name": "Parallel Code Review Synthesizer",
+   "tagline": "Runs two code review passes in parallel and merges findings into one verdict.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/parallel-code-review-synthesizer.md",
+   "url": "https://templatesgrokbot.com/bot/parallel-code-review-synthesizer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/thermos",
    "source_license": "MIT"
   },
   {
@@ -118038,6 +118227,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "podcast-summarizer",
+   "name": "Podcast Summarizer",
+   "tagline": "Summarizes podcast and interview transcripts into a reader-first, objective summary in your preferred language.",
+   "category": "research",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/writers/writing-and-content/podcast-summarizer.md",
+   "url": "https://templatesgrokbot.com/bot/podcast-summarizer",
+   "adapted_from": "https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-podcast-summary",
+   "source_license": "MIT"
+  },
+  {
    "slug": "podcast-transcriber",
    "name": "Podcast Transcriber",
    "tagline": "Transcribe audio files with speaker labels and precise timestamps.",
@@ -120517,6 +120722,22 @@
    ],
    "path": "jobs/pr-and-communications/writing-and-content/pr-speech-architect.md",
    "url": "https://templatesgrokbot.com/bot/pr-speech-architect"
+  },
+  {
+   "slug": "pr-squash-message-generator",
+   "name": "PR Squash Message Generator",
+   "tagline": "Generates a Conventional Commits squash message for a PR's net diff.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/pr-squash-message-generator.md",
+   "url": "https://templatesgrokbot.com/bot/pr-squash-message-generator",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/.agents/skills/pr-squash-message",
+   "source_license": "MIT"
   },
   {
    "slug": "pr-writer",
@@ -124706,6 +124927,25 @@
    ],
    "path": "jobs/it-and-development/coding/production-error-triage-assistant.md",
    "url": "https://templatesgrokbot.com/bot/production-error-triage-assistant"
+  },
+  {
+   "slug": "production-executor",
+   "name": "Production Executor",
+   "tagline": "Generates images, videos, voiceovers, and music after explicit creator confirmation, saving outputs and run logs.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "text-to-speech",
+    "generative-video",
+    "generative-art"
+   ],
+   "path": "jobs/creatives/generative-ai-and-llm/production-executor.md",
+   "url": "https://templatesgrokbot.com/bot/production-executor",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-produce",
+   "source_license": "MIT"
   },
   {
    "slug": "production-inventory-planner",
@@ -129736,6 +129976,22 @@
    "url": "https://templatesgrokbot.com/bot/rank-movement-tracker",
    "adapted_from": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills/tree/main/skills/rank-tracking",
    "source_license": "MIT"
+  },
+  {
+   "slug": "rapid-iteration-reviewer",
+   "name": "Rapid Iteration Reviewer",
+   "tagline": "Runs a lightweight 5-step review-and-fix loop for small code changes.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/rapid-iteration-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/rapid-iteration-reviewer",
+   "adapted_from": "https://github.com/google/elephant-goldfish-model/tree/main/skills/egm-lite",
+   "source_license": "Apache-2.0"
   },
   {
    "slug": "rapid-prototype-builder",
@@ -140690,6 +140946,22 @@
    "url": "https://templatesgrokbot.com/bot/scenario-architect-for-strategy-directors"
   },
   {
+   "slug": "scenario-blockout-builder",
+   "name": "Scenario Blockout Builder",
+   "tagline": "Turns a text brief or reference image into a Blender blockout that guides a render-to-real video pass.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video"
+   ],
+   "path": "jobs/creatives/generative-video/scenario-blockout-builder.md",
+   "url": "https://templatesgrokbot.com/bot/scenario-blockout-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-blockout",
+   "source_license": "MIT"
+  },
+  {
    "slug": "scenario-planning-strategist",
    "name": "Scenario Planning Strategist",
    "tagline": "Turns market signals into future scenarios, risk checks, and strategy options for innovation strategists.",
@@ -142269,6 +142541,22 @@
    "path": "jobs/marketing/marketing-and-growth/search-console-analyse.md",
    "url": "https://templatesgrokbot.com/bot/search-console-analyse",
    "adapted_from": "https://collectivebrain.de/en/skills/search-console-analyse/"
+  },
+  {
+   "slug": "search-console-operator",
+   "name": "Search Console Operator",
+   "tagline": "Query and manage Google Search Console properties via connected MCP.",
+   "category": "marketing",
+   "jobs": [
+    "marketing"
+   ],
+   "topics": [
+    "data-analysis"
+   ],
+   "path": "jobs/marketing/data-analysis/search-console-operator.md",
+   "url": "https://templatesgrokbot.com/bot/search-console-operator",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/skills/search-console",
+   "source_license": "MIT"
   },
   {
    "slug": "search-experience-optimizer",
@@ -146163,6 +146451,23 @@
    "url": "https://templatesgrokbot.com/bot/shared-services-level-review"
   },
   {
+   "slug": "shared-state-separator",
+   "name": "Shared State Separator",
+   "tagline": "Eliminates shared-state conflicts by separating writes before serializing.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/shared-state-separator.md",
+   "url": "https://templatesgrokbot.com/bot/shared-state-separator",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-separate-before-serializing-shared-state",
+   "source_license": "MIT"
+  },
+  {
    "slug": "shareholder-inquiry-response",
    "name": "Shareholder Inquiry Response",
    "tagline": "Sorts shareholder inquiries, drafts public-source replies, and waits for IR approval before anything is sent.",
@@ -146712,6 +147017,73 @@
    "path": "jobs/creatives/video-editing/short-drama-editor.md",
    "url": "https://templatesgrokbot.com/bot/short-drama-editor",
    "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-edit",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-prompt-writer",
+   "name": "Short Drama Prompt Writer",
+   "tagline": "Turns finalized storyboard shots into copy-paste video and music prompts for short dramas.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "prompt-engineering",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/prompt-engineering/short-drama-prompt-writer.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-prompt-writer",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-video-prompts",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-reviewer",
+   "name": "Short Drama Reviewer",
+   "tagline": "独立审查短剧全流程稿件与成片，输出问题单、结论与返修要求。",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing",
+    "writing-and-content"
+   ],
+   "path": "jobs/creatives/video-editing/short-drama-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-reviewer",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-review",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-scriptwriter",
+   "name": "Short Drama Scriptwriter",
+   "tagline": "Writes, revises, or formats shootable single-episode short-drama scripts in Markdown, preserving the author's voice.",
+   "category": "creative",
+   "jobs": [
+    "writers"
+   ],
+   "topics": [
+    "writing-and-content"
+   ],
+   "path": "jobs/writers/writing-and-content/short-drama-scriptwriter.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-scriptwriter",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-write",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "short-drama-storyboarder",
+   "name": "Short Drama Storyboarder",
+   "tagline": "Turns short-drama scripts into shot-by-shot storyboards with first/last frame prompts.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "prompt-engineering"
+   ],
+   "path": "jobs/creatives/design/short-drama-storyboarder.md",
+   "url": "https://templatesgrokbot.com/bot/short-drama-storyboarder",
+   "adapted_from": "https://github.com/zenstory-ai/drama-skills/tree/main/skills/short-drama-storyboard",
    "source_license": "MIT"
   },
   {
@@ -152327,6 +152699,22 @@
    "url": "https://templatesgrokbot.com/bot/startup-signal-sourcing"
   },
   {
+   "slug": "statechart-verifier",
+   "name": "Statechart Verifier",
+   "tagline": "Checks a TLA+ state model against rules and draws a Mermaid statechart of the shortest bug paths.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/statechart-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/statechart-verifier",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/statechart",
+   "source_license": "MIT"
+  },
+  {
    "slug": "statement-extractor-and-prover",
    "name": "Statement Extractor and Prover",
    "tagline": "Extracts transactions from statement PDFs into CSV/Excel and proves the extraction balances.",
@@ -153615,6 +154003,22 @@
    ],
    "path": "jobs/marketing/data-analysis/streaming-performance-review.md",
    "url": "https://templatesgrokbot.com/bot/streaming-performance-review"
+  },
+  {
+   "slug": "strict-code-quality-auditor",
+   "name": "Strict Code Quality Auditor",
+   "tagline": "Run an extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/strict-code-quality-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/strict-code-quality-auditor",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/thermo-nuclear-code-quality-review",
+   "source_license": "MIT"
   },
   {
    "slug": "stride-analysis-patterns",
@@ -157460,6 +157864,23 @@
    "path": "jobs/it-and-development/knowledge-management/swarmvault.md",
    "url": "https://templatesgrokbot.com/bot/swarmvault",
    "adapted_from": "https://www.aitmpl.com/component/skills/development/swarmvault",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "swedish-learning-mentor",
+   "name": "Swedish Learning Mentor",
+   "tagline": "Curates Swedish learning paths with vetted YouTube clips and podcasts by CEFR level.",
+   "category": "education",
+   "jobs": [
+    "education"
+   ],
+   "topics": [
+    "teaching-and-tutoring",
+    "self-improvement"
+   ],
+   "path": "jobs/education/teaching-and-tutoring/swedish-learning-mentor.md",
+   "url": "https://templatesgrokbot.com/bot/swedish-learning-mentor",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/swedish-mentor",
    "source_license": "MIT"
   },
   {
@@ -166722,6 +167143,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "typescript-discipline-enforcer",
+   "name": "TypeScript Discipline Enforcer",
+   "tagline": "Enforces TypeScript type-system discipline when reading or editing .ts/.tsx files.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/typescript-discipline-enforcer.md",
+   "url": "https://templatesgrokbot.com/bot/typescript-discipline-enforcer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/typescript-best-practices",
+   "source_license": "MIT"
+  },
+  {
    "slug": "typescript-expert",
    "name": "Typescript Expert",
    "tagline": "Diagnoses and fixes TypeScript/JavaScript issues with type-level programming and performance optimization.",
@@ -170904,6 +171341,23 @@
    "url": "https://templatesgrokbot.com/bot/victim-notification-follow-up"
   },
   {
+   "slug": "video-animatic-builder",
+   "name": "Video Animatic Builder",
+   "tagline": "Builds frame-exact MP4 animatics from a JSON scene description, with linting and keyframe export.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-video/video-animatic-builder.md",
+   "url": "https://templatesgrokbot.com/bot/video-animatic-builder",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-animatic",
+   "source_license": "MIT"
+  },
+  {
    "slug": "video-archive-organizer",
    "name": "Video Archive Organizer",
    "tagline": "Organizes your video archive with tags, metadata, summaries, and duplicate checks.",
@@ -170917,6 +171371,22 @@
    ],
    "path": "jobs/creatives/knowledge-management/video-archive-organizer.md",
    "url": "https://templatesgrokbot.com/bot/video-archive-organizer"
+  },
+  {
+   "slug": "video-beat-timer",
+   "name": "Video Beat Timer",
+   "tagline": "Times video scripts beat-by-beat at 150/180 wpm and tells you exactly what to cut.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing"
+   ],
+   "path": "jobs/creatives/video-editing/video-beat-timer.md",
+   "url": "https://templatesgrokbot.com/bot/video-beat-timer",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-beat-board",
+   "source_license": "MIT"
   },
   {
    "slug": "video-compression-optimizer",
@@ -170933,6 +171403,22 @@
    ],
    "path": "jobs/creatives/video-editing/video-compression-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/video-compression-optimizer"
+  },
+  {
+   "slug": "video-conform",
+   "name": "Video Conform",
+   "tagline": "Mixes voice-over and music, normalizes loudness, burns captions, and exports a QC-checked MP4.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "video-editing"
+   ],
+   "path": "jobs/creatives/video-editing/video-conform.md",
+   "url": "https://templatesgrokbot.com/bot/video-conform",
+   "adapted_from": "https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-conform",
+   "source_license": "MIT"
   },
   {
    "slug": "video-content-extractor",
@@ -175931,6 +176417,24 @@
    "url": "https://templatesgrokbot.com/bot/wordpress-plugin-development",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "wordpress-site-operator",
+   "name": "WordPress Site Operator",
+   "tagline": "Operates connected WordPress sites via NotFair MCP for content and settings changes.",
+   "category": "operations",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "design",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/wordpress-site-operator.md",
+   "url": "https://templatesgrokbot.com/bot/wordpress-site-operator",
+   "adapted_from": "https://github.com/nowork-studio/notfair-plugin/tree/main/skills/wordpress",
+   "source_license": "MIT"
   },
   {
    "slug": "wordpress-theme-development",

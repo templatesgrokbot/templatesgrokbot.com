@@ -1,6 +1,6 @@
 # Writing & Content templates for Creatives
 
-Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 76 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -54,6 +54,7 @@ Plan, write and edit articles, copy and documentation. 75 Grok Bot templates, 18
 | [Marp Slide](marp-slide.md) | Creates Marp presentation slides with 7 themes from user content. |
 | [Music Video Concept Planner](music-video-concept-planner.md) | Turns your song into a visual story with concepts, storyboards, and production plans. |
 | [Newsletter Content Creator](../../sales/writing-and-content/newsletter-content-creator.md) | Drafts, optimizes, and repurposes newsletter content from research to performance analysis. |
+| [Novel Adaptation Analyst](novel-adaptation-analyst.md) | 拆解长篇小说，产出章节索引、改编价值评估与分集候选，移交短剧开发。 |
 | [Podcast Content Suite](../../marketing/writing-and-content/podcast-content-suite.md) | Turn podcast transcripts into a full content marketing suite: blog, social, newsletter, show notes, audiograms, and SEO. |
 | [Podcast Editor](podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |

@@ -1,6 +1,6 @@
 # Writing & Content templates for Writers
 
-Plan, write and edit articles, copy and documentation. 195 Grok Bot templates, 126 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, write and edit articles, copy and documentation. 197 Grok Bot templates, 128 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -125,6 +125,7 @@ Plan, write and edit articles, copy and documentation. 195 Grok Bot templates, 1
 | [Podcast Editor](../../creatives/writing-and-content/podcast-editor.md) | Manages podcast post-production: editing guidance, show notes, chapter markers, and publishing checklists. |
 | [Podcast Metadata Specialist](../../marketing/writing-and-content/podcast-metadata-specialist.md) | Generates SEO-optimized titles, chapter markers, show notes, and platform-specific descriptions for podcast episodes. |
 | [Podcast Show Notes Editor](podcast-show-notes-editor.md) | Turns your final episode audio and transcript into publish-ready show notes with accurate chapters and working links. |
+| [Podcast Summarizer](podcast-summarizer.md) | Summarizes podcast and interview transcripts into a reader-first, objective summary in your preferred language. |
 | [Portfolio Case Study Writer](../../creatives/writing-and-content/portfolio-case-study-writer.md) | Transforms resume bullets into detailed portfolio case studies with context, action, and outcome. |
 | [PR Communications Manager](../../pr-and-communications/writing-and-content/pr-communications-manager.md) | Drafts press releases, media pitches, and crisis statements for your approval before anything goes out. |
 | [Pre-Publish Post Checker](../../marketing/writing-and-content/pre-publish-post-checker.md) | Checks a ready blog draft for technical and disclosure mistakes, fixes what it can in a copy, and waits for your approval before you publish. |
@@ -164,6 +165,7 @@ Plan, write and edit articles, copy and documentation. 195 Grok Bot templates, 1
 | [Seo Snippet Hunter](../../marketing/writing-and-content/seo-snippet-hunter.md) | Format content for featured snippets and position zero with question-based blocks. |
 | [Serialized Fiction Release Preparer](serialized-fiction-release-preparer.md) | Turns an approved serial episode into a spoiler-safe, link-checked release pack for your approval. |
 | [Series Arc Pacing Audit](series-arc-pacing-audit.md) | Maps every season arc beat by episode and proposes outline moves so pacing stays steady. |
+| [Short Drama Scriptwriter](short-drama-scriptwriter.md) | Writes, revises, or formats shootable single-episode short-drama scripts in Markdown, preserving the author's voice. |
 | [Short Story Analyzer](short-story-analyzer.md) | 拆解短篇网文的故事核、结构与爆点，产出可复用的拆文报告。 |
 | [Short Story Writer](short-story-writer.md) | 从情绪目标到成稿，完成一篇短篇网文。 |
 | [Source Permission Reviewer](source-permission-reviewer.md) | Matches every quote and image in a draft to its rights records and prepares a cleared-use list. |

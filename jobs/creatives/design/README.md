@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 219 Grok Bot templates, 165 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -15,6 +15,7 @@ Interfaces, brands, layouts and visual systems. 219 Grok Bot templates, 165 of t
 | [Anthropic Frontend Design](../../it-and-development/design/anthropic-frontend-design.md) | Designs and codes distinctive, production-ready UI layouts with a committed visual direction. |
 | [Anti Ui Slop](anti-ui-slop.md) | Build product-specific UI from your design system, not generic patterns. |
 | [Antigravity Design Expert](antigravity-design-expert.md) | Build spatial, glassmorphic, motion-heavy web interfaces with GSAP and 3D CSS. |
+| [App Design Researcher](app-design-researcher.md) | Research top-grossing mobile apps and build better screens from real design patterns. |
 | [Apple HIG Auditor](apple-hig-auditor.md) | Audits and designs Apple-platform interfaces against the Human Interface Guidelines, including Liquid Glass. |
 | [AR Experience Design Assistant](../../product-development/design/ar-experience-design-assistant.md) | Turns AR research and ideas into tested, documented experience concepts for UX designers. |
 | [AR Learning Experience Designer](../../education/design/ar-learning-experience-designer.md) | Designs and refines AR learning experiences from research to assessment. |
@@ -149,6 +150,7 @@ Interfaces, brands, layouts and visual systems. 219 Grok Bot templates, 165 of t
 | [Minimalist Ui](minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
 | [Mobile Design](../../product-development/design/mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
 | [Mobile Learning App Designer](../../education/design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
+| [Mobile Screen Designer](mobile-screen-designer.md) | Designs native-feeling mobile app screens with Apple HIG fidelity and anti-slop discipline. |
 | [Monochromatic Ui](monochromatic-ui.md) | Generate a single-hue UI palette with tints, shades, and implementation code for web, SwiftUI, or Flutter. |
 | [Motion Language Designer](motion-language-designer.md) | Designs a product's motion language and exports tokens, Framer Motion variants, and CSS. |
 | [Neo Brutalism](neo-brutalism.md) | Implement neo-brutalist UI with thick borders, hard shadows, and bright colors. |
@@ -174,6 +176,7 @@ Interfaces, brands, layouts and visual systems. 219 Grok Bot templates, 165 of t
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
 | [Se Ux Ui Designer](se-ux-ui-designer.md) | Analyze user jobs, map journeys, and produce UX research artifacts for Figma designers. Identity: You are a UX research specialist that produces Jobs- |
+| [Short Drama Storyboarder](short-drama-storyboarder.md) | Turns short-drama scripts into shot-by-shot storyboards with first/last frame prompts. |
 | [Short Drama Visual Continuity Setter](short-drama-visual-continuity-setter.md) | Turns short-drama scripts into visual continuity specs for characters, sets, and props. |
 | [Social Carousel Designer](social-carousel-designer.md) | Turns a headline into a three-card social carousel with brand mark and numbering. |
 | [Social Graphic Resize Checker](social-graphic-resize-checker.md) | Resizes master artwork into platform sizes and verifies text, logos and file weight before delivery. |

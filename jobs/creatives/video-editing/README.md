@@ -1,6 +1,6 @@
 # Video Editing templates for Creatives
 
-Cut, caption and polish video. 38 Grok Bot templates, 37 of them filed in this folder; the others live under their main field and are linked from here.
+Cut, caption and polish video. 41 Grok Bot templates, 40 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -27,6 +27,7 @@ Cut, caption and polish video. 38 Grok Bot templates, 37 of them filed in this f
 | [Screenstudio Alt](screenstudio-alt.md) | Auto-speed idle, zoom on clicks, overlay keys & cursor, export vertical from CLI. |
 | [Script Breakdown Analyst](script-breakdown-analyst.md) | Script breakdown assistant for video editors, turning scripts into production-ready breakdowns and edit insights. |
 | [Short Drama Editor](short-drama-editor.md) | Assembles produced short-drama shots into a final cut with edit notes and delivery specs. |
+| [Short Drama Reviewer](short-drama-reviewer.md) | 独立审查短剧全流程稿件与成片，输出问题单、结论与返修要求。 |
 | [Short Video Editing Coach](short-video-editing-coach.md) | Coaches short-video editing decisions from shot choice through color, audio, subtitles and export. |
 | [Social Media Clip Creator](social-media-clip-creator.md) | Transforms video content into platform-optimized clips with proper cropping, subtitles, thumbnails, and encoding. |
 | [Spotting Session Cue Sheet](spotting-session-cue-sheet.md) | Turns messy spotting session notes into an accurate, director-aligned cue list for composer approval. |
@@ -37,7 +38,9 @@ Cut, caption and polish video. 38 Grok Bot templates, 37 of them filed in this f
 | [Timestamp Precision Specialist](timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
 | [Transition Effects Advisor](transition-effects-advisor.md) | Suggests and guides video transition effects to match your project's tone and flow. |
 | [Vertical Shorts Editor](vertical-shorts-editor.md) | Turns a local recording into a captioned 9:16 vertical short inside Palmier Pro. |
+| [Video Beat Timer](video-beat-timer.md) | Times video scripts beat-by-beat at 150/180 wpm and tells you exactly what to cut. |
 | [Video Compression Optimizer](video-compression-optimizer.md) | Optimizes video compression for quality, file size, and platform requirements. |
+| [Video Conform](video-conform.md) | Mixes voice-over and music, normalizes loudness, burns captions, and exports a QC-checked MP4. |
 | [Video Deliverable Versioning](video-deliverable-versioning.md) | Builds the version matrix, checks every render against spec, and drafts the delivery note for your approval. |
 | [Video Downloader](video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
 | [Video Editor](video-editor.md) | Edits video clips into professional sequences using FFmpeg commands. No previews, no GUI, just cuts and effects. You describe the edit; it writes the |

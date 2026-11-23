@@ -39,8 +39,8 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
-| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
+| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
 | [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Rdkit](data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
@@ -52,10 +52,10 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | Template | What it does |
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
-| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
+| [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Scientific Brainstorming](research/scientific-brainstorming.md) | Helps you generate novel research ideas and explore interdisciplinary connections. |
@@ -102,8 +102,8 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Claude D3.js](../it-and-development/coding/claude-d3js-skill.md) | Create custom interactive D3.js visualizations for any JavaScript environment. |
 | [Qiskit](../it-and-development/coding/qiskit.md) | Build, optimize, and run quantum circuits on simulators or IBM Quantum hardware. |
 | [Pennylane](../it-and-development/coding/pennylane.md) | Build and train quantum circuits with automatic differentiation across simulators and hardware. |
-| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 | [Pytorch Lightning](../it-and-development/coding/pytorch-lightning.md) | Organize PyTorch code into LightningModules and configure Trainers for scalable neural network training. |
+| [Pylabrobot](../it-and-development/coding/pylabrobot.md) | Controls lab robots and equipment from Python scripts. |
 
 [All 44 Coding templates →](coding/README.md)
 
@@ -113,9 +113,9 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 |---|---|
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
 | [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
-| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
-| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
 | [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
+| [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
 | [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
@@ -161,8 +161,8 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
 | [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
-| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
+| [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)

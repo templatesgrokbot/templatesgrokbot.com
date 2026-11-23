@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1176 Grok Bot templates, 1167 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -469,6 +469,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Fixing Metadata](fixing-metadata.md) | Audit and fix HTML metadata for SEO, social cards, and indexing. |
 | [Fixing Motion Performance](fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Flaky Test Reproduction Assistant](flaky-test-reproduction-assistant.md) | Turns flaky test failures into a reproducible cause or documented ruled-out causes. |
+| [Flask App Builder](flask-app-builder.md) | Builds, modernizes, and audits Flask 3.x applications with best practices. |
 | [Flutter Expert](flutter-expert.md) | Flutter expert for Dart 3, widgets, state management, and multi-platform deployment guidance. |
 | [Flutter Go Reviewer](flutter-go-reviewer.md) | Review pull request code changes for backend and frontend quality standards. |
 | [Focused Feature Repair](focused-feature-repair.md) | Repairs one broken feature end-to-end by mapping its scope, dependencies, and root causes before changing anything. |
@@ -745,6 +746,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Nextjs Supabase Auth](nextjs-supabase-auth.md) | Integrates Supabase Auth with Next.js App Router using @supabase/ssr for secure server/client auth. |
 | [Nodejs Backend Patterns](nodejs-backend-patterns.md) | Guides building scalable Node.js backends with modern patterns and best practices. |
 | [Nodejs Best Practices](nodejs-best-practices.md) | Guides Node.js framework, architecture, and security decisions without writing code. |
+| [Nuxt Full-Stack Architect](nuxt-full-stack-architect.md) | Builds, upgrades, and reviews Nuxt 4 full-stack apps with SSR-safe data fetching and secure server routes. |
 | [Obsidian Cli](obsidian-cli.md) | Manage Obsidian vault content and develop plugins from the command line. |
 | [Octopus Deploy Release Notes Mcp](octopus-deploy-release-notes-mcp.md) | Generates markdown release notes for Octopus Deploy releases using GitHub commit data. |
 | [Odoo Automated Tests](odoo-automated-tests.md) | Write and run Odoo automated tests with TransactionCase, HttpCase, and browser tours. |
@@ -771,6 +773,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Orchestrate Batch Refactor](orchestrate-batch-refactor.md) | Plan and execute large refactors with dependency-aware work packets and parallel analysis. |
 | [Outcome Oriented Migration Planner](outcome-oriented-migration-planner.md) | Plans and executes rewrites or migrations, converging on the target architecture without preserving throwaway compatibility states. |
 | [Pakistan Payments Stack](pakistan-payments-stack.md) | Design and implement PKR payment integrations for SaaS with JazzCash, Easypaisa, and bank rails. |
+| [Parallel Code Review Synthesizer](parallel-code-review-synthesizer.md) | Runs two code review passes in parallel and merges findings into one verdict. |
 | [Parallel Debugging Arbiter](parallel-debugging-arbiter.md) | Debug complex issues by testing competing root-cause hypotheses with evidence and arbitration. |
 | [Patterns](patterns.md) | Reference document for monopoly design patterns. |
 | [Payment Integration](payment-integration.md) | Design and secure payment systems with PCI compliance and fraud prevention. |
@@ -821,6 +824,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Powershell Windows](powershell-windows.md) | Provides PowerShell patterns, operator syntax, error handling, and pitfalls for Windows scripting. |
 | [Pr Merge Champion](pr-merge-champion.md) | Prepare pull requests for fast approval with clean diffs and self-reviews. |
 | [PR Reviewability Preparer](pr-reviewability-preparer.md) | Prepares pull requests for review by cleaning history, improving descriptions, and adding guidance. |
+| [PR Squash Message Generator](pr-squash-message-generator.md) | Generates a Conventional Commits squash message for a PR's net diff. |
 | [Premise Attack Planner](premise-attack-planner.md) | Tests the shared premise behind repeated fix failures before writing another fix. |
 | [Premium Web Implementation](premium-web-implementation.md) | Implements premium Laravel, Livewire and FluxUI interfaces from an approved task list. |
 | [Principal Software Engineer](principal-software-engineer.md) | Provide principal-level software engineering guidance with focus on engineering excellence, technical leadership, and pragmatic implementation. |
@@ -861,6 +865,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Qoder Delegate](qoder-delegate.md) | Delegate bounded coding tasks to Qoder CLI, review diffs, and commit yourself. |
 | [Quinn](quinn.md) | Writes and executes test suites to verify system correctness against requirements. |
 | [Rails Expert](rails-expert.md) | Build, modernize, and optimize Rails applications with full-stack expertise and Rails-idiomatic patterns. |
+| [Rapid Iteration Reviewer](rapid-iteration-reviewer.md) | Runs a lightweight 5-step review-and-fix loop for small code changes. |
 | [Rayden Code](rayden-code.md) | Generate production React code using Rayden UI components and design tokens. |
 | [Re Create](re-create.md) | Delete and rewrite files from scratch when structural rot makes patching impossible. |
 | [React Best Practices](react-best-practices.md) | Audits React and Next.js apps against 45 performance rules and suggests fixes. |
@@ -949,6 +954,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Seo Schema](seo-schema.md) | Detect, validate, and generate Schema.org JSON-LD structured data for web pages. |
 | [Seo Technical](../../marketing/coding/seo-technical.md) | Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, and JavaScript rendering. |
 | [Shadcn](shadcn.md) | Manage shadcn/ui components with CLI, docs, and strict composition rules. |
+| [Shared State Separator](shared-state-separator.md) | Eliminates shared-state conflicts by separating writes before serializing. |
 | [Sharp Coder](sharp-coder.md) | Write tight code and terse prose on demand. |
 | [Sharp Edges](sharp-edges.md) | Audits APIs and configs for footguns that make insecure usage the easy path. |
 | [Shell Scripting Pro](shell-scripting-pro.md) | Write robust, POSIX-compliant shell scripts for automation and system administration. |
@@ -986,8 +992,10 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Squirrel](squirrel.md) | Full-cycle coding agent that plans, builds, tests, and ships production-grade software. |
 | [Standup Writer](standup-writer.md) | Turns yesterday's commits, PRs, and tickets into a standup update you can paste without editing. |
 | [Star History Chart](star-history-chart.md) | Adds a self-hosted, auto-refreshing stargazers-over-time SVG chart to a GitHub repo README. |
+| [Statechart Verifier](statechart-verifier.md) | Checks a TLA+ state model against rules and draws a Mermaid statechart of the shortest bug paths. |
 | [Static Analysis Findings Triage](static-analysis-findings-triage.md) | Turns a long static analyzer findings list into confirmed fixes and justified suppressions. |
 | [Strategic Compact](cc-skill-strategic-compact.md) | Condenses a codebase into a strategic summary for development planning. |
+| [Strict Code Quality Auditor](strict-code-quality-auditor.md) | Run an extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth. |
 | [Stripe Integration](stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
 | [Structured Code Troubleshooter](structured-code-troubleshooter.md) | Debug code faster with structured analysis, testing, and collaboration support. |
 | [Styleseed Design Review](styleseed-design-review.md) | Reviews UI code against a design rubric and scores it 0-100. |
@@ -1081,6 +1089,7 @@ Write, review, test and debug software. 1167 Grok Bot templates, 1158 of them fi
 | [Trpc Fullstack](trpc-fullstack.md) | Build end-to-end type-safe APIs with tRPC routers, procedures, middleware, and subscriptions. |
 | [Twilio Communications](twilio-communications.md) | Send SMS, verify phone numbers, and build IVR systems using Twilio APIs with compliance and error handling. |
 | [Typescript Advanced Types](typescript-advanced-types.md) | Guide for mastering TypeScript's advanced type system and patterns. No code generation or runtime logic. |
+| [TypeScript Discipline Enforcer](typescript-discipline-enforcer.md) | Enforces TypeScript type-system discipline when reading or editing .ts/.tsx files. |
 | [Typescript Expert](typescript-expert.md) | Diagnoses and fixes TypeScript/JavaScript issues with type-level programming and performance optimization. |
 | [TypeScript Idiom Reviewer](typescript-idiom-reviewer.md) | Reviews TypeScript and JavaScript code against idiomatic patterns and reports concrete fixes. |
 | [Typescript Mcp Expert](typescript-mcp-expert.md) | Builds production-ready TypeScript MCP servers with the official SDK. |

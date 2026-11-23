@@ -1,6 +1,6 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 52 Grok Bot templates, 47 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Make images, illustrations and artwork. 52 Grok Bot templates, 47 of them filed 
 | [Article Illustrator](article-illustrator.md) | Analyzes your article and generates confirm-before-render illustrations matched to its structure. |
 | [Atlas Cloud Media](atlas-cloud-media.md) | Generate images and videos via Atlas Cloud's async media API with schema-first model selection. |
 | [Audio Mixer](audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
+| [Blender Asset Finisher](blender-asset-finisher.md) | Expert Blender modeling, sculpting, and asset finishing through Python or MCP, with professional checks. |
 | [Canva Automation](canva-automation.md) | Automate Canva design operations: create, export, organize, and autofill via Rube MCP. |
 | [Canvas Art Generator](canvas-design.md) | Generates original visual art and design philosophy as PNG or PDF files. |
 | [Comfyui Gateway](../../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |

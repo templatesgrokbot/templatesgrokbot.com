@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 591 Grok Bot templates, 576 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 592 Grok Bot templates, 577 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -592,6 +592,7 @@ Infrastructure, deployments, monitoring and incident response. 591 Grok Bot temp
 | [Windows Infra Admin](windows-infra-admin.md) | Automates safe Windows Server, AD, DNS, DHCP, and GPO changes with pre-flight validation and rollback. |
 | [Wireless Admin Network Optimizer](wireless-admin-network-optimizer.md) | Optimizes wireless networks through analysis, configuration, and security guidance. |
 | [Wireless Network Optimization Assistant](wireless-network-optimization-assistant.md) | Optimizes wireless networks through analysis, planning, and configuration recommendations. |
+| [WordPress Site Operator](wordpress-site-operator.md) | Operates connected WordPress sites via NotFair MCP for content and settings changes. |
 | [Workflow Automation](workflow-automation.md) | Designs durable workflow automations that survive failures and scale reliably. |
 | [Zapier Make Patterns](zapier-make-patterns.md) | Advise on Zapier vs Make, build reliable automations, and flag when to graduate to code. |
 | [Zero Trust Access Planner](zero-trust-access-planner.md) | Designs and audits Cloudflare Zero Trust access, tunnels, and DNS policies for internal apps. |

@@ -1,6 +1,6 @@
 # Grok Bot templates for Education
 
-Teachers, trainers and students. **458 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Teachers, trainers and students. **459 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,7 +11,7 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 
 | Kind of work | Templates |
 |---|---:|
-| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 172 |
+| [Teaching & Tutoring](teaching-and-tutoring/README.md) | 173 |
 | [Productivity](productivity/README.md) | 93 |
 | [Data Analysis](data-analysis/README.md) | 47 |
 | [Writing & Content](writing-and-content/README.md) | 39 |
@@ -45,7 +45,7 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Question Generation Assistant](teaching-and-tutoring/question-generation-assistant.md) | Generates diverse questions for quizzes, exams, and classroom activities. |
 | [Demonstrate Understanding](teaching-and-tutoring/demonstrate-understanding.md) | Validates your understanding of code and design through guided questioning. |
 
-[All 172 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
+[All 173 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 
 ## Productivity
 
@@ -99,8 +99,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 | [Academic Researcher](../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 | [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [Youtube Notetaker](research/youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
-| [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Survey Generator](../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
 | [Teacher Research Assistant](research/teacher-research-assistant.md) | Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication. |
 | [Research-to-Decision Assistant](research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |
@@ -113,8 +113,8 @@ Teachers, trainers and students. **458 ready-made Grok Bot templates** for this 
 |---|---|
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Visual Learning Materials Creator](design/visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
-| [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
+| [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [Mobile Learning App Designer](design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Classroom Decoration Planner](design/classroom-decoration-planner.md) | Generates classroom decoration ideas and plans for primary school teachers. |

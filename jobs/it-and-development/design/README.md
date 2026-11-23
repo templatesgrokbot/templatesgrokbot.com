@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 117 Grok Bot templates, 51 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 118 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -62,6 +62,7 @@ Interfaces, brands, layouts and visual systems. 117 Grok Bot templates, 51 of th
 | [Foundational Design Advisor](foundational-design-advisor.md) | Guides structural decisions before writing logic to keep code simple and option value high. |
 | [Frontend Design](../../creatives/design/frontend-design.md) | Distinctive frontend design that avoids AI defaults and follows the brief. |
 | [Game AI Behavior Designer](game-ai-behavior-designer.md) | Designs and refines game AI behaviors, from NPC dialogue to adaptive enemy tactics, for game developers. |
+| [Game Asset Manifest Validator](game-asset-manifest-validator.md) | Plans and validates a browser game's asset manifest before any art or code is generated. |
 | [Game Designer](../../creatives/design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
 | [Game UI Design Assistant](game-ui-design-assistant.md) | Game UI design partner: research, wireframe, prototype, test, and refine interfaces from concept to implementation. |
 | [Glassmorphism](glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |

@@ -1,6 +1,6 @@
 # Marketing & Growth templates for Marketing
 
-Campaigns, ads, conversion and launch plans. 503 Grok Bot templates, 296 of them filed in this folder; the others live under their main field and are linked from here.
+Campaigns, ads, conversion and launch plans. 505 Grok Bot templates, 298 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -250,6 +250,7 @@ Campaigns, ads, conversion and launch plans. 503 Grok Bot templates, 296 of them
 | [JTBD Value Proposition Builder](../../product-development/marketing-and-growth/jtbd-value-proposition-builder.md) | Turns your product and customer facts into a six-part value proposition and positioning statement. |
 | [Keyword Cannibalization Resolver](keyword-cannibalization-resolver.md) | Finds queries where your pages compete, proposes one clear winner, and tracks whether rankings improve. |
 | [Keyword Extractor](keyword-extractor.md) | Extracts up to 50 SEO-friendly keywords from text in comma-separated format. |
+| [Keyword Opportunity Finder](keyword-opportunity-finder.md) | Discovers and prioritizes SEO and GEO keywords from a seed, building topic clusters for content strategy. |
 | [Keyword Research Planner](keyword-research-planner.md) | Turns a seed topic into a ranked keyword plan with real Google volume, CPC, intent, and difficulty. |
 | [Keyword Research with Topic Clusters](keyword-recherche-cluster.md) | Finds keywords your site can win with current authority and groups them into topic clusters. |
 | [Keyword Strategy Planner](keyword-strategy-planner.md) | Turns a keyword CSV into a prioritized content and SEO strategy with intent mapping. |
@@ -343,6 +344,7 @@ Campaigns, ads, conversion and launch plans. 503 Grok Bot templates, 296 of them
 | [Paid Ads Guide](../../customer-support/marketing-and-growth/paid-ads-guide.md) | Explains NotFair's paid-ads capabilities, connections, and boundaries from official docs. |
 | [Paid Ads Setup](paid-ads-setup.md) | Connects paid-ad accounts and captures reusable campaign context for safe ad work. |
 | [Paid Media Auditor](paid-media-auditor.md) | Audits paid media accounts and returns prioritized fixes with projected impact. |
+| [Paid Media Creative Strategist](paid-media-creative-strategist.md) | Generates grounded paid-media creative concepts, copy angles, and test briefs. |
 | [Paid Media Reviewer](paid-media-reviewer.md) | Read-only paid-media performance reviews with evidence-based insights and recommendations. |
 | [Paid Media Tracking Specialist](paid-media-tracking-specialist.md) | Builds and audits conversion tracking so every ad dollar is measured correctly. |
 | [Paid Social Strategist](paid-social-strategist.md) | Designs full-funnel paid social programs across Meta, LinkedIn, TikTok, Pinterest, X and Snapchat with platform-native creative and audiences. |

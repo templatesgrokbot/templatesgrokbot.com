@@ -38,8 +38,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Offer Comparison Analyzer](../human-resources/data-analysis/offer-comparison-analyzer.md) | Compare job offers side-by-side with total compensation analysis. |
 | [Ai Dev Jobs Mcp](../it-and-development/data-analysis/ai-dev-jobs-mcp.md) | Search and analyze live AI and ML job listings, companies, and salary data from a curated index of 8,400+ active roles. |
 | [Talivia Agent Kit](../marketing/data-analysis/talivia-agent-kit.md) | Set up and verify Talivia revenue analytics with explicit user consent for changes. |
-| [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Analytics Product](../marketing/data-analysis/analytics-product.md) | Define product events, analyze funnels, cohorts, retention, and North Star metrics. |
+| [Data Storytelling](data-analysis/data-storytelling.md) | Turn raw data into narratives that drive decisions and inspire action. |
 | [Startup Analyst](data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [News Sentiment Engine](../marketing/data-analysis/news-sentiment-engine.md) | Aggregate RSS news and analyze sentiment with Claude. |
@@ -68,8 +68,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | [Ilya Sutskever Simulator](../science-and-research/research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
 | [Customer Research](../marketing/research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
 | [Falsify](../science-and-research/research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
-| [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Startup Business Analyst Market Opportunity](research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
+| [Kotler Macro Analyzer](research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Salary Negotiation Prep](../human-resources/research/salary-negotiation-prep.md) | Researches market rates and builds negotiation strategy for salary discussions. |
 | [Trend Analyst](../marketing/research/trend-analyst.md) | Analyzes emerging trends and predicts industry shifts to inform strategic planning and competitive positioning. |
 | [Competitor Profiling](../marketing/research/competitor-profiling.md) | Produce structured competitor profiles from URLs using live site scraping and SEO data. |
@@ -111,11 +111,11 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Regulatory Affairs Head](../operations/security-and-compliance/regulatory-affairs-head.md) | Manages regulatory strategy and submissions for HealthTech and MedTech devices. |
-| [Finance Audit Readiness Tracker](security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
 | [EVP Cyber Risk Briefing](security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
+| [Finance Audit Readiness Tracker](security-and-compliance/finance-audit-readiness-tracker.md) | Prepares your company for audits by organizing documents, analyzing data, and tracking readiness. |
 | [Data Governance Strategist](security-and-compliance/data-governance-strategist.md) | Data governance assistant for CDOs: classify, protect, and manage data assets. |
-| [Business Risk Management Assistant](security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Legal Compliance Assistant](security-and-compliance/legal-compliance-assistant.md) | Keeps your company compliant by handling policy, research, training, and reporting. |
+| [Business Risk Management Assistant](security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Data Privacy Compliance Guide](security-and-compliance/data-privacy-compliance-guide.md) | Guides CTOs through data privacy compliance, from policy review to breach response and audits. |
 | [Cybersecurity Assessment Guide](security-and-compliance/cybersecurity-assessment-guide.md) | Guides CIOs through cybersecurity assessments, from vulnerability scans to compliance and incident response. |
 
@@ -126,8 +126,8 @@ Leaders making decisions from the whole picture. **858 ready-made Grok Bot templ
 | Template | What it does |
 |---|---|
 | [Interview Style Doc Building](../management/writing-and-content/interview-style-doc-building.md) | Build strategy docs by asking one question at a time and patching the file. |
-| [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Executive Speechwriter](writing-and-content/executive-speechwriter.md) | Drafts and refines executive speeches for any occasion, tailored to your audience. |
+| [Executive Decision Memo](writing-and-content/executive-decision-memo.md) | Turns scattered material into a one-page decision memo for a 3-minute executive decision. |
 | [Conflict Resolution Strategies Assistant](writing-and-content/conflict-resolution-strategies-assistant.md) | Designs and guides conflict resolution programs, materials, and coaching for HR leaders. |
 | [Strategy VP Comms Studio](writing-and-content/strategy-vp-comms-studio.md) | Plans and executes stakeholder communication for strategy VPs. |
 | [Business Plan Builder](writing-and-content/business-plan-builder.md) | Builds complete business plans from market research to executive summary. |

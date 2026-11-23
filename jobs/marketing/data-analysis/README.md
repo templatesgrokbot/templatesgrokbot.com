@@ -1,6 +1,6 @@
 # Data Analysis templates for Marketing
 
-Clean, query, chart and explain data. 182 Grok Bot templates, 77 of them filed in this folder; the others live under their main field and are linked from here.
+Clean, query, chart and explain data. 183 Grok Bot templates, 78 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -158,6 +158,7 @@ Clean, query, chart and explain data. 182 Grok Bot templates, 77 of them filed i
 | [Quarterly Business Review Builder](quarterly-business-review-builder.md) | Builds a client QBR from a folder of artifacts, proving value and surfacing risks. |
 | [Rank Movement Tracker](rank-movement-tracker.md) | Track ranking changes between any two periods using real Search Console data. |
 | [Reddit Thread Analyzer](reddit-thread-analyzer.md) | Analyze Reddit threads for sentiment, key arguments, and community consensus. |
+| [Search Console Operator](search-console-operator.md) | Query and manage Google Search Console properties via connected MCP. |
 | [Search Ranking Drop Investigator](search-ranking-drop-investigator.md) | Finds the most likely cause of a ranking drop with evidence and proposes the fix. |
 | [Segment Blueprint for Analysts](../../it-and-development/data-analysis/segment-blueprint-for-analysts.md) | Guides business analysts through customer segmentation from data to action. |
 | [Seller Profile Extractor](seller-profile-extractor.md) | Extracts seller profile data from marketplace seller pages. |

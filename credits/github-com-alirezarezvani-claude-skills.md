@@ -1,6 +1,6 @@
 # Credits: github.com/alirezarezvani/claude-skills
 
-49 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+54 TemplatesGrokBot templates are adapted from work published at [github.com/alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -27,6 +27,7 @@
 | [DORA Compliance Checker](../jobs/legal/security-and-compliance/dora-compliance-checker.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/dora-readiness/skills/dora-readiness) | [MIT](../LICENSES/MIT.md) |
 | [Embedded IoT Mentor](../jobs/it-and-development/teaching-and-tutoring/embedded-iot-mentor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/skills/embedded-iot-mentor) | [MIT](../LICENSES/MIT.md) |
 | [Experiment Dashboard](../jobs/science-and-research/generative-ai-and-llm/experiment-dashboard.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/autoresearch-agent/skills/ar-status) | [MIT](../LICENSES/MIT.md) |
+| [Game Asset Manifest Validator](../jobs/it-and-development/design/game-asset-manifest-validator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/game-universe-studio) | [MIT](../LICENSES/MIT.md) |
 | [Goal Prompt Writer](../jobs/it-and-development/prompt-engineering/goal-prompt-writer.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/fable-goal/skills/fable-goal) | [MIT](../LICENSES/MIT.md) |
 | [Goal Verification Loop](../jobs/it-and-development/generative-ai-and-llm/goal-verification-loop.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/agent-harness/skills/agent-harness) | [MIT](../LICENSES/MIT.md) |
 | [Knowledge Operations Auditor](../jobs/operations/knowledge-management/knowledge-operations-auditor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/business-operations/skills/knowledge-ops) | [MIT](../LICENSES/MIT.md) |
@@ -50,7 +51,11 @@
 | [Senior Frontend](../jobs/it-and-development/coding/senior-frontend.md) | [original](https://github.com/alirezarezvani/claude-skills) | [CC BY 4.0](../LICENSES/CC-BY-4.0.md) |
 | [Stage Launch Orchestrator](../jobs/it-and-development/generative-ai-and-llm/stage-launch-orchestrator.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/agent-launcher/skills/stage-launch) | [MIT](../LICENSES/MIT.md) |
 | [Support Ops Analyst](../jobs/customer-support/data-analysis/support-ops-analyst.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/business-growth/skills/support-ops) | [MIT](../LICENSES/MIT.md) |
+| [Swedish Learning Mentor](../jobs/education/teaching-and-tutoring/swedish-learning-mentor.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/swedish-mentor) | [MIT](../LICENSES/MIT.md) |
 | [Text Analysis Transformer](../jobs/writers/data-analysis/text-analysis-transformer.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/skills/skill-tester/assets/sample-skill) | [MIT](../LICENSES/MIT.md) |
+| [Video Animatic Builder](../jobs/creatives/generative-video/video-animatic-builder.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-animatic) | [MIT](../LICENSES/MIT.md) |
+| [Video Beat Timer](../jobs/creatives/video-editing/video-beat-timer.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-beat-board) | [MIT](../LICENSES/MIT.md) |
+| [Video Conform](../jobs/creatives/video-editing/video-conform.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/video/skills/video-conform) | [MIT](../LICENSES/MIT.md) |
 | [Weekly Review Coach](../jobs/management/productivity/weekly-review-coach.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/weekly-review/skills/weekly-review) | [MIT](../LICENSES/MIT.md) |
 | [Zero-Hallucination Coder](../jobs/it-and-development/coding/zero-hallucination-coder.md) | [original](https://github.com/alirezarezvani/claude-skills/tree/main/engineering/zero-hallucination-coder/skills/zero-hallucination-coder) | [MIT](../LICENSES/MIT.md) |
 

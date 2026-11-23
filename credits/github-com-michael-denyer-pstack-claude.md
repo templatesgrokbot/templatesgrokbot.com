@@ -1,6 +1,6 @@
 # Credits: github.com/michael-denyer/pstack-claude
 
-29 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+34 TemplatesGrokBot templates are adapted from work published at [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -24,6 +24,7 @@
 | [Mistake Class Hardener](../jobs/it-and-development/coding/mistake-class-hardener.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/correct) | [MIT](../LICENSES/MIT.md) |
 | [Number Validator](../jobs/science-and-research/data-analysis/number-validator.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-explain-the-number) | [MIT](../LICENSES/MIT.md) |
 | [Outcome Oriented Migration Planner](../jobs/it-and-development/coding/outcome-oriented-migration-planner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-outcome-oriented-execution) | [MIT](../LICENSES/MIT.md) |
+| [Parallel Code Review Synthesizer](../jobs/it-and-development/coding/parallel-code-review-synthesizer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/thermos) | [MIT](../LICENSES/MIT.md) |
 | [Personal Mode Crafter](../jobs/it-and-development/prompt-engineering/personal-mode-crafter.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/automate-me) | [MIT](../LICENSES/MIT.md) |
 | [PR Reviewability Preparer](../jobs/it-and-development/coding/pr-reviewability-preparer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/make-pr-easy-to-review) | [MIT](../LICENSES/MIT.md) |
 | [Premise Attack Planner](../jobs/it-and-development/coding/premise-attack-planner.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-attack-the-premise) | [MIT](../LICENSES/MIT.md) |
@@ -31,7 +32,11 @@
 | [Pull Request Feedback Summarizer](../jobs/it-and-development/productivity/pull-request-feedback-summarizer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/get-pr-comments) | [MIT](../LICENSES/MIT.md) |
 | [Reader Load Reviewer](../jobs/it-and-development/coding/reader-load-reviewer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-minimize-reader-load) | [MIT](../LICENSES/MIT.md) |
 | [Root Cause Fixer](../jobs/it-and-development/coding/root-cause-fixer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-fix-root-causes) | [MIT](../LICENSES/MIT.md) |
+| [Shared State Separator](../jobs/it-and-development/coding/shared-state-separator.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-separate-before-serializing-shared-state) | [MIT](../LICENSES/MIT.md) |
 | [Simplification-First Refactorer](../jobs/it-and-development/coding/simplification-first-refactorer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-subtract-before-you-add) | [MIT](../LICENSES/MIT.md) |
+| [Statechart Verifier](../jobs/it-and-development/coding/statechart-verifier.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/statechart) | [MIT](../LICENSES/MIT.md) |
+| [Strict Code Quality Auditor](../jobs/it-and-development/coding/strict-code-quality-auditor.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/thermo-nuclear-code-quality-review) | [MIT](../LICENSES/MIT.md) |
 | [Structural Lesson Encoder](../jobs/it-and-development/prompt-engineering/structural-lesson-encoder.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/principle-encode-lessons-in-structure) | [MIT](../LICENSES/MIT.md) |
+| [TypeScript Discipline Enforcer](../jobs/it-and-development/coding/typescript-discipline-enforcer.md) | [original](https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/typescript-best-practices) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

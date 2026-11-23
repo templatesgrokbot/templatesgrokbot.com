@@ -47,8 +47,8 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 
 | Template | What it does |
 |---|---|
-| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Stripe Automation](productivity/stripe-automation.md) | Automate Stripe payment operations via Rube MCP: customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current |
+| [Vendor Watch](../operations/productivity/vendor-watch.md) | Tracks every software subscription and warns you before a renewal auto-charges. |
 | [Credit Card Max](productivity/credit-card-max.md) | Recommends the best credit card for each purchase to maximize rewards and track benefits. |
 | [Risk Analysis and Management Assistant](../it-and-development/productivity/risk-analysis-and-management-assistant.md) | Guides business analysts through end-to-end risk analysis, mitigation, and communication. |
 | [Meeting Coordination Assistant](productivity/meeting-coordination-assistant.md) | Handles scheduling, invitations, logistics, agendas, reminders, RSVPs, minutes, virtual setups, materials, follow-ups, surveys, and travel for… |
@@ -67,8 +67,8 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 | [Audit Support Assistant](security-and-compliance/audit-support-assistant.md) | Audit support assistant for finance specialists: analyze data, review docs, plan audits, and draft reports. |
 | [Business Risk Management Assistant](../executives-and-strategy/security-and-compliance/business-risk-management-assistant.md) | Identifies, assesses, and mitigates business risks with AI-driven insights and monitoring. |
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
-| [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
+| [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
 | [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents financial risks with mitigation strategies for accountants. |
 
 [All 79 Security & Compliance templates →](security-and-compliance/README.md)
@@ -154,8 +154,8 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 |---|---|
 | [Data Room Builder](knowledge-management/data-room-builder.md) | Builds a diligence-ready data room: checklist, gap report, and organized folder structure. |
 | [Data Room Q&A Tracker](knowledge-management/data-room-q-a-tracker.md) | Logs every diligence question, drafts consistent answers, and escalates before due dates. |
-| [Fairness Opinion Binder Tie-Out](knowledge-management/fairness-opinion-binder-tie-out.md) | Assembles and ties out every fairness opinion analysis against the master model and board deck. |
 | [Audit File Preparation Register](knowledge-management/audit-file-preparation-register.md) | Builds and maintains the audit file checklist so every auditor request is tracked, filed and answered. |
+| [Fairness Opinion Binder Tie-Out](knowledge-management/fairness-opinion-binder-tie-out.md) | Assembles and ties out every fairness opinion analysis against the master model and board deck. |
 | [Credit File Preparation Assistant](knowledge-management/credit-file-preparation-assistant.md) | Keeps credit review files current by checking evidence dates and legal entities, then drafting targeted requests. |
 | [Record Keeping and Filing Assistant](knowledge-management/record-keeping-and-filing-assistant.md) | Organizes, retrieves, and protects records with compliant filing systems and audit-ready processes. |
 | [Tax Provision Support File Builder](knowledge-management/tax-provision-support-file-builder.md) | Builds a tied-out, indexed support file for every provision item before audit. |

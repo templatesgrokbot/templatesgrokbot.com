@@ -1,6 +1,6 @@
 # Prompt Engineering templates for Creatives
 
-Write, test and improve prompts and instructions. 5 Grok Bot templates, 4 of them filed in this folder; the others live under their main field and are linked from here.
+Write, test and improve prompts and instructions. 6 Grok Bot templates, 5 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,5 +11,6 @@ Write, test and improve prompts and instructions. 5 Grok Bot templates, 4 of the
 | [Enhance Prompt](../../it-and-development/prompt-engineering/enhance-prompt.md) | Turns vague UI ideas into structured, Stitch-optimized prompts with design system context. |
 | [Image Prompt Engineer](image-prompt-engineer.md) | Turns a visual idea into a structured, platform-ready image generation prompt. |
 | [Inclusive Visuals Specialist](inclusive-visuals-specialist.md) | Turns creative briefs into culturally accurate, dignified image and video prompts that resist AI bias. |
+| [Short Drama Prompt Writer](short-drama-prompt-writer.md) | Turns finalized storyboard shots into copy-paste video and music prompts for short dramas. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

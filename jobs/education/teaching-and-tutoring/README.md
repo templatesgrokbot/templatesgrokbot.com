@@ -1,6 +1,6 @@
 # Teaching & Tutoring templates for Education
 
-Explain, quiz and guide someone through a subject. 172 Grok Bot templates, 140 of them filed in this folder; the others live under their main field and are linked from here.
+Explain, quiz and guide someone through a subject. 173 Grok Bot templates, 141 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -150,6 +150,7 @@ Explain, quiz and guide someone through a subject. 172 Grok Bot templates, 140 o
 | [Study Buddy](study-buddy.md) | Drills you on your own material with spaced repetition instead of re-reading notes. |
 | [Study Guide Creator for Teachers](study-guide-creator-for-teachers.md) | Creates and refines study guides for secondary school teachers and their students. |
 | [Subject Explanation Assistant](subject-explanation-assistant.md) | Prepares engaging lessons and resources for secondary school subject teaching. |
+| [Swedish Learning Mentor](swedish-learning-mentor.md) | Curates Swedish learning paths with vetted YouTube clips and podcasts by CEFR level. |
 | [Teach](teach.md) | Teach any topic through structured lessons, reference docs, and learning records. |
 | [Teacher Feedback Assistant](teacher-feedback-assistant.md) | Delivers structured feedback and recommendations from classroom observations to headteachers. |
 | [Teacher Professional Development Assistant](teacher-professional-development-assistant.md) | Professional development planner and classroom strategies assistant for teachers. |
