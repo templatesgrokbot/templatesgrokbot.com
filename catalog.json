@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10734,
+ "count": 10764,
  "templates": [
   {
    "slug": "007",
@@ -15658,6 +15658,39 @@
    "source_license": "MIT"
   },
   {
+   "slug": "blender-lighting-composer",
+   "name": "Blender Lighting Composer",
+   "tagline": "Light, render, and composite Blender scenes with expert-level control and critique.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/blender-lighting-composer.md",
+   "url": "https://templatesgrokbot.com/bot/blender-lighting-composer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-lighting-rendering",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "blender-rigging-specialist",
+   "name": "Blender Rigging Specialist",
+   "tagline": "Builds precise, animator-ready character rigs in Blender from chat.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/blender-rigging-specialist.md",
+   "url": "https://templatesgrokbot.com/bot/blender-rigging-specialist",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-rigging",
+   "source_license": "MIT"
+  },
+  {
    "slug": "bleu",
    "name": "Bleu",
    "tagline": "Turns an idea into a complete, production-ready system plan before any code is written.",
@@ -22955,6 +22988,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "character-sculptor",
+   "name": "Character Sculptor",
+   "tagline": "Sculpts realistic ZBrush characters and creatures with expert anatomy and detail workflow.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/character-sculptor.md",
+   "url": "https://templatesgrokbot.com/bot/character-sculptor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-character-creature",
+   "source_license": "MIT"
+  },
+  {
    "slug": "characterization-queue-coordinator",
    "name": "Characterization Queue Coordinator",
    "tagline": "Keeps shared instruments booked with prepared samples in deadline order, with your approval.",
@@ -29890,6 +29940,22 @@
    "path": "jobs/it-and-development/coding/commit-smart.md",
    "url": "https://templatesgrokbot.com/bot/commit-smart",
    "adapted_from": "https://www.aitmpl.com/component/skills/git/commit-smart",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "commit-summary-writer",
+   "name": "Commit Summary Writer",
+   "tagline": "Summarizes your authored commits over a chosen time range into a concise status update.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/productivity/commit-summary-writer.md",
+   "url": "https://templatesgrokbot.com/bot/commit-summary-writer",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/what-did-i-get-done",
    "source_license": "MIT"
   },
   {
@@ -56120,6 +56186,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "engine-ready-exporter",
+   "name": "Engine-Ready Exporter",
+   "tagline": "Export Blender models engine-ready with correct scale, pivot, and round-trip checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "coding"
+   ],
+   "path": "jobs/creatives/design/engine-ready-exporter.md",
+   "url": "https://templatesgrokbot.com/bot/engine-ready-exporter",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-export",
+   "source_license": "MIT"
+  },
+  {
    "slug": "engineering-change-impact-tracker",
    "name": "Engineering Change Impact Tracker",
    "tagline": "Finds every part, analysis and document affected by an engineering change, and tracks them to closure.",
@@ -69423,6 +69506,22 @@
    "url": "https://templatesgrokbot.com/bot/geological-report-cross-reference-check"
   },
   {
+   "slug": "geometry-nodes-builder",
+   "name": "Geometry Nodes Builder",
+   "tagline": "Builds and debugs Blender Geometry Nodes trees with numeric proof and visual checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/geometry-nodes-builder.md",
+   "url": "https://templatesgrokbot.com/bot/geometry-nodes-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-geometry-nodes",
+   "source_license": "MIT"
+  },
+  {
    "slug": "geopandas",
    "name": "Geopandas",
    "tagline": "Reads, analyzes, and transforms geospatial vector data using Python.",
@@ -72405,6 +72504,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "grease-pencil-animator",
+   "name": "Grease Pencil Animator",
+   "tagline": "Draws and animates editable Grease Pencil scenes in Blender 5.x, keeping every stroke redrawable and judging results in motion.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-video/grease-pencil-animator.md",
+   "url": "https://templatesgrokbot.com/bot/grease-pencil-animator",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-grease-pencil",
+   "source_license": "MIT"
+  },
+  {
    "slug": "green-infrastructure-planner",
    "name": "Green Infrastructure Planner",
    "tagline": "Plans green infrastructure projects from site analysis to community engagement.",
@@ -73389,6 +73505,40 @@
    "source_license": "MIT"
   },
   {
+   "slug": "hair-groom-specialist",
+   "name": "Hair Groom Specialist",
+   "tagline": "Grooms realistic hair and fur in Maya XGen from reference to final render.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/hair-groom-specialist.md",
+   "url": "https://templatesgrokbot.com/bot/hair-groom-specialist",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-groom",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "hair-grooming-expert",
+   "name": "Hair Grooming Expert",
+   "tagline": "Guides Blender hair and fur grooming with procedural layers and expert checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/hair-grooming-expert.md",
+   "url": "https://templatesgrokbot.com/bot/hair-grooming-expert",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-hair",
+   "source_license": "MIT"
+  },
+  {
    "slug": "handbook-local-law-variance",
    "name": "Handbook Local Law Variance",
    "tagline": "Keeps your employee handbook compliant in every location where your people work.",
@@ -73468,6 +73618,23 @@
    "path": "jobs/executives-and-strategy/self-improvement/hard-call-decision-framework.md",
    "url": "https://templatesgrokbot.com/bot/hard-call-decision-framework",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/hard-call",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "hard-surface-modeler",
+   "name": "Hard Surface Modeler",
+   "tagline": "Builds clean, game-ready hard-surface models in Blender with booleans, bevels, and shading checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/hard-surface-modeler.md",
+   "url": "https://templatesgrokbot.com/bot/hard-surface-modeler",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-hard-surface",
    "source_license": "MIT"
   },
   {
@@ -97860,6 +98027,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "material-look-developer",
+   "name": "Material Look Developer",
+   "tagline": "Builds physically plausible Blender materials and textures from masks, for realistic or stylized looks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/material-look-developer.md",
+   "url": "https://templatesgrokbot.com/bot/material-look-developer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-texturing-shading",
+   "source_license": "MIT"
+  },
+  {
    "slug": "material-moisture-acclimation-tracker",
    "name": "Material Moisture Acclimation Tracker",
    "tagline": "Tracks moisture and site readings so you start installation only when the material is truly ready.",
@@ -98203,6 +98386,170 @@
    "url": "https://templatesgrokbot.com/bot/maximalism",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "maya-animation-reviewer",
+   "name": "Maya Animation Reviewer",
+   "tagline": "Plans, blocks, splines, and polishes character animation in Maya with expert checks.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-video/maya-animation-reviewer.md",
+   "url": "https://templatesgrokbot.com/bot/maya-animation-reviewer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-animation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-deformation-specialist",
+   "name": "Maya Deformation Specialist",
+   "tagline": "Diagnose and fix Maya character deformation, from skin weights to correctives.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/maya-deformation-specialist.md",
+   "url": "https://templatesgrokbot.com/bot/maya-deformation-specialist",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-deformation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-expert-router",
+   "name": "Maya Expert Router",
+   "tagline": "Routes and executes Maya tasks via Python, audits scenes, and validates work like a pro.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/maya-expert-router.md",
+   "url": "https://templatesgrokbot.com/bot/maya-expert-router",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-expert",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-fx-setup",
+   "name": "Maya FX Setup",
+   "tagline": "Sets up and debugs Maya FX simulations (nCloth, Bifrost, MASH) and delivers caches to render.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/maya-fx-setup.md",
+   "url": "https://templatesgrokbot.com/bot/maya-fx-setup",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-fx",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-lighting-supervisor",
+   "name": "Maya Lighting Supervisor",
+   "tagline": "Light and render Maya/Arnold shots with measurable, reference-driven decisions.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/maya-lighting-supervisor.md",
+   "url": "https://templatesgrokbot.com/bot/maya-lighting-supervisor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-lighting-rendering",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-lookdev-shader-builder",
+   "name": "Maya Lookdev Shader Builder",
+   "tagline": "Builds physically correct Arnold shaders in Maya from texture sets and references.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/maya-lookdev-shader-builder.md",
+   "url": "https://templatesgrokbot.com/bot/maya-lookdev-shader-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-lookdev",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-pipeline-scripting",
+   "name": "Maya Pipeline Scripting",
+   "tagline": "Writes and fixes Maya pipeline Python code with verified exports.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/maya-pipeline-scripting.md",
+   "url": "https://templatesgrokbot.com/bot/maya-pipeline-scripting",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-pipeline-scripting",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-retopology-and-uv",
+   "name": "Maya Retopology and UV",
+   "tagline": "Retopologize and UV-unwrap Maya meshes for animation or games, deformation-tested and bake-ready.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "productivity"
+   ],
+   "path": "jobs/creatives/design/maya-retopology-and-uv.md",
+   "url": "https://templatesgrokbot.com/bot/maya-retopology-and-uv",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-retopology-uv",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-rig-builder",
+   "name": "Maya Rig Builder",
+   "tagline": "Builds clean, animator-ready Maya rigs from a validated model.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/maya-rig-builder.md",
+   "url": "https://templatesgrokbot.com/bot/maya-rig-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-rigging",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "maya-topology-modeler",
+   "name": "Maya Topology Modeler",
+   "tagline": "Model clean, deformation-ready topology in Autodesk Maya for games or film.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/maya-topology-modeler.md",
+   "url": "https://templatesgrokbot.com/bot/maya-topology-modeler",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-modeling",
+   "source_license": "MIT"
   },
   {
    "slug": "mcp-builder",
@@ -121952,6 +122299,23 @@
    "url": "https://templatesgrokbot.com/bot/preventive-maintenance-planner"
   },
   {
+   "slug": "previs-storyboard-assistant",
+   "name": "Previs Storyboard Assistant",
+   "tagline": "Turns scripts into previs, storyboards, and animatics in Blender.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "text-to-video"
+   ],
+   "path": "jobs/creatives/generative-video/previs-storyboard-assistant.md",
+   "url": "https://templatesgrokbot.com/bot/previs-storyboard-assistant",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-previs-storyboard",
+   "source_license": "MIT"
+  },
+  {
    "slug": "price-change-impact-modeler",
    "name": "Price Change Impact Modeler",
    "tagline": "Models a proposed price change across renewals and pipeline, then drafts the rollout plan for your approval.",
@@ -127212,6 +127576,22 @@
    "url": "https://templatesgrokbot.com/bot/proxy-vote-tracking-assistant"
   },
   {
+   "slug": "pstack-model-configurator",
+   "name": "Pstack Model Configurator",
+   "tagline": "Configure pstack's per-role model choices and reasoning budget.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/pstack-model-configurator.md",
+   "url": "https://templatesgrokbot.com/bot/pstack-model-configurator",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/setup-pstack",
+   "source_license": "MIT"
+  },
+  {
    "slug": "psychological-safety-assessment-assistant",
    "name": "Psychological Safety Assessment Assistant",
    "tagline": "Assesses and improves workplace psychological safety through surveys, analysis, and guidance.",
@@ -132315,6 +132695,39 @@
    "source_license": "MIT"
   },
   {
+   "slug": "reflective-learning-miner",
+   "name": "Reflective Learning Miner",
+   "tagline": "Mine the active chat for durable learnings and route each to a concrete edit on an existing capability.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "knowledge-management"
+   ],
+   "path": "jobs/it-and-development/knowledge-management/reflective-learning-miner.md",
+   "url": "https://templatesgrokbot.com/bot/reflective-learning-miner",
+   "adapted_from": "https://github.com/backnotprop/pstack/tree/main/skills/reflect",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "reflective-template-miner",
+   "name": "Reflective Template Miner",
+   "tagline": "Mines the active transcript for durable learnings and routes each to a concrete edit on an existing capability template.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "prompt-engineering"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/reflective-template-miner.md",
+   "url": "https://templatesgrokbot.com/bot/reflective-template-miner",
+   "adapted_from": "https://github.com/michael-denyer/pstack-claude/tree/main/plugins/pstack/skills/reflect",
+   "source_license": "MIT"
+  },
+  {
    "slug": "reformulation-cost-and-specification-change",
    "name": "Reformulation Cost and Specification Change",
    "tagline": "Recalculates cost, label, allergen, claim and process effects for an ingredient swap, then drafts the specification change for your approval.",
@@ -136189,6 +136602,23 @@
    ],
    "path": "jobs/finance/teaching-and-tutoring/retirement-tax-planning-assistant.md",
    "url": "https://templatesgrokbot.com/bot/retirement-tax-planning-assistant"
+  },
+  {
+   "slug": "retopology-planner",
+   "name": "Retopology Planner",
+   "tagline": "Plan and build clean topology for animation, subdivision, or game low poly in Blender.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/retopology-planner.md",
+   "url": "https://templatesgrokbot.com/bot/retopology-planner",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-retopology",
+   "source_license": "MIT"
   },
   {
    "slug": "retrieval-grounding-check",
@@ -169279,6 +169709,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "uv-bake-expert",
+   "name": "UV Bake Expert",
+   "tagline": "UV unwrapping and baking expert for Blender, with measurable gates at every stage.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/uv-bake-expert.md",
+   "url": "https://templatesgrokbot.com/bot/uv-bake-expert",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-uv-baking",
+   "source_license": "MIT"
+  },
+  {
    "slug": "uv-package-manager",
    "name": "Uv Package Manager",
    "tagline": "Manage Python projects with the fast uv package manager.",
@@ -178282,6 +178729,56 @@
    "path": "jobs/it-and-development/data-analysis/zarr-python.md",
    "url": "https://templatesgrokbot.com/bot/zarr-python",
    "adapted_from": "https://www.aitmpl.com/component/skills/scientific/zarr-python",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zbrush-batch-processor",
+   "name": "ZBrush Batch Processor",
+   "tagline": "Batch-process ZBrush files with safe, checkpointed automation and proof.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-art/zbrush-batch-processor.md",
+   "url": "https://templatesgrokbot.com/bot/zbrush-batch-processor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-automation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zbrush-hard-surface-guide",
+   "name": "ZBrush Hard Surface Guide",
+   "tagline": "Guides hard-surface modeling in ZBrush 2026 with deterministic operations and expert critique.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/teaching-and-tutoring/zbrush-hard-surface-guide.md",
+   "url": "https://templatesgrokbot.com/bot/zbrush-hard-surface-guide",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-hard-surface",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zbrush-sculpting-expert",
+   "name": "ZBrush Sculpting Expert",
+   "tagline": "Drives ZBrush 2026 for sculpting, retopology, UVs, export, and 3D print prep.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "coding"
+   ],
+   "path": "jobs/creatives/design/zbrush-sculpting-expert.md",
+   "url": "https://templatesgrokbot.com/bot/zbrush-sculpting-expert",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-expert",
    "source_license": "MIT"
   },
   {

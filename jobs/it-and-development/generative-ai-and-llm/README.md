@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 269 Grok Bot templates, 249 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 271 Grok Bot templates, 251 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -228,6 +228,7 @@ Work with language models, agents and their plumbing. 269 Grok Bot templates, 24
 | [Prompt Caching](prompt-caching.md) | Analyzes LLM prompts and responses to recommend caching strategies that reduce costs and latency. |
 | [Prompt Engineering Outlines](prompt-engineering-outlines.md) | Guarantee valid JSON, XML, or code structure from local LLMs using Outlines. |
 | [Prompt Governance](prompt-governance.md) | Version, evaluate and safely promote production prompts with a registry, golden datasets and rollback. |
+| [Pstack Model Configurator](pstack-model-configurator.md) | Configure pstack's per-role model choices and reasoning budget. |
 | [Pufferlib](pufferlib.md) | Trains RL agents and builds custom environments with high-performance parallel simulation. |
 | [Pydantic Ai](pydantic-ai.md) | Build type-safe Python AI agents with validated outputs and tool use. |
 | [Quantized Export](quantized-export.md) | Export promoted checkpoints into the right deployment format and prove they still work. |
@@ -236,6 +237,7 @@ Work with language models, agents and their plumbing. 269 Grok Bot templates, 24
 | [RAG Infrastructure Builder](rag-infrastructure-builder.md) | Builds and runs a retrieval-augmented generation stack over your documents, from ingestion to grounded answers. |
 | [RAG Quality Evaluator](rag-quality-evaluator.md) | Measures retrieval and answer quality for a RAG system and reports regressions with sources. |
 | [Recallmax](recallmax.md) | Injects 500K-1M clean tokens and compresses 14-turn history into 800 tokens. |
+| [Reflective Template Miner](reflective-template-miner.md) | Mines the active transcript for durable learnings and routes each to a concrete edit on an existing capability template. |
 | [Retrieval Grounding Check](retrieval-grounding-check.md) | Tests a retrieval pipeline's answers, flags unsupported claims, and tunes settings until grounding holds. |
 | [SaaS Replacement Planner](saas-replacement-planner.md) | Analyzes your SaaS stack and builds a cost-saving replacement plan with AI agents. |
 | [Safety Alignment Constitutional Ai](../../science-and-research/generative-ai-and-llm/safety-alignment-constitutional-ai.md) | Trains language models to be harmless via self-critique and AI feedback, without human labels. |

@@ -70,8 +70,8 @@ Teachers, trainers and students. **459 ready-made Grok Bot templates** for this 
 | [School Budget Analysis Assistant](data-analysis/school-budget-analysis-assistant.md) | Analyzes school budgets, forecasts finances, and prepares reports for headteacher decisions. |
 | [Training Effectiveness Evaluator](data-analysis/training-effectiveness-evaluator.md) | Evaluates training effectiveness from surveys to ROI and builds reports, dashboards, and presentations. |
 | [Attendance Analysis Assistant](data-analysis/attendance-analysis-assistant.md) | Turns attendance records into reports, insights, and intervention plans for school principals. |
-| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [Academic Research Data Analyst](data-analysis/academic-research-data-analyst.md) | Cleans, analyzes, visualizes, and interprets academic research data for teaching assistants. |
+| [Training Needs Analysis Assistant](data-analysis/training-needs-analysis-assistant.md) | Turns training data into a prioritized plan for closing strength gaps. |
 | [eLearning Feedback Analyzer](data-analysis/elearning-feedback-analyzer.md) | Turns eLearning user feedback into categorized insights, prioritized fixes, and clear reports. |
 | [Training Feedback Action Planner](data-analysis/training-feedback-action-planner.md) | Evaluates training effectiveness and turns feedback into improvement plans. |
 
@@ -113,8 +113,8 @@ Teachers, trainers and students. **459 ready-made Grok Bot templates** for this 
 |---|---|
 | [Pptx Posters](../creatives/design/pptx-posters.md) | Create professional LaTeX research posters for conferences and academic events. No design experience needed. Just describe your content. I handle the |
 | [Visual Learning Materials Creator](design/visual-learning-materials-creator.md) | Turns lesson concepts into visual learning materials across formats for headteachers. |
-| [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Gamified Learning Designer](design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
+| [Scientific Slides](design/scientific-slides.md) | Build slide decks and presentations for research talks. |
 | [Virtual Training Design Assistant](design/virtual-training-design-assistant.md) | Designs and improves virtual training environments for instructors. |
 | [Mobile Learning App Designer](design/mobile-learning-app-designer.md) | Designs and refines mobile learning apps with AI-assisted content, features, and user experience guidance. |
 | [Classroom Decoration Planner](design/classroom-decoration-planner.md) | Generates classroom decoration ideas and plans for primary school teachers. |

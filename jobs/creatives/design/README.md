@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 230 Grok Bot templates, 176 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -86,6 +86,7 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Editorial Web Prototyper](editorial-web-prototyper.md) | Creates editorial-minimalist web prototypes with warm monochrome canvas and serif typography. |
 | [Email Template Design Assistant](../../sales/design/email-template-design-assistant.md) | Designs, refines, and optimizes email templates that engage your audience and drive results. |
 | [Emil Design Eng](emil-design-eng.md) | UI polish, animation direction, and high-craft component decisions for product interfaces. |
+| [Engine-Ready Exporter](engine-ready-exporter.md) | Export Blender models engine-ready with correct scale, pivot, and round-trip checks. |
 | [Environmental Art Concept Generator](../../it-and-development/design/environmental-art-concept-generator.md) | Helps game developers generate and refine environmental art concepts and nature-themed game ideas. |
 | [Ethical Design Accessibility Assistant](ethical-design-accessibility-assistant.md) | Guides ethical, accessible design and audits for graphic designers. |
 | [Ethical UX Design Advisor](../../product-development/design/ethical-ux-design-advisor.md) | Guides ethical UX design decisions, from privacy to inclusivity, for responsible products. |
@@ -105,6 +106,7 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Gamified Learning Designer](../../education/design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Glassmorphism](../../it-and-development/design/glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
 | [Gradient Design](gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
+| [Hard Surface Modeler](hard-surface-modeler.md) | Builds clean, game-ready hard-surface models in Blender with booleans, bevels, and shading checks. |
 | [Hig Components Content](hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
 | [Hig Components Controls](hig-components-controls.md) | Advise on Apple HIG selection and input controls for app design. |
 | [Hig Components Dialogs](../../product-development/design/hig-components-dialogs.md) | Recommend Apple HIG presentation components for alerts, sheets, popovers, action sheets, and digit entry. |
@@ -145,7 +147,10 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Magazine Poster Designer](magazine-poster-designer.md) | Turns your content into a Sunday-paper style magazine poster. |
 | [Material and Process Selection Assistant](../../product-development/design/material-and-process-selection-assistant.md) | Shortlists material and process pairs, checks design rules, and drafts a costed comparison for your decision. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
+| [Material Look Developer](material-look-developer.md) | Builds physically plausible Blender materials and textures from masks, for realistic or stylized looks. |
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
+| [Maya Lookdev Shader Builder](maya-lookdev-shader-builder.md) | Builds physically correct Arnold shaders in Maya from texture sets and references. |
+| [Maya Retopology and UV](maya-retopology-and-uv.md) | Retopologize and UV-unwrap Maya meshes for animation or games, deformation-tested and bake-ready. |
 | [Minimalism](minimalism.md) | Generate minimal layouts with extreme whitespace, strict typography, and no decoration. |
 | [Minimalist Ui](minimalist-ui.md) | Build warm monochrome editorial UIs with crisp borders and restrained motion. |
 | [Mobile Design](../../product-development/design/mobile-design.md) | Guide mobile-first design decisions for iOS and Android with platform conventions and touch psychology. |
@@ -170,6 +175,7 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Radix Ui Design System](radix-ui-design-system.md) | Build accessible, unstyled React component libraries with Radix UI primitives. |
 | [Redesign Existing Projects](../../it-and-development/design/redesign-existing-projects.md) | Audit and upgrade existing UI with premium design fixes, no rewrites. |
 | [Responsive Web Design Assistant](responsive-web-design-assistant.md) | Guides UX/UI designers through every stage of responsive web design, from setup to maintenance. |
+| [Retopology Planner](retopology-planner.md) | Plan and build clean topology for animation, subdivision, or game low poly in Blender. |
 | [Retro Design](retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Room Fit Check Assistant](room-fit-check-assistant.md) | Checks whether chosen furniture clears the delivery route and fits the room, and finds alternatives when it does not. |
@@ -207,6 +213,7 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Ui Visual Validator](../../it-and-development/design/ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
 | [User Experience Reviewer](../../product-development/design/user-experience-reviewer.md) | Reviews product flows, screens and copy so users see outcomes, not internal machinery. |
 | [User Interface Design Basics Assistant](user-interface-design-basics-assistant.md) | Guides graphic designers through UI design foundations, from color and layout to prototyping and testing. |
+| [UV Bake Expert](uv-bake-expert.md) | UV unwrapping and baking expert for Blender, with measurable gates at every stage. |
 | [Ux Audit](ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 | [Ux Flow](ux-flow.md) | Design user flows and navigation structure following proven UX patterns. |
 | [UX Flow & Wireframer](../../product-development/design/ux-flow-wireframer.md) | Sketches user flows and low-fidelity wireframes as text layouts and Mermaid diagrams before visual design begins. |
@@ -228,5 +235,6 @@ Interfaces, brands, layouts and visual systems. 222 Grok Bot templates, 168 of t
 | [Web Design Guidelines](../../it-and-development/design/web-design-guidelines.md) | Audits UI code against the latest Web Interface Guidelines. |
 | [Widget Based Design](widget-based-design.md) | Build modular, glanceable widget UI blocks for web and mobile apps. |
 | [Y2k Design](y2k-design.md) | Generate Y2K aesthetic UI with chrome, blobs, and neon glow. |
+| [ZBrush Sculpting Expert](zbrush-sculpting-expert.md) | Drives ZBrush 2026 for sculpting, retopology, UVs, export, and 3D print prep. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

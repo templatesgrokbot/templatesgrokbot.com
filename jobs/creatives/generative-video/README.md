@@ -1,6 +1,6 @@
 # Generative Video templates for Creatives
 
-Produce video and animation from prompts and assets. 20 Grok Bot templates, 15 of them filed in this folder; the others live under their main field and are linked from here.
+Produce video and animation from prompts and assets. 23 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -14,10 +14,13 @@ Produce video and animation from prompts and assets. 20 Grok Bot templates, 15 o
 | [Explainer Video Builder](../../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
 | [Gemini Omni Flash Api](gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Generate Animated Videos Remotion](generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
+| [Grease Pencil Animator](grease-pencil-animator.md) | Draws and animates editable Grease Pencil scenes in Blender 5.x, keeping every stroke redrawable and judging results in motion. |
 | [Gregg Shorts](gregg-shorts.md) | Turns topics into 9:16 explainer shorts with Greg Isenberg motion graphics. |
 | [Heygen Best Practices](../../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
+| [Maya Animation Reviewer](maya-animation-reviewer.md) | Plans, blocks, splines, and polishes character animation in Maya with expert checks. |
 | [Motion Design Remix](motion-design-remix.md) | Adapts proven motion compositions to new copy while preserving timing and movement. |
 | [Motion Recreate](motion-recreate.md) | Recreates a reference video as your own editable OpenMotion project. |
+| [Previs Storyboard Assistant](previs-storyboard-assistant.md) | Turns scripts into previs, storyboards, and animatics in Blender. |
 | [Remotion](remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Remotion Video Renderer](remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 | [Riffkit](riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |

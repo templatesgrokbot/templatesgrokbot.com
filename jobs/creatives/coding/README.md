@@ -1,6 +1,6 @@
 # Coding templates for Creatives
 
-Write, review, test and debug software. 37 Grok Bot templates, 3 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 42 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -9,6 +9,7 @@ Write, review, test and debug software. 37 Grok Bot templates, 3 of them filed i
 | [2d Games](../../it-and-development/coding/2d-games.md) | Implement 2D game systems using sprites, tilemaps, physics, cameras, and genre patterns. |
 | [Accessibility](../../it-and-development/coding/accessibility.md) | Audits and improves web accessibility to WCAG 2.1 AA standards. |
 | [Aem Frontend Specialist](../../it-and-development/coding/aem-frontend-specialist.md) | Builds AEM components from Figma designs using HTL, Tailwind CSS, and design tokens. |
+| [Blender Rigging Specialist](blender-rigging-specialist.md) | Builds precise, animator-ready character rigs in Blender from chat. |
 | [Building Native Ui](../../it-and-development/coding/building-native-ui.md) | Build beautiful Expo Router apps with native UI patterns and Apple HIG. |
 | [Codebase To Wordpress Converter](../../it-and-development/coding/codebase-to-wordpress-converter.md) | Convert any codebase into a pixel-perfect, SEO-optimized WordPress theme. |
 | [Design Taste Frontend](../../it-and-development/coding/design-taste-frontend.md) | Build high-agency frontend UI with strict design taste, calibrated color, and motion rules. |
@@ -19,10 +20,14 @@ Write, review, test and debug software. 37 Grok Bot templates, 3 of them filed i
 | [Fixing Motion Performance](../../it-and-development/coding/fixing-motion-performance.md) | Audit and fix animation jank by enforcing compositor-only motion and layout-safe patterns. |
 | [Frontend Ui Dark Ts](../../it-and-development/coding/frontend-ui-dark-ts.md) | Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards. |
 | [Game Developer](../../it-and-development/coding/game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |
+| [Geometry Nodes Builder](geometry-nodes-builder.md) | Builds and debugs Blender Geometry Nodes trees with numeric proof and visual checks. |
 | [Godot Gdscript Patterns](../../it-and-development/coding/godot-gdscript-patterns.md) | Godot 4 GDScript patterns for architecture, signals, state machines, and optimization. |
 | [Image Compressor](image-compressor.md) | Compresses your images to WebP or PNG and reports the exact size before and after. |
 | [Layered Design](../../it-and-development/coding/layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
 | [Makepad Splash](../../it-and-development/coding/makepad-splash.md) | Write and debug Splash scripts for dynamic UI and workflow automation in Makepad. |
+| [Maya Expert Router](maya-expert-router.md) | Routes and executes Maya tasks via Python, audits scenes, and validates work like a pro. |
+| [Maya FX Setup](maya-fx-setup.md) | Sets up and debugs Maya FX simulations (nCloth, Bifrost, MASH) and delivers caches to render. |
+| [Maya Rig Builder](maya-rig-builder.md) | Builds clean, animator-ready Maya rigs from a validated model. |
 | [Mermaid Expert](../../it-and-development/coding/mermaid-expert.md) | Generate Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. |
 | [Mui](../../it-and-development/coding/mui.md) | Generate Material-UI v7 components with sx prop styling, theme integration, and responsive patterns. |
 | [Photopea Embedded Editor](../../it-and-development/coding/photopea-embedded-editor.md) | Embed Photopea in web apps and automate image editing with photopea.js. |

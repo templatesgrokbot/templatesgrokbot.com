@@ -1,6 +1,6 @@
 # Knowledge Management templates for IT and Development
 
-Notes, documents, PDFs and knowledge bases kept in order. 79 Grok Bot templates, 61 of them filed in this folder; the others live under their main field and are linked from here.
+Notes, documents, PDFs and knowledge bases kept in order. 80 Grok Bot templates, 62 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -70,6 +70,7 @@ Notes, documents, PDFs and knowledge bases kept in order. 79 Grok Bot templates,
 | [Quality Documentation Manager](../../operations/knowledge-management/quality-documentation-manager.md) | Manages document control, change control, and regulatory documentation compliance for medical device organizations. |
 | [Read All Adrs](read-all-adrs.md) | Read all ADR files in a project to understand architectural decisions. |
 | [Record-Keeping Compliance Optimizer](../../legal/knowledge-management/record-keeping-compliance-optimizer.md) | Optimizes record-keeping, ensures compliance, and improves data accuracy and accessibility. |
+| [Reflective Learning Miner](reflective-learning-miner.md) | Mine the active chat for durable learnings and route each to a concrete edit on an existing capability. |
 | [Resumable Implementation Contracts](resumable-implementation-contracts.md) | Keeps multi-session implementation work resumable with stable task IDs, evidence, and exact checkpoints. |
 | [Review Agent](../../operations/knowledge-management/review-agent.md) | Reviews and validates Obsidian vault enhancements for consistency and quality. Reports findings with exact metrics. Never modifies files. Drafts revie |
 | [Rule Promotion Assistant](rule-promotion-assistant.md) | Turns a repeatedly observed working pattern into a permanent, enforced project rule. |

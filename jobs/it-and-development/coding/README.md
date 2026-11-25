@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1176 Grok Bot templates, 1167 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -675,6 +675,7 @@ Write, review, test and debug software. 1176 Grok Bot templates, 1167 of them fi
 | [Mason](mason.md) | Produces clean, functional code from blueprints and checklists, no invention. |
 | [Mathematician Tao](mathematician-tao.md) | Rigorous analysis of code and architecture with deep mathematical theory. |
 | [Max](max.md) | Refactors code for performance, clarity, and simplicity without changing behavior. |
+| [Maya Pipeline Scripting](maya-pipeline-scripting.md) | Writes and fixes Maya pipeline Python code with verified exports. |
 | [MCP Builder](mcp-builder.md) | Guide users to build MCP servers that connect LLMs to external APIs through well-designed tools. |
 | [Mcp Expert](mcp-expert.md) | Creates and configures MCP server integrations for the cli-tool components system. |
 | [Mcp Integration](mcp-integration.md) | Guides plugin developers through configuring MCP servers for external tool integration. |

@@ -1,6 +1,6 @@
 # Productivity templates for IT and Development
 
-Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 86 of them filed in this folder; the others live under their main field and are linked from here.
+Plan, prioritise and clear the recurring admin. 174 Grok Bot templates, 87 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -33,6 +33,7 @@ Plan, prioritise and clear the recurring admin. 173 Grok Bot templates, 86 of th
 | [Chieeeeefy](../../operations/productivity/chieeeeefy.md) | Manages calendar and email for a field engineer, converting timezones and protecting attention. (124 chars) No hype, no emoji. Rewritten: |
 | [Claude Win11 Speckit Update](claude-win11-speckit-update-skill.md) | Manage Windows 11 system settings and updates. |
 | [Coda Automation](../../operations/productivity/coda-automation.md) | Automate Coda docs, tables, formulas, permissions, and publishing via MCP. |
+| [Commit Summary Writer](commit-summary-writer.md) | Summarizes your authored commits over a chosen time range into a concise status update. |
 | [Communication Channel Optimizer](communication-channel-optimizer.md) | Optimizes your organization's communication channels for efficiency and engagement. |
 | [Conductor Manage](../../operations/productivity/conductor-manage.md) | Manage Conductor track lifecycle: archive, restore, delete, rename, and cleanup. |
 | [Conductor New Track](../../management/productivity/conductor-new-track.md) | Create a new track with specification and phased implementation plan. |

@@ -41,7 +41,7 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Regulatory Compliance Review Assistant](../finance/security-and-compliance/regulatory-compliance-review-assistant.md) | Regulatory compliance review and monitoring for insurance risk analysts. |
 | [Incident Response Planning Assistant](security-and-compliance/incident-response-planning-assistant.md) | Guides compliance analysts through incident response planning, from detection to review. |
 | [Protected Disclosure Compass](security-and-compliance/protected-disclosure-compass.md) | Manages whistleblower policy, complaints, investigations, training, and compliance reporting. |
-| [Shipping Rule Compliance Drafts](../operations/security-and-compliance/shipping-rule-compliance-drafts.md) | Ensures shipping compliance by researching rules, drafting documents, and monitoring risks. |
+| [Compliance and Regulatory Assistant](../management/security-and-compliance/compliance-and-regulatory-assistant.md) | Guides project managers through compliance research, documentation, audits, training, and regulatory updates. |
 
 [All 206 Security & Compliance templates →](security-and-compliance/README.md)
 
@@ -53,8 +53,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Lease Reader](research/lease-reader.md) | Reads a rental contract and tells you, in plain words, what you are agreeing to and what to push back on. |
 | [Uspto Database](research/uspto-database.md) | Searches USPTO patent and trademark databases for IP analysis and prior art. |
 | [IP Management Assistant](research/ip-management-assistant.md) | Manages IP tasks from registration to enforcement, with drafts and research for lawyers. |
-| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Lex](research/lex.md) | Ground legal drafting in verified government references across US, EU, and CA jurisdictions. |
+| [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
 | [Brazilian Legal Advisor](research/specialist-attorney.md) | Specialist attorney in all areas of Brazilian law. |
 | [Crossframe Debate](../education/research/crossframe-debate.md) | Analyze propositions, debate structures, and withdrawal conditions using CrossFrame. |
 
@@ -69,8 +69,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Royalty and Rights Manager](../creatives/productivity/royalty-and-rights-manager.md) | Tracks royalties, licenses, and rights for vocal artists and singer-songwriters. |
 | [Refusal Reasons Analysis Planner](productivity/refusal-reasons-analysis-planner.md) | Turns a refusal letter into a ranked route plan with deadlines and evidence, ready for your approval. |
 | [Inventor Disclosure Intake](productivity/inventor-disclosure-intake.md) | Reads inventor disclosures, finds the gaps, and drafts the questions and filing recommendation for your approval. |
-| [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
 | [Transcript Delivery Package Checker](productivity/transcript-delivery-package-checker.md) | Checks every court transcript delivery package against the order before it goes out. |
+| [Immigration Appeal Deadline Tracker](productivity/immigration-appeal-deadline-tracker.md) | Tracks every appeal deadline and warns you early when tasks slip, before you file. |
 | [Clerkship Application Tracker](productivity/clerkship-application-tracker.md) | Keeps every judicial clerkship application complete, correctly named and submitted on time. |
 
 [All 49 Productivity templates →](productivity/README.md)
@@ -114,8 +114,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Legislative Drafting Assistant](../government/writing-and-content/legislative-drafting-assistant.md) | Drafts, reviews, and analyzes legislation for policy makers. |
 | [Contract And Proposal Writer](writing-and-content/contract-and-proposal-writer.md) | Drafts jurisdiction-aware contracts, proposals, SOWs, NDAs and MSAs for client engagements. |
 | [Privacy Policy Drafter](writing-and-content/privacy-policy-drafter.md) | Drafts a plain-language privacy policy with legal-review flags and compliance notes. |
-| [Legislative Draft Consistency Check](writing-and-content/legislative-draft-consistency-check.md) | Checks each new bill draft for broken references, undefined terms and conflicts with pending bills. |
 | [Contract Redliner](writing-and-content/contract-redliner.md) | Reads contracts and produces redline suggestions with replacement language and negotiation points. |
+| [Legislative Draft Consistency Check](writing-and-content/legislative-draft-consistency-check.md) | Checks each new bill draft for broken references, undefined terms and conflicts with pending bills. |
 | [NDA Drafting Assistant](writing-and-content/nda-drafting-assistant.md) | Drafts one-way or mutual NDAs from your situation, jurisdiction and confidentiality terms. |
 
 [All 29 Writing & Content templates →](writing-and-content/README.md)
@@ -167,8 +167,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 
 | Template | What it does |
 |---|---|
-| [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Contract Query Resolution Assistant](support-and-community/contract-query-resolution-assistant.md) | Resolves contract queries from triage to follow-up, tracking every step and reporting metrics. |
+| [Insurance Dispute Resolution Assistant](../customer-support/support-and-community/insurance-dispute-resolution-assistant.md) | Guides insurance customer service reps through dispute resolution from intake to escalation. |
 | [Legal Intake Concierge](support-and-community/legal-intake-concierge.md) | Manages client communication for lawyers, from intake to follow-up, with approval gates. |
 | [Client Communication Manager](support-and-community/client-communication-manager.md) | Manages client communication for paralegals from intake to follow-up. |
 | [Legal Matter Intake Router](support-and-community/legal-matter-intake-router.md) | Routes each legal request to the right specialist with the details they need. |

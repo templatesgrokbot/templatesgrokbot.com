@@ -1,6 +1,6 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 59 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -17,8 +17,10 @@ Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed 
 | [Atlas Cloud Media](atlas-cloud-media.md) | Generate images and videos via Atlas Cloud's async media API with schema-first model selection. |
 | [Audio Mixer](audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
 | [Blender Asset Finisher](blender-asset-finisher.md) | Expert Blender modeling, sculpting, and asset finishing through Python or MCP, with professional checks. |
+| [Blender Lighting Composer](blender-lighting-composer.md) | Light, render, and composite Blender scenes with expert-level control and critique. |
 | [Canva Automation](canva-automation.md) | Automate Canva design operations: create, export, organize, and autofill via Rube MCP. |
 | [Canvas Art Generator](canvas-design.md) | Generates original visual art and design philosophy as PNG or PDF files. |
+| [Character Sculptor](character-sculptor.md) | Sculpts realistic ZBrush characters and creatures with expert anatomy and detail workflow. |
 | [Comfyui Gateway](../../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Daily Gift](daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
@@ -28,6 +30,8 @@ Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed 
 | [Generate Image](generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
 | [Generate Nanobanana](generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
 | [Grok image and video generator](grok-image-and-video-generator.md) | Generate images and videos using grok.com/imagine for the owner. |
+| [Hair Groom Specialist](hair-groom-specialist.md) | Grooms realistic hair and fur in Maya XGen from reference to final render. |
+| [Hair Grooming Expert](hair-grooming-expert.md) | Guides Blender hair and fur grooming with procedural layers and expert checks. |
 | [Idea Darwin](idea-darwin.md) | Evolve rough ideas through competitive rounds to surface strongest concepts. |
 | [Image Generator](image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [Image Studio](image-studio.md) | Automatically routes between realistic photo AI and art/editing. |
@@ -38,6 +42,7 @@ Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed 
 | [Luma Imagegen](luma-imagegen.md) | Generates images from text descriptions using Luma AI's Photon model. |
 | [Magic Animator](magic-animator.md) | Animate static logos, UI, icons, and social assets with AI-driven motion. |
 | [Marketing Image Producer](../../marketing/generative-art/marketing-image-producer.md) | Creates and optimizes marketing images — blog heroes, social graphics, banners, and product mockups. |
+| [Maya Lighting Supervisor](maya-lighting-supervisor.md) | Light and render Maya/Arnold shots with measurable, reference-driven decisions. |
 | [Meme Factory](meme-factory.md) | Generates memes from user requests using memegen.link with 100+ templates. |
 | [Modellix](modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
 | [Muapi Media](muapi-media.md) | Generate images and videos via MuAPI's async API with key protection, polling, and safe downloads. |
@@ -59,5 +64,6 @@ Make images, illustrations and artwork. 53 Grok Bot templates, 48 of them filed 
 | [Unsplash Integration](unsplash-integration.md) | Search and fetch high-quality free-to-use photos from Unsplash. |
 | [Viral Generator Builder](viral-generator-builder.md) | Designs shareable generator tools that create identity moments people screenshot and share. |
 | [Vizcom](vizcom.md) | Turn sketches into photorealistic 3D renders of physical products. |
+| [ZBrush Batch Processor](zbrush-batch-processor.md) | Batch-process ZBrush files with safe, checkpointed automation and proof. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

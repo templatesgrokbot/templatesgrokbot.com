@@ -1,6 +1,6 @@
 # Credits
 
-4,215 of the 10,734 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
+4,245 of the 10,764 templates in this repository are adapted from work that other people published. The TemplatesGrokBot team rewrote each of them as a Grok Bot template: new structure, capabilities, boundaries and approval rules. The credit for the original work stays with its authors, and the original license still applies to it.
 
 Every adapted template also names its original (`adapted_from`) and its license (`source_license`) in its front matter, and links back here at the end of the file.
 
@@ -19,8 +19,9 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 46 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-nanocoai-nanoclaw.md) |
 | [github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 43 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-zhaoxuya520-reverse-skill.md) |
 | [github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 40 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-snailsploit-claude-red.md) |
-| [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 34 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-michael-denyer-pstack-claude.md) |
+| [github.com/michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 36 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-michael-denyer-pstack-claude.md) |
 | [github.com/wshobson/agents](https://github.com/wshobson/agents) | 33 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-wshobson-agents.md) |
+| [github.com/scenario-labs/skills](https://github.com/scenario-labs/skills) | 30 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-scenario-labs-skills.md) |
 | [github.com/whyashthakker/agent-skills-marketing](https://github.com/whyashthakker/agent-skills-marketing) | 25 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-whyashthakker-agent-skills-marketing.md) |
 | [github.com/jonathimer/devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-jonathimer-devmarketing-skills.md) |
 | [github.com/LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) | 24 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-lambdatest-agent-skills.md) |
@@ -29,8 +30,8 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/huggingface/skills](https://github.com/huggingface/skills) | 22 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-huggingface-skills.md) |
 | [github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 20 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-addyosmani-agent-skills.md) |
 | [github.com/amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 18 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-amelnagdy-delegate-skills.md) |
+| [github.com/backnotprop/pstack](https://github.com/backnotprop/pstack) | 16 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-backnotprop-pstack.md) |
 | [github.com/bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 15 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-bitjaru-styleseed.md) |
-| [github.com/backnotprop/pstack](https://github.com/backnotprop/pstack) | 14 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-backnotprop-pstack.md) |
 | [github.com/AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 12 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-agricidaniel-claude-seo.md) |
 | [github.com/alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 12 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-alchaincyf-nuwa-skill.md) |
 | [github.com/Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 12 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-orchestra-research-ai-research-skills.md) |
@@ -66,7 +67,6 @@ Every adapted template also names its original (`adapted_from`) and its license 
 | [github.com/google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-google-gemini-gemini-skills.md) |
 | [github.com/microsoft/skills](https://github.com/microsoft/skills) | 4 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-microsoft-skills.md) |
 | [github.com/Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 4 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-ryze-ai-adgent-open-seo-mcp-skills.md) |
-| [github.com/scenario-labs/skills](https://github.com/scenario-labs/skills) | 4 | [MIT](LICENSES/MIT.md) | [list](credits/github-com-scenario-labs-skills.md) |
 | [docs.dbos.dev](https://docs.dbos.dev) | 3 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/docs-dbos-dev.md) |
 | [github.com/Dimillian/Skills](https://github.com/Dimillian/Skills) | 3 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-dimillian-skills.md) |
 | [github.com/longbridge/skills](https://github.com/longbridge/skills) | 3 | [CC BY 4.0](LICENSES/CC-BY-4.0.md) | [list](credits/github-com-longbridge-skills.md) |
