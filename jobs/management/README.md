@@ -42,8 +42,8 @@ Team leads and project managers. **1,025 ready-made Grok Bot templates** for thi
 | [Meal Prep](../operations/productivity/meal-prep.md) | Plans a week of meals around what you already have and writes the shopping list to match. |
 | [Outlook Automation](../operations/productivity/outlook-automation.md) | Automate Outlook email, calendar, contacts, and folders via Rube MCP. |
 | [Build](../product-development/productivity/build.md) | Guide feature development through research, planning, implementation, and tracking. |
+| [Diary](../operations/productivity/diary.md) | Automated multi-project dev diary logger with local isolation and Notion/Obsidian sync. |
 | [Linear Automation](../it-and-development/productivity/linear-automation.md) | Automate Linear issues, projects, cycles, labels, and comments via Rube MCP. |
-| [Se Product Manager Advisor](../product-development/productivity/se-product-manager-advisor.md) | Creates GitHub issues with business context and measurable success criteria from feature requests. |
 
 [All 344 Productivity templates →](productivity/README.md)
 
@@ -52,13 +52,13 @@ Team leads and project managers. **1,025 ready-made Grok Bot templates** for thi
 | Template | What it does |
 |---|---|
 | [Monte Carlo Monitoring Advisor](../it-and-development/data-analysis/monte-carlo-monitoring-advisor.md) | Analyze data coverage, create monitors for warehouse tables and AI agents. |
+| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Forecast Accuracy Review](../operations/data-analysis/forecast-accuracy-review.md) | Evaluate demand-forecast quality with WMAPE, bias, and Forecast Value Added vs. naive. |
 | [Inventory Demand Planning](../operations/data-analysis/inventory-demand-planning.md) | Forecast demand, set safety stock, and plan replenishment for multi-location retail. |
-| [Startup Analyst](../executives-and-strategy/data-analysis/startup-analyst.md) | Startup business analyst for market sizing, financial modeling, and competitive strategy. |
 | [Team Composition Analysis](../human-resources/data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Facility Operations Insight Planner](../operations/data-analysis/facility-operations-insight-planner.md) | Turns facility data into maintenance, energy, space, vendor, safety, budget, compliance, inventory, sustainability, and emergency plans. |
-| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 | [Production Scheduling](../operations/data-analysis/production-scheduling.md) | Translate work orders into a minute-by-minute production sequence that maximises throughput at the constraint. |
+| [Vendor Performance Analyst](../legal/data-analysis/vendor-performance-analyst.md) | Analyzes vendor performance, drafts reports, and prepares reviews for contract administrators. |
 
 [All 258 Data Analysis templates →](data-analysis/README.md)
 
@@ -118,7 +118,7 @@ Team leads and project managers. **1,025 ready-made Grok Bot templates** for thi
 | [Workflow Patterns](../it-and-development/coding/workflow-patterns.md) | Guide for implementing tasks with TDD workflow, phase checkpoints, and git commits. |
 | [Omp Delegate](../it-and-development/coding/omp-delegate.md) | Orchestrate bounded coding tasks via Oh My Pi, then review and commit yourself. |
 | [Backend Development Feature Development](../it-and-development/coding/backend-development-feature-development.md) | Orchestrate backend feature development from requirements to deployment across teams and services. |
-| [Blueprint Mode](../it-and-development/coding/blueprint-mode.md) | Executes structured coding workflows with strict correctness and maintainability. |
+| [Multi Agent Task Orchestrator](../it-and-development/coding/multi-agent-task-orchestrator.md) | Route tasks to specialized AI agents with anti-duplication and quality gates. |
 
 [All 48 Coding templates →](coding/README.md)
 
@@ -188,8 +188,8 @@ Team leads and project managers. **1,025 ready-made Grok Bot templates** for thi
 |---|---|
 | [Customer Issue Resolution Assistant](../customer-support/support-and-community/customer-issue-resolution-assistant.md) | Guides customer success managers through issue triage, resolution, and proactive monitoring. |
 | [Crisis Management Playbook Builder](../customer-support/support-and-community/crisis-management-playbook-builder.md) | Plans, executes, and evaluates crisis communication and customer success strategies. |
-| [Escalation Management Supervisor Assistant](../customer-support/support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
 | [Logistics Customer Service Improver](../operations/support-and-community/logistics-customer-service-improver.md) | Turns logistics customer service data into actions, reports, and training. |
+| [Escalation Management Supervisor Assistant](../customer-support/support-and-community/escalation-management-supervisor-assistant.md) | Helps call center supervisors craft escalation guidelines, triage issues, and monitor performance. |
 | [Logistics Customer Service Optimizer](../operations/support-and-community/logistics-customer-service-optimizer.md) | Analyzes feedback, tracks complaints, and automates customer service for logistics operations. |
 | [Moderation Consistency Reviewer](support-and-community/moderation-consistency-reviewer.md) | Finds unexplained differences in moderation outcomes each week and prepares calibration examples for your approval. |
 | [Feedback Loop Manager](support-and-community/feedback-loop-manager.md) | Analyzes customer feedback, automates responses, and tracks resolution to close the loop. |
@@ -231,8 +231,8 @@ Team leads and project managers. **1,025 ready-made Grok Bot templates** for thi
 
 | Template | What it does |
 |---|---|
-| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Claims Training Developer](teaching-and-tutoring/claims-training-developer.md) | Builds and tracks staff training for insurance claims teams. |
+| [Training Program Designer](teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Ship Learn Next](../education/teaching-and-tutoring/ship-learn-next.md) | Turn learning content into actionable implementation plans with Ship-Learn-Next cycles. |
 | [Pitch Rehearsal](../education/teaching-and-tutoring/pitch-rehearsal.md) | Plays the toughest person in the room and asks the question you hoped nobody would. |
 | [Crossframe Teach](../education/teaching-and-tutoring/crossframe-teach.md) | Teach CrossFrame concepts with plain language, misreading boundaries, and exercises. |

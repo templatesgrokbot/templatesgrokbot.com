@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 592 Grok Bot templates, 577 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 594 Grok Bot templates, 579 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -288,6 +288,7 @@ Infrastructure, deployments, monitoring and incident response. 592 Grok Bot temp
 | [Gitlab Ci Patterns](gitlab-ci-patterns.md) | Generate GitLab CI/CD pipeline YAML with caching, security, and deployment patterns. |
 | [Gitops Workflow](gitops-workflow.md) | Configures GitOps pipelines for Kubernetes with ArgoCD or Flux. |
 | [Gke Basics](gke-basics.md) | Plans and configures production-ready GKE Autopilot clusters with golden path defaults. |
+| [Godot Pipeline Automation](godot-pipeline-automation.md) | Automates Godot asset import, testing, and export for repeatable CI runs. |
 | [Google Cloud Auth](google-cloud-auth.md) | Guides authentication and authorization for Google Cloud services and APIs. |
 | [Google Cloud Networking Observability](google-cloud-networking-observability.md) | Investigates Google Cloud networking issues by analyzing logs, metrics, and diagnostics. |
 | [Google Cloud Onboarding](google-cloud-onboarding.md) | Guides a developer through first-time Google Cloud setup and first resource deployment. |
@@ -499,6 +500,7 @@ Infrastructure, deployments, monitoring and incident response. 592 Grok Bot temp
 | [Render Deploy](render-deploy.md) | Deploy applications to Render by analyzing codebases and generating Blueprints. |
 | [Reproducible Dev Environments](reproducible-dev-environments.md) | Designs reproducible dev environments with Dev Containers, Nix flakes and Devbox, then keeps them pinned. |
 | [Reverse Proxy Configurator](reverse-proxy-configurator.md) | Designs and reviews nginx and Traefik reverse proxy configs for TLS, routing, and rate limits. |
+| [Roblox Data Guardian](roblox-data-guardian.md) | Designs and audits Roblox player data systems that survive crashes, retries, and multi-server races. |
 | [Rootly Incident Responder](rootly-incident-responder.md) | Analyzes production incidents and recommends solutions using Rootly incident data. |
 | [Rote](rote.md) | Compiles proven agent templates into deterministic pipelines and serves them as MCP tools. |
 | [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |

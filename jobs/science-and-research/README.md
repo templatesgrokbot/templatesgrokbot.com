@@ -39,11 +39,11 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Wireshark Analysis](../it-and-development/data-analysis/wireshark-analysis.md) | Analyze PCAP files with Wireshark filters and statistics for security and performance investigations. |
 | [Mlops Tensorboard](data-analysis/mlops-tensorboard.md) | Visualize training metrics, debug models, and compare experiments with TensorBoard. |
 | [Plotly](../it-and-development/data-analysis/plotly.md) | Interactive Plotly charts from your data — code, styling, and export guidance. |
-| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Pysam](data-analysis/pysam.md) | Read, write, and analyze genomic alignment, variant, and sequence files with Python. |
+| [Kusto Assistant](../it-and-development/data-analysis/kusto-assistant.md) | Runs KQL queries on Azure Data Explorer clusters to answer data questions. |
 | [Qutip](data-analysis/qutip.md) | Simulate and analyze quantum systems using QuTiP in Python. |
-| [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 | [Rdkit](data-analysis/rdkit.md) | Performs molecular analysis and manipulation for cheminformatics research. |
+| [Tokenization Sentencepiece](../it-and-development/data-analysis/tokenization-sentencepiece.md) | Trains and runs a SentencePiece tokenizer on raw Unicode text for multilingual NLP. |
 
 [All 364 Data Analysis templates →](data-analysis/README.md)
 
@@ -53,9 +53,9 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 |---|---|
 | [Labarchive Integration](research/labarchive-integration.md) | Automate LabArchives electronic lab notebook operations via API. |
 | [Pubchem Database](research/pubchem-database.md) | Query PubChem for chemical compounds, properties, similarity, substructure, and bioactivity data. |
+| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Notebooklm](research/notebooklm.md) | Query Google NotebookLM notebooks for source-grounded answers from Gemini. No outside knowledge. No guesswork. No tool-install chatter. Just your docu |
 | [Ilya Sutskever Simulator](research/ilya-sutskever-simulator.md) | Simulate Ilya Sutskever for perspectives on AGI safety-first, scaling laws, and safe superintelligence. |
-| [Bioservices](research/bioservices.md) | Provides programmatic access to 40+ bioinformatics databases for protein, pathway, and compound analysis. |
 | [Hmdb Database](research/hmdb-database.md) | Search the Human Metabolome Database for metabolite properties, spectra, and pathways. |
 | [Clinvar Database](research/clinvar-database.md) | Query ClinVar for variant clinical significance and pathogenicity classifications. No hype, no emoji, no 'leverage'/'empower'/'seamless'. |
 | [Falsify](research/falsify.md) | Five-stage scientific thinking protocol for high-stakes agent decisions. |
@@ -73,7 +73,7 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Emerging Techniques Model Pruning](generative-ai-and-llm/emerging-techniques-model-pruning.md) | Prunes LLMs to reduce size and accelerate inference without retraining. |
 | [Huggingface Local Models](../it-and-development/generative-ai-and-llm/huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Post Training Verl](../it-and-development/generative-ai-and-llm/post-training-verl.md) | Guides reinforcement learning post-training of LLMs using the verl library. |
-| [Nlp Engineer](../it-and-development/generative-ai-and-llm/nlp-engineer.md) | Builds production NLP pipelines for classification, extraction, translation, and sentiment analysis. |
+| [Langfuse](../it-and-development/generative-ai-and-llm/langfuse.md) | Instrument LLM apps with Langfuse tracing, evaluation, and prompt management. |
 
 [All 73 Generative AI and LLM templates →](generative-ai-and-llm/README.md)
 
@@ -114,8 +114,8 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Laboratory Equipment Maintenance Scheduler](productivity/laboratory-equipment-maintenance-scheduler.md) | Manages lab equipment maintenance scheduling, tracking, and compliance from inventory to audits. |
 | [Lab Supply Chain Manager](productivity/lab-supply-chain-manager.md) | Streamlines lab supply ordering, vendor management, and compliance tracking from research to reorder. |
 | [Lab Stock Forecast Alerts](productivity/lab-stock-forecast-alerts.md) | Manages lab inventory from tracking to forecasting, with alerts and reports. |
-| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Claude Speed Reader](../education/productivity/claude-speed-reader.md) | Speed-read text at 600+ WPM with RSVP and Spritz-style ORP highlighting. |
+| [Electrification Project Planner](productivity/electrification-project-planner.md) | Plans electrification projects from site assessment to performance monitoring. |
 | [Geological Fieldwork Planner](productivity/geological-fieldwork-planner.md) | Plans geological fieldwork from site research to permits, logistics, and safety. |
 | [Process Development Time Optimizer](productivity/process-development-time-optimizer.md) | Plans and tracks a process development scientist's day to cut wasted time. |
 | [Experiment Planning Assistant](productivity/experiment-planning-assistant.md) | Plans experiments from literature to approval, with budget, risk, and team coordination. |
@@ -160,9 +160,9 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Huggingface Spaces](../it-and-development/cloud-and-devops/huggingface-spaces.md) | Build, deploy, and maintain ML apps on Hugging Face Spaces with Gradio, Docker, or Static SDKs. |
 | [Web Scraper](../it-and-development/cloud-and-devops/web-scraper.md) | Extracts structured data from web pages with pagination and CSV/JSON export. |
 | [Remote Gpu Trainer](../it-and-development/cloud-and-devops/remote-gpu-trainer.md) | Deploy, monitor, and debug long GPU jobs on rented instances with safe teardown and resumable checkpoints. |
-| [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
 | [Infrastructure Modal](../it-and-development/cloud-and-devops/infrastructure-modal.md) | Runs ML workloads on serverless GPUs without managing infrastructure. |
 | [NOAA Radar Satellite Fetcher](cloud-and-devops/noaa-radar-satellite-fetcher.md) | Fetches NOAA NEXRAD radar and GOES satellite files by exact site, product, sector, and scan time. |
+| [Azure Ai Projects Java](../it-and-development/cloud-and-devops/azure-ai-projects-java.md) | Manage Azure AI Foundry projects via Java SDK for connections, datasets, indexes, and evaluations. |
 | [Unified Memory Thermal Planner](../it-and-development/cloud-and-devops/unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
 
 [All 15 Cloud & DevOps templates →](cloud-and-devops/README.md)
@@ -177,8 +177,8 @@ Scientists, analysts and academic researchers. **912 ready-made Grok Bot templat
 | [Geoffrey Hinton](../education/teaching-and-tutoring/geoffrey-hinton.md) | Simulates Geoffrey Hinton, explaining deep learning concepts and his research. |
 | [Laboratory Training and Onboarding Assistant](teaching-and-tutoring/laboratory-training-and-onboarding-assistant.md) | Designs and manages lab training and onboarding from materials to evaluation. |
 | [Machine Learning Project Advisor](../it-and-development/teaching-and-tutoring/machine-learning-project-advisor.md) | Guides data analysts through machine learning projects from preprocessing to deployment. |
-| [Deep Learning Study Companion](teaching-and-tutoring/deep-learning-study-companion.md) | Study companion and working knowledge base for the Deep Learning textbook, with current advice and tools. |
 | [Yann LeCun Debate](../education/teaching-and-tutoring/yann-lecun-debate.md) | Debate Yann LeCun's positions on LLMs, world models, and AI risks. |
+| [Deep Learning Study Companion](teaching-and-tutoring/deep-learning-study-companion.md) | Study companion and working knowledge base for the Deep Learning textbook, with current advice and tools. |
 
 [All 14 Teaching & Tutoring templates →](teaching-and-tutoring/README.md)
 

@@ -34,8 +34,8 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 | Template | What it does |
 |---|---|
 | [Powershell Security Hardening](../it-and-development/security-and-compliance/powershell-security-hardening.md) | Hardens PowerShell scripts, remoting, and Windows endpoints against security baselines. No embedded creds, no unsafe configs. Drafts changes for revie |
-| [Security Audit](../it-and-development/security-and-compliance/security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Security Auditor](../it-and-development/security-and-compliance/security-auditor.md) | Conducts systematic security audits, compliance assessments, and risk evaluations across systems and processes. |
+| [Security Audit](../it-and-development/security-and-compliance/security-audit.md) | Guides structured security audits for web apps, APIs, and infrastructure with checklists and reporting. |
 | [Incident Reporting Navigator](../it-and-development/security-and-compliance/incident-reporting-navigator.md) | Screens one security incident across EU reporting regimes and produces a cited notification map. |
 | [Read Only Auditor](../it-and-development/security-and-compliance/read-only-auditor.md) | Audits code for security issues without making any changes. |
 | [Aws Iam Best Practices](../it-and-development/security-and-compliance/aws-iam-best-practices.md) | Audit and harden AWS IAM policies to enforce least privilege and security best practices. |
@@ -65,8 +65,8 @@ Public services, policy and compliance. **778 ready-made Grok Bot templates** fo
 |---|---|
 | [Learning Culture Builder](../education/productivity/learning-culture-builder.md) | Builds and sustains a continuous learning culture through tailored programs, resources, and engagement initiatives. |
 | [Training Program Advisor](../human-resources/productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
-| [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [PDF Workflows](../operations/productivity/anthropic-pdf.md) | Manipulate PDFs: create, merge, split, OCR, fill forms, and extract content without Adobe. |
+| [Strategic Planning Guide](../executives-and-strategy/productivity/strategic-planning-guide.md) | Guides executive directors through the full strategic planning cycle, from vision to review. |
 | [Disaster Response Transportation Planner](productivity/disaster-response-transportation-planner.md) | Disaster response planning for transportation managers: assess risks, allocate resources, coordinate, and recover. |
 | [Strategic Goal Setting Assistant](../executives-and-strategy/productivity/strategic-goal-setting-assistant.md) | Turns your vision into aligned, measurable goals with plans, KPIs, and reviews. |
 | [Strategic IT Planning Assistant](../it-and-development/productivity/strategic-it-planning-assistant.md) | Turns IT data and stakeholder input into a strategic plan with roadmaps, budgets, and risk checks. |

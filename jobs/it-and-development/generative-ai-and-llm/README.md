@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 271 Grok Bot templates, 251 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 277 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -22,6 +22,7 @@ Work with language models, agents and their plumbing. 271 Grok Bot templates, 25
 | [AgentHub Competition Runner](agenthub-competition-runner.md) | Runs an AgentHub competition end to end: init, baseline, spawn, eval, merge. |
 | [AgentHub Session Starter](agenthub-session-starter.md) | Starts an AgentHub competition session for your coding task with agents and evaluation. |
 | [AgentHub Status Reporter](agenthub-status-reporter.md) | Shows live status of AgentHub sessions: agents, branches, commits, and board updates. |
+| [Agentica Agent Builder](agentica-agent-builder.md) | Designs and builds Python agents with the Agentica SDK. |
 | [Agents Autogpt](agents-autogpt.md) | Build and deploy continuous autonomous agents using a visual workflow builder. |
 | [Agents Crewai](agents-crewai.md) | Orchestrates teams of specialized AI agents to collaborate on complex tasks. |
 | [Agents Langchain](agents-langchain.md) | Build LLM applications with agents, chains, and RAG pipelines. No prototyping boilerplate. No provider lock-in. No manual memory management. Just work |
@@ -55,10 +56,12 @@ Work with language models, agents and their plumbing. 271 Grok Bot templates, 25
 | [Azure Ai Vision Imageanalysis Py](azure-ai-vision-imageanalysis-py.md) | Analyze images with Azure AI Vision for captions, tags, objects, OCR, and people detection. |
 | [Azure Ai Voicelive Java](azure-ai-voicelive-java.md) | Real-time bidirectional voice conversations with AI assistants via WebSocket. |
 | [Azure Ai Voicelive Ts](azure-ai-voicelive-ts.md) | Build real-time voice AI apps with Azure AI Voice Live SDK. |
+| [Background Agent Monitor](background-agent-monitor.md) | Tracks background agent progress via system reminders instead of polling. |
 | [Bdi Mental States](bdi-mental-states.md) | Model agent mental states as beliefs, desires, and intentions using BDI ontology patterns. |
 | [Bdistill Behavioral Xray](bdistill-behavioral-xray.md) | Probe your own behavioral patterns across 6 dimensions and generate a visual HTML report. |
 | [Blockrun](blockrun.md) | Routes requests to external AI models when you lack capabilities like image generation or real-time X data. |
 | [Bounded Grade Iterate](bounded-grade-iterate.md) | Grades an agent against a rubric, iterates within a cap, and runs held-back evals. |
+| [Braintrust Session Tracer](braintrust-session-tracer.md) | Trace Grok Bot sessions in Braintrust and correlate sub-agent activity. |
 | [Call Center AI Integrator](../../customer-support/generative-ai-and-llm/call-center-ai-integrator.md) | Integrates AI into call center systems, trains models, monitors performance, and automates workflows. |
 | [Capability Authoring Guide](capability-authoring-guide.md) | Guides you through authoring structured agent capabilities with validation and review. |
 | [Caveman Compression Mode](caveman-compression-mode.md) | Rewrites your replies in terse caveman style, keeping every technical detail and cutting filler. |
@@ -131,6 +134,7 @@ Work with language models, agents and their plumbing. 271 Grok Bot templates, 25
 | [Huggingface Local Models](huggingface-local-models.md) | Select and run GGUF models locally with llama.cpp on CPU, Metal, CUDA, or ROCm. |
 | [Huggingface Zerogpu](huggingface-zerogpu.md) | Build and deploy Gradio AI demos on Hugging Face ZeroGPU hardware. |
 | [Identity Graph Operator](identity-graph-operator.md) | Resolves records to canonical entities so every agent gets the same answer for who an entity is. |
+| [Implementation Delegator](implementation-delegator.md) | Spawns implementation agents to keep main context clean. |
 | [Inference Cost Auditor](inference-cost-auditor.md) | Audits codebases for LLM calls that are really classifications and prices a swap to a cheaper model. |
 | [Inference Serving Llama Cpp](inference-serving-llama-cpp.md) | Runs LLM inference on CPU, Apple Silicon, and non-NVIDIA GPUs using GGUF models. |
 | [Inference Serving Sglang](inference-serving-sglang.md) | Serve LLMs with structured outputs and prefix caching for 5× faster inference. |
@@ -163,6 +167,7 @@ Work with language models, agents and their plumbing. 271 Grok Bot templates, 25
 | [LoRA QLoRA Configurator](lora-qlora-configurator.md) | Configures LoRA/QLoRA supervised fine-tuning with validated hyperparameters. |
 | [Machine Learning Engineer](machine-learning-engineer.md) | Deploy and optimize ML models for production inference at scale. |
 | [Managed Agent Lifecycle Orchestrator](managed-agent-lifecycle-orchestrator.md) | Builds, launches, grades, and schedules your managed agents in your Anthropic account. |
+| [Math Router Coordinator](math-router-coordinator.md) | Routes math requests through a domain router before using tools. |
 | [Mcp Builder Ms](mcp-builder-ms.md) | Build MCP servers that integrate external APIs or services for LLMs. |
 | [Mcp Developer](mcp-developer.md) | Build, debug, and publish MCP servers and tools for AI agent integration. |
 | [Mcp Integration Engineer](mcp-integration-engineer.md) | Integrates MCP servers with clients and orchestrates multi-server workflows. |
@@ -182,6 +187,7 @@ Work with language models, agents and their plumbing. 271 Grok Bot templates, 25
 | [Multi Agent Architect](multi-agent-architect.md) | Design and debug production multi-agent systems with LangGraph, LangChain, and DeepAgents. |
 | [Multi Agent Patterns](multi-agent-patterns.md) | Design multi-agent systems with supervisor, swarm, or hierarchical patterns for context isolation. |
 | [Multi-Agent Competition Runner](multi-agent-competition-runner.md) | Runs a multi-agent competition end to end and merges the winner after your approval. |
+| [Multi-Agent Pattern Spawner](multi-agent-pattern-spawner.md) | Spawns multi-agent patterns for research, implementation, refinement, and validation. |
 | [Multi-Agent System Designer](multi-agent-system-designer.md) | Designs multi-agent architectures, generates validated tool schemas, and audits agent run logs for bottlenecks. |
 | [Multi-Agent Workflow Author](multi-agent-workflow-author.md) | Turns a repeatable multi-step task into a validated multi-agent workflow script you can run and resume. |
 | [Multi-Agent Workflow Designer](multi-agent-workflow-designer.md) | Designs multi-agent workflows with clear patterns, handoff contracts, and failure handling. |

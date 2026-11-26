@@ -1,11 +1,12 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1189 Grok Bot templates, 1180 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
 | Template | What it does |
 |---|---|
+| [2D Game Feel Tuner](2d-game-feel-tuner.md) | Builds and tunes 2D Godot games with measured feel and pixel-perfect rendering. |
 | [2d Games](2d-games.md) | Implement 2D game systems using sprites, tilemaps, physics, cameras, and genre patterns. |
 | [4.1 Beast](4-1-beast.md) | Autonomously solves coding problems through iterative research, implementation, and testing. |
 | [Acceptance Test Scenario Builder](acceptance-test-scenario-builder.md) | Builds acceptance test scenarios from requirements and process maps, then tracks coverage and retests failures. |
@@ -89,6 +90,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Ask Questions If Underspecified](ask-questions-if-underspecified.md) | Clarify ambiguous requests before implementing to avoid wrong work. |
 | [Astro](astro.md) | Build content-focused websites with Astro's zero-JS defaults and islands architecture. |
 | [Async Python Patterns](async-python-patterns.md) | Guide async Python apps with asyncio and concurrency patterns. |
+| [Async REPL Protocol](async-repl-protocol.md) | Guides you to correctly use async tools in Agentica's REPL harness. |
 | [Atlas Contract](atlas-contract.md) | Prevents goal drift during backend, API, or data-critical work by emitting contracts and deviation notices. |
 | [Audit Agent Run Evidence](audit-agent-run-evidence.md) | Judge whether agent-run traces really support a claimed success without re-executing anything. |
 | [Audit Context Building](audit-context-building.md) | Line-by-line code analysis to build deep architectural context before auditing. |
@@ -250,6 +252,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Code Review Checklist](code-review-checklist.md) | Guide systematic code reviews with a structured checklist covering functionality, security, performance, and quality. |
 | [Code Review Excellence](code-review-excellence.md) | Analyze pull requests for correctness, security, and maintainability with structured feedback. |
 | [Code Reviewer](code-reviewer.md) | Reviews a diff for the bugs that matter and stays quiet about the ones that do not. |
+| [Code Search Router](code-search-router.md) | Finds code fast by picking the right search tool for each query type. |
 | [Code Showcase React Ui Patterns](code-showcase-react-ui-patterns.md) | Modern React UI patterns for loading, error, empty, and button states. |
 | [Code Showcase Systematic Debugging](code-showcase-systematic-debugging.md) | Four-phase debugging methodology enforcing root cause analysis before any fix. |
 | [Code Showcase Testing Patterns](code-showcase-testing-patterns.md) | Write Jest unit tests with factories, mocks, and TDD red-green-refactor cycles. |
@@ -513,6 +516,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Game Debugging and Troubleshooting Assistant](game-debugging-and-troubleshooting-assistant.md) | Helps game developers debug code, optimize performance, and build player-facing troubleshooting tools. |
 | [Game Developer](game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |
 | [Game Testing Strategist](game-testing-strategist.md) | Generates game testing strategies, cases, and analysis for developers. |
+| [Gameplay Systems Architect](gameplay-systems-architect.md) | Builds and validates Godot 4.7 gameplay systems: AI, navigation, combat, save, dialogue, and more. |
 | [Gdb Cli](gdb-cli.md) | Analyze core dumps and debug live C/C++ processes with GDB. |
 | [Gemini](gemini.md) | Runs deep code reviews and big-context analysis via Gemini CLI. |
 | [Gemini Api Dev](gemini-api-dev.md) | Build apps with Gemini API using current models and SDKs. |
@@ -545,6 +549,8 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Goal Loop](goal-loop.md) | Turn agent prompts into persistent loops until verifiable stop conditions. |
 | [Godot 4 Migration](godot-4-migration.md) | Guide for migrating Godot 3.x projects to Godot 4 with GDScript 2.0. |
 | [Godot Gdscript Patterns](godot-gdscript-patterns.md) | Godot 4 GDScript patterns for architecture, signals, state machines, and optimization. |
+| [Godot Performance Exporter](godot-performance-exporter.md) | Profiles and ships Godot games with measured performance fixes and verified builds. |
+| [Godot Technical Director](godot-technical-director.md) | Drives Godot 4.7 headless and windowed tasks with evidence-based checks. |
 | [Golang Pro](golang-pro.md) | Build production-ready Go microservices with advanced concurrency and performance optimization. |
 | [Google Chat Integrator](google-chat-integrator.md) | Adds Google Chat channel integration to your NanoClaw setup. |
 | [Gpt 5 Beast Mode](gpt-5-beast-mode.md) | Autonomously solves complex problems by researching, coding, and iterating until fully resolved. No hand-holding. No stopping early. No excuses. Just |
@@ -646,6 +652,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Logic Review](logic-review.md) | Semi-formal logic review of a single file or function via execution tracing. |
 | [Loops Bot](loops-bot.md) | Manages an engineering outer loop from goal definition to merge for any repository. |
 | [Lovable Cleanup](lovable-cleanup.md) | Audits and strips Lovable scaffolding from Vite + React projects so the codebase ships as yours. |
+| [Luau Code Auditor](luau-code-auditor.md) | Audits and fixes Roblox Luau code for scheduler, type, cleanup, and performance issues. |
 | [Luna](luna.md) | Reviews code for correctness, security, and reliability against a blueprint. |
 | [M365 Agents Py](m365-agents-py.md) | Build multichannel enterprise agents for Teams, M365, and Copilot Studio with Python. |
 | [M365 Agents Ts](m365-agents-ts.md) | Build and host enterprise agents for Microsoft 365, Teams, and Copilot Studio. |
@@ -911,6 +918,9 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Robius Matrix Integration](robius-matrix-integration.md) | Integrate Matrix SDK with Makepad UI using async request/response pattern |
 | [Robius State Management](robius-state-management.md) | Manage Makepad app state with persistence and scope-based propagation. |
 | [Robius Widget Patterns](robius-widget-patterns.md) | Reusable Makepad widget patterns from Robrix and Moly codebases. |
+| [Roblox Architecture Advisor](roblox-architecture-advisor.md) | Structures Roblox game code: script placement, boot loaders, services, tags, and cleanup. |
+| [Roblox Gameplay Systems Engineer](roblox-gameplay-systems-engineer.md) | Builds and validates Roblox gameplay systems: NPC AI, combat, vehicles, and server-side hit detection. |
+| [Roblox Technical Director](roblox-technical-director.md) | Builds, fixes and tests Roblox Studio games with evidence, budgets and a human approval gate. |
 | [Robot Framework](robot-framework-skill.md) | Generate Robot Framework tests with keyword-driven syntax and Python libraries. No test execution or environment setup. |
 | [Roier Seo](roier-seo.md) | Audits websites for SEO, performance, and accessibility issues and auto-fixes them in the codebase. |
 | [Root Cause Fixer](root-cause-fixer.md) | Trace bugs to their first wrong decision and fix them there. |
@@ -940,6 +950,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Segment Automation](segment-automation.md) | Automate Segment CDP operations: track, identify, group, page, alias, and batch events. |
 | [Selenium](selenium-skill.md) | Generates production-grade Selenium WebDriver scripts and tests in Java, Python, JS, C#, Ruby, PHP, with local or TestMu cloud execution. |
 | [Semantic Code Graph Builder](semantic-code-graph-builder.md) | Builds and maintains a unified semantic code graph from multiple language servers. |
+| [Semantic Code Searcher](semantic-code-searcher.md) | Semantic code search for conceptual queries across your codebase. |
 | [Semantic Kernel Dotnet](semantic-kernel-dotnet.md) | Creates, updates, refactors, and explains .NET Semantic Kernel code using latest docs. |
 | [Semantic Kernel Python](semantic-kernel-python.md) | Build and manage Python AI applications using Semantic Kernel. |
 | [Semgrep Rule Creator](semgrep-rule-creator.md) | Creates custom Semgrep rules for security vulnerabilities and code patterns. |
@@ -998,6 +1009,7 @@ Write, review, test and debug software. 1177 Grok Bot templates, 1168 of them fi
 | [Strategic Compact](cc-skill-strategic-compact.md) | Condenses a codebase into a strategic summary for development planning. |
 | [Strict Code Quality Auditor](strict-code-quality-auditor.md) | Run an extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth. |
 | [Stripe Integration](stripe-integration.md) | Implement Stripe payments, subscriptions, webhooks and refunds with verified server-side authorization. |
+| [Structural Code Search](structural-code-search.md) | Search and refactor code by syntax structure, not just text. |
 | [Structured Code Troubleshooter](structured-code-troubleshooter.md) | Debug code faster with structured analysis, testing, and collaboration support. |
 | [Styleseed Design Review](styleseed-design-review.md) | Reviews UI code against a design rubric and scores it 0-100. |
 | [Subagent Orchestrator](subagent-orchestrator.md) | Coordinate quota-aware parallel subagents for large multi-file tasks. |

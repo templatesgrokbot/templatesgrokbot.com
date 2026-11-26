@@ -1,6 +1,6 @@
 # Coding templates for Creatives
 
-Write, review, test and debug software. 42 Grok Bot templates, 8 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 45 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -21,7 +21,10 @@ Write, review, test and debug software. 42 Grok Bot templates, 8 of them filed i
 | [Frontend Ui Dark Ts](../../it-and-development/coding/frontend-ui-dark-ts.md) | Dark-themed React UI system with Tailwind CSS and Framer Motion for dashboards. |
 | [Game Developer](../../it-and-development/coding/game-developer.md) | Optimizes and builds game systems, graphics, networking, and mechanics for target platforms. |
 | [Geometry Nodes Builder](geometry-nodes-builder.md) | Builds and debugs Blender Geometry Nodes trees with numeric proof and visual checks. |
+| [Godot Animation Setup](godot-animation-setup.md) | Animates Godot 4.7 characters with correct motion, retargeting, and IK. |
 | [Godot Gdscript Patterns](../../it-and-development/coding/godot-gdscript-patterns.md) | Godot 4 GDScript patterns for architecture, signals, state machines, and optimization. |
+| [Godot Shader Verifier](godot-shader-verifier.md) | Writes, compiles, and visually verifies Godot 4.7 shaders across renderers. |
+| [Godot VFX Builder](godot-vfx-builder.md) | Builds and audits layered particle effects for Godot 4.7 with per-renderer budgets. |
 | [Image Compressor](image-compressor.md) | Compresses your images to WebP or PNG and reports the exact size before and after. |
 | [Layered Design](../../it-and-development/coding/layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
 | [Makepad Splash](../../it-and-development/coding/makepad-splash.md) | Write and debug Splash scripts for dynamic UI and workflow automation in Makepad. |

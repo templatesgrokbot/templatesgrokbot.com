@@ -1,6 +1,6 @@
 # Design templates for IT and Development
 
-Interfaces, brands, layouts and visual systems. 118 Grok Bot templates, 52 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 119 Grok Bot templates, 53 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -66,6 +66,7 @@ Interfaces, brands, layouts and visual systems. 118 Grok Bot templates, 52 of th
 | [Game Designer](../../creatives/design/game-designer.md) | Designs game mechanics, balancing, and player progression systems. |
 | [Game UI Design Assistant](game-ui-design-assistant.md) | Game UI design partner: research, wireframe, prototype, test, and refine interfaces from concept to implementation. |
 | [Glassmorphism](glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
+| [Godot UI Builder](godot-ui-builder.md) | Builds and audits responsive, accessible game UI in Godot 4.7 across devices and languages. |
 | [Gradient Design](../../creatives/design/gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hig Components Content](../../creatives/design/hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
 | [Hig Components Dialogs](../../product-development/design/hig-components-dialogs.md) | Recommend Apple HIG presentation components for alerts, sheets, popovers, action sheets, and digit entry. |

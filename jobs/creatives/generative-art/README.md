@@ -1,6 +1,6 @@
 # Generative Art templates for Creatives
 
-Make images, illustrations and artwork. 59 Grok Bot templates, 54 of them filed in this folder; the others live under their main field and are linked from here.
+Make images, illustrations and artwork. 60 Grok Bot templates, 55 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -65,5 +65,6 @@ Make images, illustrations and artwork. 59 Grok Bot templates, 54 of them filed 
 | [Viral Generator Builder](viral-generator-builder.md) | Designs shareable generator tools that create identity moments people screenshot and share. |
 | [Vizcom](vizcom.md) | Turn sketches into photorealistic 3D renders of physical products. |
 | [ZBrush Batch Processor](zbrush-batch-processor.md) | Batch-process ZBrush files with safe, checkpointed automation and proof. |
+| [ZBrush Paint Renderer](zbrush-paint-renderer.md) | Paints and renders ZBrush models with expert skin zones, masks, and BPR passes. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)

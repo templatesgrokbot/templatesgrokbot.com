@@ -39,7 +39,7 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Training Program Advisor](productivity/training-program-advisor.md) | Recommends, designs, and manages employee training programs from needs assessment to effectiveness monitoring. |
 | [Exit Interview Coordinator](productivity/exit-interview-coordinator.md) | Manages exit interviews from scheduling to follow-up actions for HR specialists. |
 | [Employee Wellness Program Planner](productivity/employee-wellness-program-planner.md) | Designs, implements, and evaluates employee wellness programs for CHROs. |
-| [Global TA Strategy Advisor](productivity/global-ta-strategy-advisor.md) | Enhances talent acquisition with sourcing, branding, and data-driven insights. |
+| [HRIS Migration Planner](productivity/hris-migration-planner.md) | Plan and execute HRIS data migrations and integrations end-to-end. |
 
 [All 169 Productivity templates →](productivity/README.md)
 
@@ -53,8 +53,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | [Team Composition Analysis](data-analysis/team-composition-analysis.md) | Design optimal team structures, hiring plans, compensation, and equity for pre-seed to Series A startups. |
 | [Occupational Health Analyzer](../healthcare/data-analysis/occupational-health-analyzer.md) | Analyze occupational health data, assess risks, and provide personalized work-related health recommendations. |
 | [Compensation Analysis Assistant](data-analysis/compensation-analysis-assistant.md) | Analyzes compensation data to benchmark, ensure equity, and design competitive pay packages. |
-| [Feedback and Evaluation Systems Assistant](data-analysis/feedback-and-evaluation-systems-assistant.md) | Turns employee feedback and evaluation data into clear reports and improvement plans for training managers. |
 | [Benefits Analysis and Optimization Assistant](data-analysis/benefits-analysis-and-optimization-assistant.md) | Analyzes and optimizes employee benefits packages for compensation analysts. |
+| [Corporate Culture Strategy Assistant](../executives-and-strategy/data-analysis/corporate-culture-strategy-assistant.md) | Aligns corporate culture work: surveys, values, inclusion, leadership, change, recognition, communication, team, performance, wellness, onboarding. |
 
 [All 156 Data Analysis templates →](data-analysis/README.md)
 
@@ -62,8 +62,8 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 
 | Template | What it does |
 |---|---|
-| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Resume Tailor](../operations/writing-and-content/resume-tailor.md) | Customize a resume for a specific job posting while keeping every claim truthful. |
+| [Internal Comms Anthropic](../pr-and-communications/writing-and-content/internal-comms-anthropic.md) | Draft internal comms (3P, newsletters, FAQs) from approved guidelines, never sending. |
 | [Internal Comms Community](../pr-and-communications/writing-and-content/internal-comms-community.md) | Drafts internal company communications using your organization's preferred formats and guidelines. |
 | [Internal Comms Drafter](../pr-and-communications/writing-and-content/internal-comms.md) | Draft internal company messages in repeatable formats for review. |
 | [Employment Contract Templates](writing-and-content/employment-contract-templates.md) | Generate employment contract templates with compliance checks. |
@@ -78,11 +78,11 @@ Recruiting, onboarding and people operations. **565 ready-made Grok Bot template
 | Template | What it does |
 |---|---|
 | [Team Training Program Designer](../sales/teaching-and-tutoring/team-training-program-designer.md) | Designs and runs team training programs for business development managers. |
-| [Training and Development Assistant](teaching-and-tutoring/training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Tech Upskilling Program Coordinator](teaching-and-tutoring/tech-upskilling-program-coordinator.md) | Designs, runs, and evaluates tech upskilling programs for your organization. |
 | [Learning Path Architect for HR](../education/teaching-and-tutoring/learning-path-architect-for-hr.md) | Builds and manages personalized learning paths for each employee. |
-| [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
+| [Training and Development Assistant](teaching-and-tutoring/training-and-development-assistant.md) | Plan, build, run, and track employee training programs for HR Managers. |
 | [Legal Education and Training Assistant](../legal/teaching-and-tutoring/legal-education-and-training-assistant.md) | Legal education and training support for legal assistants, from research to career growth. |
+| [Training Program Designer](../management/teaching-and-tutoring/training-program-designer.md) | Designs, evaluates, and improves employee training programs for senior managers. |
 | [Soft Templates Workshop Designer](teaching-and-tutoring/soft-templates-workshop-designer.md) | Designs, runs, and improves soft strengths development workshops for training specialists. |
 | [Compliance Training Material Creator](../legal/teaching-and-tutoring/compliance-training-material-creator.md) | Creates compliance training materials from research to final review. |
 

@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 230 Grok Bot templates, 176 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 234 Grok Bot templates, 180 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -105,6 +105,8 @@ Interfaces, brands, layouts and visual systems. 230 Grok Bot templates, 176 of t
 | [Game UI Design Assistant](../../it-and-development/design/game-ui-design-assistant.md) | Game UI design partner: research, wireframe, prototype, test, and refine interfaces from concept to implementation. |
 | [Gamified Learning Designer](../../education/design/gamified-learning-designer.md) | Turns eLearning content into engaging, gamified experiences with complete game design support. |
 | [Glassmorphism](../../it-and-development/design/glassmorphism.md) | Generate frosted glass UI with backdrop blur, transparency, and light borders. |
+| [Godot 3D World Builder](godot-3d-world-builder.md) | Builds and validates 3D worlds in Godot 4.7 with player, terrain, and props. |
+| [Godot Lighting Tuner](godot-lighting-tuner.md) | Sets up and tunes lighting, GI, and post-effects in Godot 4.7 3D scenes. |
 | [Gradient Design](gradient-design.md) | Generate gradient-heavy UI with animated backgrounds, text, and borders. |
 | [Hard Surface Modeler](hard-surface-modeler.md) | Builds clean, game-ready hard-surface models in Blender with booleans, bevels, and shading checks. |
 | [Hig Components Content](hig-components-content.md) | Recommend Apple HIG content components with configuration and accessibility guidance. |
@@ -178,6 +180,8 @@ Interfaces, brands, layouts and visual systems. 230 Grok Bot templates, 176 of t
 | [Retopology Planner](retopology-planner.md) | Plan and build clean topology for animation, subdivision, or game low poly in Blender. |
 | [Retro Design](retro-design.md) | Generate retro 60s-80s UI with warm muted colors, grain, and classic typography. |
 | [Retro Futurism](retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
+| [Roblox Asset Pipeline](roblox-asset-pipeline.md) | Prepares 3D assets for Roblox Studio and UGC validation, from Blender to upload-ready. |
+| [Roblox Environment Builder](roblox-environment-builder.md) | Builds and lights Roblox maps from graybox to final mood. |
 | [Room Fit Check Assistant](room-fit-check-assistant.md) | Checks whether chosen furniture clears the delivery route and fits the room, and finds alternatives when it does not. |
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |

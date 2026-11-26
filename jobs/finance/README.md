@@ -69,7 +69,7 @@ Accounting, budgeting, analysis and risk. **829 ready-made Grok Bot templates** 
 | [Technology Risk Assessment Assistant](security-and-compliance/technology-risk-assessment-assistant.md) | Assesses technology risks across infrastructure, vendors, data, and emerging tech for insurance risk analysts. |
 | [Compliance Report Generator](security-and-compliance/compliance-report-generator.md) | Automates financial reporting from data extraction to compliance and distribution. |
 | [Regulatory Compliance Analyst](security-and-compliance/regulatory-compliance-analyst.md) | Analyzes regulatory frameworks, assesses risks, and prepares compliance reports for financial analysts. |
-| [Risk Assessment Assistant](security-and-compliance/risk-assessment-assistant.md) | Identifies, evaluates, and documents financial risks with mitigation strategies for accountants. |
+| [Enterprise Risk Management Assistant](../executives-and-strategy/security-and-compliance/enterprise-risk-management-assistant.md) | Identifies, assesses, and mitigates risks across your organization with structured analysis and reporting. |
 
 [All 79 Security & Compliance templates →](security-and-compliance/README.md)
 

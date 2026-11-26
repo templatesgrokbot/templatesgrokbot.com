@@ -45,8 +45,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [Social Metadata Hardening](marketing-and-growth/social-metadata-hardening.md) | Fix social sharing previews so URLs render as rich cards on all platforms. |
 | [Copywriting Psychologist](marketing-and-growth/copywriting-psychologist.md) | Write copy that changes belief and drives action using psychological mechanisms. |
 | [Github Presence](marketing-and-growth/github-presence.md) | Optimize GitHub profiles, READMEs, and project discoverability. |
-| [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Launch Strategy](marketing-and-growth/launch-strategy.md) | Plan phased SaaS launches that build momentum and convert interest into users. |
+| [Seo Specialist](marketing-and-growth/seo-specialist.md) | Audits technical SEO, builds keyword strategies, and creates recovery plans to grow organic traffic. |
 | [Seo Hreflang](marketing-and-growth/seo-hreflang.md) | Validate and generate hreflang tags for international SEO. |
 | [Ad Creative](marketing-and-growth/ad-creative.md) | Generate and iterate paid ad copy for Google, Meta, LinkedIn, TikTok, and X. |
 
@@ -90,10 +90,10 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [Developer Advocacy](writing-and-content/developer-advocacy.md) | Prep conference talks, live demos, podcast pitches, and public builds with structured checklists and templates. |
 | [Seo Content Writer](../writers/writing-and-content/seo-content-writer.md) | Write SEO-optimized content from keywords and topic briefs. |
 | [Seo Content Auditor](writing-and-content/seo-content-auditor.md) | Analyzes content for E-E-A-T, readability, and SEO quality, scoring it and recommending improvements. |
-| [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Blog Writing Guide](writing-and-content/blog-writing-guide.md) | Draft and edit Sentry blog posts with a senior-engineer voice, technical depth, and zero marketing fluff. |
-| [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
+| [Seo Content Refresher](writing-and-content/seo-content-refresher.md) | Analyze content for outdated stats, dates, and examples, then prioritize refresh actions. |
 | [Brand Guard](writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
+| [Devrel Content](writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 
 [All 108 Writing & Content templates →](writing-and-content/README.md)
 
@@ -103,8 +103,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 |---|---|
 | [Ux Researcher](../creatives/research/ux-researcher.md) | Conducts user research and delivers actionable insights to validate design decisions and uncover user needs. |
 | [Customer Research](research/customer-research.md) | Uncover what customers actually think, feel, and struggle with through analysis of transcripts, surveys, reviews, and online communities. |
-| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Discover Brand Materials](research/brand-voice-discover-brand.md) | Searches connected platforms for brand materials and delivers a sorted overview. |
+| [Crypto Bd Agent](../sales/research/crypto-bd-agent.md) | Autonomous token discovery, scoring, and outreach for crypto exchange listings. |
 | [Kotler Macro Analyzer](../executives-and-strategy/research/kotler-macro-analyzer.md) | Runs Kotler-style PESTEL and SWOT audits with live data for market entry and strategy reviews. |
 | [Startup Business Analyst Market Opportunity](../executives-and-strategy/research/startup-business-analyst-market-opportunity.md) | Generate TAM/SAM/SOM market sizing with bottom-up and top-down validation for startups. |
 | [Url Context Validator](../it-and-development/research/url-context-validator.md) | Validates URLs for functionality, context, and content alignment. Reports issues with recommendations. Drafts only. Never sends or publishes. Requires |
@@ -135,8 +135,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [Slack Automation](../operations/productivity/slack-automation.md) | Sends Slack messages, searches conversations, and manages channels with user approval. |
 | [Raffle Winner Picker](productivity/raffle-winner-picker.md) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways and contests. |
 | [Postmark Automation](productivity/postmark-automation.md) | Automate Postmark email delivery: send templated emails, manage templates, monitor stats and bounces. |
-| [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Discord Automation](../operations/productivity/discord-automation.md) | Automate Discord messages, roles, webhooks, and reactions via Rube MCP. |
+| [Onboarding](../product-development/productivity/onboarding.md) | Optimize post-signup onboarding to speed users to their aha moment and boost activation. |
 | [Power User Cultivation](../product-development/productivity/power-user-cultivation.md) | Identify engaged developers and turn them into advocates and contributors. |
 | [Creator Payment Reconciler](../finance/productivity/creator-payment-reconciler.md) | Checks creator invoices against contracts and deliverables, then queues approved payments. |
 
@@ -150,9 +150,9 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [Daily Gift](../creatives/generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](../creatives/generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Generate Image](../creatives/generative-art/generate-image.md) | Generates or edits images using AI models for photos, illustrations, and visual assets. |
-| [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
-| [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
 | [Modellix](../creatives/generative-art/modellix.md) | Generate images, videos, and speech via the Modellix CLI workflow. |
+| [Generate Nanobanana](../creatives/generative-art/generate-nanobanana.md) | Generate and edit images/video via Gemini models with cost approval and reference-image support. |
+| [Image Generator](../creatives/generative-art/image-generator.md) | Generate and edit images using Gemini's Nano Banana Pro model. |
 | [AI Studio Image](../creatives/generative-art/ai-studio-image.md) | Generates humanized images via Google AI Studio with smartphone photo realism. |
 
 [All 24 Generative Art templates →](generative-art/README.md)
@@ -196,8 +196,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [John Wick](../sales/sales-and-negotiation/john-wick.md) | Finds the right decision-maker at a target company and gets you into their conversation. |
 | [Outbound Sales](../sales/sales-and-negotiation/outbound-sales.md) | Owns the full outbound prospecting pipeline so AEs can focus on closing. |
 | [Outreachagent](../sales/sales-and-negotiation/outreachagent.md) | Manage reply-aware cold outbound email workflows via API with approvals, pacing, and delivery metrics. |
-| [Influencer Dealflow Manager](../executives-and-strategy/sales-and-negotiation/influencer-dealflow-manager.md) | End-to-end influencer partnership management: find, pitch, contract, track, and report. |
 | [Sales Enablement](../sales/sales-and-negotiation/sales-enablement.md) | Create sales collateral that reps actually use to close deals. |
+| [Influencer Dealflow Manager](../executives-and-strategy/sales-and-negotiation/influencer-dealflow-manager.md) | End-to-end influencer partnership management: find, pitch, contract, track, and report. |
 | [Cold Outreach](../sales/sales-and-negotiation/cold-outreach.md) | Researches a prospect properly, then writes an opener that proves you did. |
 
 [All 13 Sales & Negotiation templates →](sales-and-negotiation/README.md)
@@ -209,8 +209,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 | [Frontend Slides Frontend Slides](../creatives/generative-code/frontend-slides-frontend-slides.md) | Create animation-rich HTML presentations from scratch or convert PowerPoint files. |
 | [Website Builder (Landing Page Component System)](generative-code/website-builder.md) | Builds landing pages from a component library and saves them as WordPress drafts. |
 | [Gpt Taste](../creatives/generative-code/gpt-taste.md) | Award-level GSAP frontend pages with AIDA structure and gapless bento grids. |
-| [Structured Data Implementation Assistant](../it-and-development/generative-code/structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Landing Page Generator](generative-code/landing-page-generator.md) | Generates conversion-optimized Next.js landing pages from a product description. |
+| [Structured Data Implementation Assistant](../it-and-development/generative-code/structured-data-implementation-assistant.md) | Guides SEO specialists through structured data implementation, from schema selection to monitoring. |
 | [Animated Landing Page Builder](generative-code/animated-landing-page-builder.md) | Turns a product brief into a polished, animated single-page HTML landing page. |
 | [Screenshots](generative-code/screenshots.md) | Generate HiDPI marketing screenshots of your app using Playwright. |
 | [Magazine Article Formatter](../writers/generative-code/magazine-article-formatter.md) | Turns Markdown drafts into polished magazine-style HTML for blogs and newsletters. — 将 Markdown 草稿转为适合博客和新闻通讯的杂志风格 HTML。 |
@@ -221,8 +221,8 @@ Campaigns, SEO, content and growth. **1,230 ready-made Grok Bot templates** for 
 
 | Template | What it does |
 |---|---|
-| [Gemini Omni Flash Api](../creatives/generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
+| [Gemini Omni Flash Api](../creatives/generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
 | [Generate Animated Videos Remotion](../creatives/generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Local Promo Video Builder](generative-video/local-promo-video-builder.md) | Build short promo videos for local businesses from their photos and details. |
 | [Explainer Video Builder](generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |

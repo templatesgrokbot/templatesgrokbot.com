@@ -1,6 +1,6 @@
 # Generative Video templates for Creatives
 
-Produce video and animation from prompts and assets. 23 Grok Bot templates, 18 of them filed in this folder; the others live under their main field and are linked from here.
+Produce video and animation from prompts and assets. 24 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -24,6 +24,7 @@ Produce video and animation from prompts and assets. 23 Grok Bot templates, 18 o
 | [Remotion](remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Remotion Video Renderer](remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 | [Riffkit](riffkit.md) | Transform a winning TikTok's formula into your own branded short video in 9 languages. |
+| [Roblox Animation Engineer](roblox-animation-engineer.md) | Animates Roblox characters and creatures with proven clips, layers, IK, and faces. |
 | [Scenario Blockout Builder](scenario-blockout-builder.md) | Turns a text brief or reference image into a Blender blockout that guides a render-to-real video pass. |
 | [Sora](sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 | [Template Video Producer](template-video-producer.md) | Turns editable Motion templates into videos, preserving structure and motion. |

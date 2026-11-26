@@ -1,20 +1,32 @@
 # Credits: github.com/scenario-labs/skills
 
-30 TemplatesGrokBot templates are adapted from work published at [github.com/scenario-labs/skills](https://github.com/scenario-labs/skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+50 TemplatesGrokBot templates are adapted from work published at [github.com/scenario-labs/skills](https://github.com/scenario-labs/skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
+| [2D Game Feel Tuner](../jobs/it-and-development/coding/2d-game-feel-tuner.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-2d) | [MIT](../LICENSES/MIT.md) |
 | [Blender Animation Expert](../jobs/creatives/generative-video/blender-animation-expert.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-animation) | [MIT](../LICENSES/MIT.md) |
 | [Blender Asset Finisher](../jobs/creatives/generative-art/blender-asset-finisher.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-expert) | [MIT](../LICENSES/MIT.md) |
 | [Blender Lighting Composer](../jobs/creatives/generative-art/blender-lighting-composer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-lighting-rendering) | [MIT](../LICENSES/MIT.md) |
 | [Blender Rigging Specialist](../jobs/creatives/coding/blender-rigging-specialist.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-rigging) | [MIT](../LICENSES/MIT.md) |
 | [Character Sculptor](../jobs/creatives/generative-art/character-sculptor.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-character-creature) | [MIT](../LICENSES/MIT.md) |
 | [Engine-Ready Exporter](../jobs/creatives/design/engine-ready-exporter.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-export) | [MIT](../LICENSES/MIT.md) |
+| [Gameplay Systems Architect](../jobs/it-and-development/coding/gameplay-systems-architect.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-gameplay) | [MIT](../LICENSES/MIT.md) |
 | [Geometry Nodes Builder](../jobs/creatives/coding/geometry-nodes-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-geometry-nodes) | [MIT](../LICENSES/MIT.md) |
+| [Godot 3D World Builder](../jobs/creatives/design/godot-3d-world-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-3d-world) | [MIT](../LICENSES/MIT.md) |
+| [Godot Animation Setup](../jobs/creatives/coding/godot-animation-setup.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-animation) | [MIT](../LICENSES/MIT.md) |
+| [Godot Lighting Tuner](../jobs/creatives/design/godot-lighting-tuner.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-rendering-lighting) | [MIT](../LICENSES/MIT.md) |
+| [Godot Performance Exporter](../jobs/it-and-development/coding/godot-performance-exporter.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-performance-export) | [MIT](../LICENSES/MIT.md) |
+| [Godot Pipeline Automation](../jobs/it-and-development/cloud-and-devops/godot-pipeline-automation.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-pipeline-automation) | [MIT](../LICENSES/MIT.md) |
+| [Godot Shader Verifier](../jobs/creatives/coding/godot-shader-verifier.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-shaders) | [MIT](../LICENSES/MIT.md) |
+| [Godot Technical Director](../jobs/it-and-development/coding/godot-technical-director.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-expert) | [MIT](../LICENSES/MIT.md) |
+| [Godot UI Builder](../jobs/it-and-development/design/godot-ui-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-ui) | [MIT](../LICENSES/MIT.md) |
+| [Godot VFX Builder](../jobs/creatives/coding/godot-vfx-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-vfx) | [MIT](../LICENSES/MIT.md) |
 | [Grease Pencil Animator](../jobs/creatives/generative-video/grease-pencil-animator.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-grease-pencil) | [MIT](../LICENSES/MIT.md) |
 | [Hair Groom Specialist](../jobs/creatives/generative-art/hair-groom-specialist.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-groom) | [MIT](../LICENSES/MIT.md) |
 | [Hair Grooming Expert](../jobs/creatives/generative-art/hair-grooming-expert.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-hair) | [MIT](../LICENSES/MIT.md) |
 | [Hard Surface Modeler](../jobs/creatives/design/hard-surface-modeler.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-hard-surface) | [MIT](../LICENSES/MIT.md) |
+| [Luau Code Auditor](../jobs/it-and-development/coding/luau-code-auditor.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-luau) | [MIT](../LICENSES/MIT.md) |
 | [Material Look Developer](../jobs/creatives/design/material-look-developer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-texturing-shading) | [MIT](../LICENSES/MIT.md) |
 | [Maya Animation Reviewer](../jobs/creatives/generative-video/maya-animation-reviewer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-animation) | [MIT](../LICENSES/MIT.md) |
 | [Maya Deformation Specialist](../jobs/creatives/teaching-and-tutoring/maya-deformation-specialist.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/maya/scenario-maya-deformation) | [MIT](../LICENSES/MIT.md) |
@@ -29,10 +41,18 @@
 | [PR Squash Message Generator](../jobs/it-and-development/coding/pr-squash-message-generator.md) | [original](https://github.com/scenario-labs/skills/tree/main/.agents/skills/pr-squash-message) | [MIT](../LICENSES/MIT.md) |
 | [Previs Storyboard Assistant](../jobs/creatives/generative-video/previs-storyboard-assistant.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-previs-storyboard) | [MIT](../LICENSES/MIT.md) |
 | [Retopology Planner](../jobs/creatives/design/retopology-planner.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-retopology) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Animation Engineer](../jobs/creatives/generative-video/roblox-animation-engineer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-animation) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Architecture Advisor](../jobs/it-and-development/coding/roblox-architecture-advisor.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-architecture) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Asset Pipeline](../jobs/creatives/design/roblox-asset-pipeline.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-assets) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Data Guardian](../jobs/it-and-development/cloud-and-devops/roblox-data-guardian.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-data) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Environment Builder](../jobs/creatives/design/roblox-environment-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-environment) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Gameplay Systems Engineer](../jobs/it-and-development/coding/roblox-gameplay-systems-engineer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-gameplay) | [MIT](../LICENSES/MIT.md) |
+| [Roblox Technical Director](../jobs/it-and-development/coding/roblox-technical-director.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-expert) | [MIT](../LICENSES/MIT.md) |
 | [Scenario Blockout Builder](../jobs/creatives/generative-video/scenario-blockout-builder.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-blockout) | [MIT](../LICENSES/MIT.md) |
 | [UV Bake Expert](../jobs/creatives/design/uv-bake-expert.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/blender/scenario-blender-uv-baking) | [MIT](../LICENSES/MIT.md) |
 | [ZBrush Batch Processor](../jobs/creatives/generative-art/zbrush-batch-processor.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-automation) | [MIT](../LICENSES/MIT.md) |
 | [ZBrush Hard Surface Guide](../jobs/creatives/teaching-and-tutoring/zbrush-hard-surface-guide.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-hard-surface) | [MIT](../LICENSES/MIT.md) |
+| [ZBrush Paint Renderer](../jobs/creatives/generative-art/zbrush-paint-renderer.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-paint-render) | [MIT](../LICENSES/MIT.md) |
 | [ZBrush Sculpting Expert](../jobs/creatives/design/zbrush-sculpting-expert.md) | [original](https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-expert) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

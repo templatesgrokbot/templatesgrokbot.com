@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10764,
+ "count": 10794,
  "templates": [
   {
    "slug": "007",
@@ -53,6 +53,23 @@
    ],
    "path": "jobs/real-estate-and-construction/productivity/1031-exchange-deadline-tracker.md",
    "url": "https://templatesgrokbot.com/bot/1031-exchange-deadline-tracker"
+  },
+  {
+   "slug": "2d-game-feel-tuner",
+   "name": "2D Game Feel Tuner",
+   "tagline": "Builds and tunes 2D Godot games with measured feel and pixel-perfect rendering.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/2d-game-feel-tuner.md",
+   "url": "https://templatesgrokbot.com/bot/2d-game-feel-tuner",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-2d",
+   "source_license": "MIT"
   },
   {
    "slug": "2d-games",
@@ -3673,6 +3690,24 @@
    "path": "jobs/marketing/generative-ai-and-llm/agentic-search-optimizer.md",
    "url": "https://templatesgrokbot.com/bot/agentic-search-optimizer",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/marketing/marketing-agentic-search-optimizer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "agentica-agent-builder",
+   "name": "Agentica Agent Builder",
+   "tagline": "Designs and builds Python agents with the Agentica SDK.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agentica-agent-builder.md",
+   "url": "https://templatesgrokbot.com/bot/agentica-agent-builder",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agentica-sdk",
    "source_license": "MIT"
   },
   {
@@ -9003,6 +9038,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "async-repl-protocol",
+   "name": "Async REPL Protocol",
+   "tagline": "Guides you to correctly use async tools in Agentica's REPL harness.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/async-repl-protocol.md",
+   "url": "https://templatesgrokbot.com/bot/async-repl-protocol",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/archive/async-repl-protocol",
+   "source_license": "MIT"
+  },
+  {
    "slug": "atlas-cloud-media",
    "name": "Atlas Cloud Media",
    "tagline": "Generate images and videos via Atlas Cloud's async media API with schema-first model selection.",
@@ -13497,6 +13549,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "background-agent-monitor",
+   "name": "Background Agent Monitor",
+   "tagline": "Tracks background agent progress via system reminders instead of polling.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/background-agent-monitor.md",
+   "url": "https://templatesgrokbot.com/bot/background-agent-monitor",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/background-agent-pings",
+   "source_license": "MIT"
+  },
+  {
    "slug": "background-check-tracker",
    "name": "Background Check Tracker",
    "tagline": "Tracks candidate background and reference checks to the start date and flags delays early.",
@@ -16797,6 +16866,23 @@
    "url": "https://templatesgrokbot.com/bot/brainstorming",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "braintrust-session-tracer",
+   "name": "Braintrust Session Tracer",
+   "tagline": "Trace Grok Bot sessions in Braintrust and correlate sub-agent activity.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/braintrust-session-tracer.md",
+   "url": "https://templatesgrokbot.com/bot/braintrust-session-tracer",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/braintrust-tracing",
+   "source_license": "MIT"
   },
   {
    "slug": "branch-appointment-prep-assistant",
@@ -28506,6 +28592,22 @@
    "url": "https://templatesgrokbot.com/bot/code-reviewer",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "code-search-router",
+   "name": "Code Search Router",
+   "tagline": "Finds code fast by picking the right search tool for each query type.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/code-search-router.md",
+   "url": "https://templatesgrokbot.com/bot/code-search-router",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/archive/search-hierarchy",
+   "source_license": "MIT"
   },
   {
    "slug": "code-showcase-core-components",
@@ -68587,6 +68689,23 @@
    "url": "https://templatesgrokbot.com/bot/game-ui-design-assistant"
   },
   {
+   "slug": "gameplay-systems-architect",
+   "name": "Gameplay Systems Architect",
+   "tagline": "Builds and validates Godot 4.7 gameplay systems: AI, navigation, combat, save, dialogue, and more.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "generative-code"
+   ],
+   "path": "jobs/it-and-development/coding/gameplay-systems-architect.md",
+   "url": "https://templatesgrokbot.com/bot/gameplay-systems-architect",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-gameplay",
+   "source_license": "MIT"
+  },
+  {
    "slug": "gamified-learning-designer",
    "name": "Gamified Learning Designer",
    "tagline": "Turns eLearning content into engaging, gamified experiences with complete game design support.",
@@ -71197,6 +71316,23 @@
    "source_license": "MIT"
   },
   {
+   "slug": "godot-3d-world-builder",
+   "name": "Godot 3D World Builder",
+   "tagline": "Builds and validates 3D worlds in Godot 4.7 with player, terrain, and props.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/godot-3d-world-builder.md",
+   "url": "https://templatesgrokbot.com/bot/godot-3d-world-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-3d-world",
+   "source_license": "MIT"
+  },
+  {
    "slug": "godot-4-migration",
    "name": "Godot 4 Migration",
    "tagline": "Guide for migrating Godot 3.x projects to Godot 4 with GDScript 2.0.",
@@ -71216,6 +71352,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "godot-animation-setup",
+   "name": "Godot Animation Setup",
+   "tagline": "Animates Godot 4.7 characters with correct motion, retargeting, and IK.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/godot-animation-setup.md",
+   "url": "https://templatesgrokbot.com/bot/godot-animation-setup",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-animation",
+   "source_license": "MIT"
+  },
+  {
    "slug": "godot-gdscript-patterns",
    "name": "Godot Gdscript Patterns",
    "tagline": "Godot 4 GDScript patterns for architecture, signals, state machines, and optimization.",
@@ -71233,6 +71385,122 @@
    "url": "https://templatesgrokbot.com/bot/godot-gdscript-patterns",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "godot-lighting-tuner",
+   "name": "Godot Lighting Tuner",
+   "tagline": "Sets up and tunes lighting, GI, and post-effects in Godot 4.7 3D scenes.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/godot-lighting-tuner.md",
+   "url": "https://templatesgrokbot.com/bot/godot-lighting-tuner",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-rendering-lighting",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-performance-exporter",
+   "name": "Godot Performance Exporter",
+   "tagline": "Profiles and ships Godot games with measured performance fixes and verified builds.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/godot-performance-exporter.md",
+   "url": "https://templatesgrokbot.com/bot/godot-performance-exporter",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-performance-export",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-pipeline-automation",
+   "name": "Godot Pipeline Automation",
+   "tagline": "Automates Godot asset import, testing, and export for repeatable CI runs.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/godot-pipeline-automation.md",
+   "url": "https://templatesgrokbot.com/bot/godot-pipeline-automation",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-pipeline-automation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-shader-verifier",
+   "name": "Godot Shader Verifier",
+   "tagline": "Writes, compiles, and visually verifies Godot 4.7 shaders across renderers.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/godot-shader-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/godot-shader-verifier",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-shaders",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-technical-director",
+   "name": "Godot Technical Director",
+   "tagline": "Drives Godot 4.7 headless and windowed tasks with evidence-based checks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/godot-technical-director.md",
+   "url": "https://templatesgrokbot.com/bot/godot-technical-director",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-expert",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-ui-builder",
+   "name": "Godot UI Builder",
+   "tagline": "Builds and audits responsive, accessible game UI in Godot 4.7 across devices and languages.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "design",
+    "coding",
+    "translation"
+   ],
+   "path": "jobs/it-and-development/design/godot-ui-builder.md",
+   "url": "https://templatesgrokbot.com/bot/godot-ui-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-ui",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "godot-vfx-builder",
+   "name": "Godot VFX Builder",
+   "tagline": "Builds and audits layered particle effects for Godot 4.7 with per-renderer budgets.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/godot-vfx-builder.md",
+   "url": "https://templatesgrokbot.com/bot/godot-vfx-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/godot/scenario-godot-vfx",
+   "source_license": "MIT"
   },
   {
    "slug": "gohighlevel-crm-operator",
@@ -78359,6 +78627,23 @@
    "url": "https://templatesgrokbot.com/bot/implement",
    "adapted_from": "https://github.com/mattpocock/skills/tree/main/skills/engineering/implement",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "implementation-delegator",
+   "name": "Implementation Delegator",
+   "tagline": "Spawns implementation agents to keep main context clean.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "productivity"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/implementation-delegator.md",
+   "url": "https://templatesgrokbot.com/bot/implementation-delegator",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agent-orchestration",
+   "source_license": "MIT"
   },
   {
    "slug": "implementation-plan",
@@ -94191,6 +94476,22 @@
    "url": "https://templatesgrokbot.com/bot/lp-quarterly-report-preparer"
   },
   {
+   "slug": "luau-code-auditor",
+   "name": "Luau Code Auditor",
+   "tagline": "Audits and fixes Roblox Luau code for scheduler, type, cleanup, and performance issues.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/luau-code-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/luau-code-auditor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-luau",
+   "source_license": "MIT"
+  },
+  {
    "slug": "luma-imagegen",
    "name": "Luma Imagegen",
    "tagline": "Generates images from text descriptions using Luma AI's Photon model.",
@@ -98178,6 +98479,23 @@
    ],
    "path": "jobs/education/teaching-and-tutoring/math-error-diagnosis-practice.md",
    "url": "https://templatesgrokbot.com/bot/math-error-diagnosis-practice"
+  },
+  {
+   "slug": "math-router-coordinator",
+   "name": "Math Router Coordinator",
+   "tagline": "Routes math requests through a domain router before using tools.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/math-router-coordinator.md",
+   "url": "https://templatesgrokbot.com/bot/math-router-coordinator",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/archive/router-first-architecture",
+   "source_license": "MIT"
   },
   {
    "slug": "math-teaching-assistant",
@@ -103580,6 +103898,23 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/multi-agent-competition-runner.md",
    "url": "https://templatesgrokbot.com/bot/multi-agent-competition-runner",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/run",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "multi-agent-pattern-spawner",
+   "name": "Multi-Agent Pattern Spawner",
+   "tagline": "Spawns multi-agent patterns for research, implementation, refinement, and validation.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "research"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/multi-agent-pattern-spawner.md",
+   "url": "https://templatesgrokbot.com/bot/multi-agent-pattern-spawner",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agentica-spawn",
    "source_license": "MIT"
   },
   {
@@ -137957,6 +138292,122 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "roblox-animation-engineer",
+   "name": "Roblox Animation Engineer",
+   "tagline": "Animates Roblox characters and creatures with proven clips, layers, IK, and faces.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "coding"
+   ],
+   "path": "jobs/creatives/generative-video/roblox-animation-engineer.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-animation-engineer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-animation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-architecture-advisor",
+   "name": "Roblox Architecture Advisor",
+   "tagline": "Structures Roblox game code: script placement, boot loaders, services, tags, and cleanup.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-architecture-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-architecture-advisor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-architecture",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-asset-pipeline",
+   "name": "Roblox Asset Pipeline",
+   "tagline": "Prepares 3D assets for Roblox Studio and UGC validation, from Blender to upload-ready.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/roblox-asset-pipeline.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-asset-pipeline",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-assets",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-data-guardian",
+   "name": "Roblox Data Guardian",
+   "tagline": "Designs and audits Roblox player data systems that survive crashes, retries, and multi-server races.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/roblox-data-guardian.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-data-guardian",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-data",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-environment-builder",
+   "name": "Roblox Environment Builder",
+   "tagline": "Builds and lights Roblox maps from graybox to final mood.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/roblox-environment-builder.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-environment-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-environment",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-gameplay-systems-engineer",
+   "name": "Roblox Gameplay Systems Engineer",
+   "tagline": "Builds and validates Roblox gameplay systems: NPC AI, combat, vehicles, and server-side hit detection.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-gameplay-systems-engineer.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-gameplay-systems-engineer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-gameplay",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-technical-director",
+   "name": "Roblox Technical Director",
+   "tagline": "Builds, fixes and tests Roblox Studio games with evidence, budgets and a human approval gate.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-technical-director.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-technical-director",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-expert",
+   "source_license": "MIT"
+  },
+  {
    "slug": "robot-framework-skill",
    "name": "Robot Framework",
    "tagline": "Generate Robot Framework tests with keyword-driven syntax and Python libraries. No test execution or environment setup.",
@@ -144417,6 +144868,22 @@
    "path": "jobs/it-and-development/coding/semantic-code-graph-builder.md",
    "url": "https://templatesgrokbot.com/bot/semantic-code-graph-builder",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/specialized/lsp-index-engineer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "semantic-code-searcher",
+   "name": "Semantic Code Searcher",
+   "tagline": "Semantic code search for conceptual queries across your codebase.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/semantic-code-searcher.md",
+   "url": "https://templatesgrokbot.com/bot/semantic-code-searcher",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/archive/leann-search",
    "source_license": "MIT"
   },
   {
@@ -154521,6 +154988,22 @@
    "url": "https://templatesgrokbot.com/bot/stripe-integration",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "structural-code-search",
+   "name": "Structural Code Search",
+   "tagline": "Search and refactor code by syntax structure, not just text.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/structural-code-search.md",
+   "url": "https://templatesgrokbot.com/bot/structural-code-search",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/ast-grep-find",
+   "source_license": "MIT"
   },
   {
    "slug": "structural-design-checker",
@@ -178762,6 +179245,23 @@
    "path": "jobs/creatives/teaching-and-tutoring/zbrush-hard-surface-guide.md",
    "url": "https://templatesgrokbot.com/bot/zbrush-hard-surface-guide",
    "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-hard-surface",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "zbrush-paint-renderer",
+   "name": "ZBrush Paint Renderer",
+   "tagline": "Paints and renders ZBrush models with expert skin zones, masks, and BPR passes.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-art",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/generative-art/zbrush-paint-renderer.md",
+   "url": "https://templatesgrokbot.com/bot/zbrush-paint-renderer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/dcc/zbrush/scenario-zbrush-paint-render",
    "source_license": "MIT"
   },
   {
