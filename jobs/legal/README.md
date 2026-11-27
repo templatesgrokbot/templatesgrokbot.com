@@ -128,8 +128,8 @@ Contracts, research, compliance and review. **509 ready-made Grok Bot templates*
 | [Pdf Fill Studio](../operations/office-tools/pdf-fill-studio.md) | Fill any PDF locally with precise value placement, leaving signatures blank. |
 | [Docusign Automation](../operations/office-tools/docusign-automation.md) | Automate DocuSign e-signature workflows: templates, envelopes, signatures, and document management. |
 | [Document Template Filler](office-tools/document-template-filler.md) | Fills your document templates with data to produce personalized files in bulk. |
-| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 | [PDF to Word Converter](office-tools/pdf-to-word-converter.md) | Converts PDF files into editable Word documents while preserving layout, tables, and images. |
+| [Writer](../operations/office-tools/writer.md) | Create, convert, and automate documents with LibreOffice Writer. |
 | [Docx Official](../operations/office-tools/docx-official.md) | Create, read, edit, and manipulate .docx files with precise formatting and tracked changes. |
 | [Defined-Term Consistency Reviewer](office-tools/defined-term-consistency-reviewer.md) | Finds defined-term drift in revised contracts and proposes only mechanical tracked changes. |
 

@@ -1,6 +1,6 @@
 # Coding templates for IT and Development
 
-Write, review, test and debug software. 1189 Grok Bot templates, 1180 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 1204 Grok Bot templates, 1195 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -920,7 +920,10 @@ Write, review, test and debug software. 1189 Grok Bot templates, 1180 of them fi
 | [Robius Widget Patterns](robius-widget-patterns.md) | Reusable Makepad widget patterns from Robrix and Moly codebases. |
 | [Roblox Architecture Advisor](roblox-architecture-advisor.md) | Structures Roblox game code: script placement, boot loaders, services, tags, and cleanup. |
 | [Roblox Gameplay Systems Engineer](roblox-gameplay-systems-engineer.md) | Builds and validates Roblox gameplay systems: NPC AI, combat, vehicles, and server-side hit detection. |
+| [Roblox Monetization Auditor](roblox-monetization-auditor.md) | Audits, builds, and live-ops a Roblox game's monetization so every Robux path is safe and data-driven. |
+| [Roblox Performance Auditor](roblox-performance-auditor.md) | Diagnose and fix Roblox performance issues, then release updates safely. |
 | [Roblox Technical Director](roblox-technical-director.md) | Builds, fixes and tests Roblox Studio games with evidence, budgets and a human approval gate. |
+| [Roblox UI Builder](roblox-ui-builder.md) | Builds and audits Roblox UI and input across devices, with proof. |
 | [Robot Framework](robot-framework-skill.md) | Generate Robot Framework tests with keyword-driven syntax and Python libraries. No test execution or environment setup. |
 | [Roier Seo](roier-seo.md) | Audits websites for SEO, performance, and accessibility issues and auto-fixes them in the codebase. |
 | [Root Cause Fixer](root-cause-fixer.md) | Trace bugs to their first wrong decision and fix them there. |
@@ -1094,6 +1097,7 @@ Write, review, test and debug software. 1189 Grok Bot templates, 1180 of them fi
 | [Threejs Lighting](../../creatives/coding/threejs-lighting.md) | Configure Three.js lighting: types, shadows, environment, and performance. |
 | [Threejs Materials](../../creatives/coding/threejs-materials.md) | Configure Three.js materials for meshes, textures, and shaders. |
 | [Threejs Textures](threejs-textures.md) | Load, configure, and optimize textures in Three.js for materials and environments. |
+| [Ticket Guard](ticket-guard.md) | Guards one workflow ticket's RED/GREEN discipline through edits, stops, and compaction. |
 | [Tokenwise](tokenwise.md) | Routes model tiers by task class with cost logging and A/B verification. |
 | [Tool Use Guardian](tool-use-guardian.md) | Wraps tool calls to auto-retry failures, fix truncated JSON, and learn which tools are unreliable. |
 | [Tooling Engineer](tooling-engineer.md) | Builds and enhances developer tools like CLIs, code generators, and IDE extensions. |
@@ -1116,12 +1120,23 @@ Write, review, test and debug software. 1189 Grok Bot templates, 1180 of them fi
 | [Uncle Bob Craft Review](uncle-bob-craft-review.md) | Reviews code and architecture against Clean Code, Clean Architecture, SOLID, and professional practice. |
 | [Unit Testing Strategies Assistant](unit-testing-strategies-assistant.md) | Generates, analyzes, and automates unit tests to improve software quality. |
 | [Unit Testing Test Generate](unit-testing-test-generate.md) | Generate comprehensive unit tests with edge case coverage across languages. |
+| [Unity 2D Builder](unity-2d-builder.md) | Builds and tunes pixel-perfect 2D Unity games with measurable feel and cost. |
+| [Unity Animation Verifier](unity-animation-verifier.md) | Builds and verifies Unity character animation and camera systems from data. |
+| [Unity Architecture Advisor](unity-architecture-advisor.md) | Structures Unity C# code for data, state, events, saves, input, async, and merges. |
 | [Unity Developer](unity-developer.md) | Build and optimize Unity games with C#, rendering, and cross-platform deployment. |
 | [Unity Ecs Patterns](unity-ecs-patterns.md) | Apply DOTS patterns for high-performance Unity ECS systems. |
+| [Unity Expert Driver](unity-expert-driver.md) | Drives Unity 6.3 on Mac for builds, tests, captures, and performance checks. |
 | [Unity Game Developer](unity-game-developer.md) | Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil |
+| [Unity Gameplay Systems Engineer](unity-gameplay-systems-engineer.md) | Builds and debugs Unity gameplay systems with measured, expert-level decisions. |
+| [Unity Performance Engineer](unity-performance-engineer.md) | Finds and fixes Unity game performance issues with measured proof. |
+| [Unity Shader Prover](unity-shader-prover.md) | Proves Unity 6.3 URP shaders: compiles, passes agree, variants counted, first use warm, cost measured. |
+| [Unity UI Builder](unity-ui-builder.md) | Builds and fixes Unity 6.3 game UI across uGUI and UI Toolkit, with layout, performance, and accessibility checks. |
 | [Universal Scraping Architect](universal-scraping-architect.md) | Designs and validates web scraping and document extraction pipelines, routing between API and local methods. |
+| [Unreal Animation Technical Director](unreal-animation-technical-director.md) | Audits, retargets, and optimizes Unreal character animation with measurable contact and clean data. |
 | [Unreal Engine Cpp Pro](unreal-engine-cpp-pro.md) | Expert guidelines for Unreal Engine 5.x C++ development with performance and UObject hygiene. |
 | [Unreal Engine Developer](unreal-engine-developer.md) | Build and optimize Unreal Engine games with C++ and Blueprint expertise. No engine modifications outside your project scope. No shipping without appro |
+| [Unreal Engine Technical Director](unreal-engine-technical-director.md) | Drives Unreal Engine 5.8 on Mac: edits, audits, renders, and validates by numbers and screenshots. |
+| [Unreal Pipeline Automator](unreal-pipeline-automator.md) | Automates bulk asset import, validation, and builds in Unreal Engine 5.8. |
 | [Unship](unship.md) | Compare AI-generated UI variants in your local app, pick one, and clean up the rest. |
 | [Unslop Commit](unslop-commit.md) | Rewrites commit messages to sound like a careful human engineer wrote them. |
 | [Unslop Review](unslop-review.md) | Rewrite PR comments to sound like a human teammate, not a politeness engine. Direct, concrete, kind. No throat-clearing. No auto-approve. No git push. |

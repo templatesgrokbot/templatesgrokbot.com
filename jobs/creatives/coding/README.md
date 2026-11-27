@@ -1,6 +1,6 @@
 # Coding templates for Creatives
 
-Write, review, test and debug software. 45 Grok Bot templates, 11 of them filed in this folder; the others live under their main field and are linked from here.
+Write, review, test and debug software. 46 Grok Bot templates, 12 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -46,6 +46,7 @@ Write, review, test and debug software. 45 Grok Bot templates, 11 of them filed 
 | [Ui Review](../../it-and-development/coding/ui-review.md) | Review UI code for design system compliance, accessibility, and best practices. |
 | [Unity Developer](../../it-and-development/coding/unity-developer.md) | Build and optimize Unity games with C#, rendering, and cross-platform deployment. |
 | [Unity Game Developer](../../it-and-development/coding/unity-game-developer.md) | Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil |
+| [Unity World Builder](unity-world-builder.md) | Builds Unity levels and open worlds from code, with structure-first checks and performance proof. |
 | [Unreal Engine Developer](../../it-and-development/coding/unreal-engine-developer.md) | Build and optimize Unreal Engine games with C++ and Blueprint expertise. No engine modifications outside your project scope. No shipping without appro |
 | [Ux Feedback](../../it-and-development/coding/ux-feedback.md) | Add loading, empty, error, and success states to UI components |
 | [Vercel React View Transitions](../../it-and-development/coding/vercel-react-view-transitions.md) | Guide React and Next.js view transitions with shared elements, route animations, and reduced-motion-safe CSS. |

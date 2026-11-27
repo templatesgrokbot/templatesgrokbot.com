@@ -1,6 +1,6 @@
 # Credits: github.com/Jeffallan/claude-skills
 
-8 TemplatesGrokBot templates are adapted from work published at [github.com/Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+9 TemplatesGrokBot templates are adapted from work published at [github.com/Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -12,5 +12,6 @@
 | [S3 Storage Configurator](../jobs/it-and-development/cloud-and-devops/s3-storage-configurator.md) | [original](https://github.com/Jeffallan/claude-skills/tree/main/skills/django-storages-s3) | [MIT](../LICENSES/MIT.md) |
 | [Salesforce Developer](../jobs/it-and-development/coding/salesforce-developer.md) | [original](https://github.com/Jeffallan/claude-skills/tree/main/skills/salesforce-developer) | [MIT](../LICENSES/MIT.md) |
 | [Test Master](../jobs/it-and-development/coding/test-master.md) | [original](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | [MIT](../LICENSES/MIT.md) |
+| [Ticket Guard](../jobs/it-and-development/coding/ticket-guard.md) | [original](https://github.com/Jeffallan/claude-skills/tree/main/plugin/skills/ticket-guard) | [MIT](../LICENSES/MIT.md) |
 
 [← All credits](../CREDITS.md)

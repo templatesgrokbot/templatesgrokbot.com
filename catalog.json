@@ -2,7 +2,7 @@
  "name": "TemplatesGrokBot catalog",
  "site": "https://templatesgrokbot.com",
  "mcp": "https://templatesgrokbot.com/api/mcp",
- "count": 10794,
+ "count": 10824,
  "templates": [
   {
    "slug": "007",
@@ -3468,6 +3468,23 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "agent-server-stack-runner",
+   "name": "Agent Server Stack Runner",
+   "tagline": "Run and debug a local agent server with a proxy inference backend.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agent-server-stack-runner.md",
+   "url": "https://templatesgrokbot.com/bot/agent-server-stack-runner",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agentica-server",
+   "source_license": "MIT"
+  },
+  {
    "slug": "agent-squad",
    "name": "Agent Squad",
    "tagline": "Orchestrates a squad of specialized agents to manage software projects step by step.",
@@ -3708,6 +3725,23 @@
    "path": "jobs/it-and-development/generative-ai-and-llm/agentica-agent-builder.md",
    "url": "https://templatesgrokbot.com/bot/agentica-agent-builder",
    "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agentica-sdk",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "agentica-infrastructure-reference",
+   "name": "Agentica Infrastructure Reference",
+   "tagline": "Reference guide for Agentica multi-agent infrastructure APIs and patterns.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "generative-ai-and-llm",
+    "writing-and-content"
+   ],
+   "path": "jobs/it-and-development/generative-ai-and-llm/agentica-infrastructure-reference.md",
+   "url": "https://templatesgrokbot.com/bot/agentica-infrastructure-reference",
+   "adapted_from": "https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agentica-infrastructure",
    "source_license": "MIT"
   },
   {
@@ -60852,6 +60886,22 @@
    "source_license": "MIT"
   },
   {
+   "slug": "exploit-completion",
+   "name": "Exploit Completion",
+   "tagline": "Drive a single exploit attempt to a confirmed proof, never quitting one step early.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/exploit-completion.md",
+   "url": "https://templatesgrokbot.com/bot/exploit-completion",
+   "adapted_from": "https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/exploit-completion",
+   "source_license": "MIT"
+  },
+  {
    "slug": "exploit-development-guide",
    "name": "Exploit Development Guide",
    "tagline": "Guides exploit development from bug identification to reliable weaponization.",
@@ -98452,6 +98502,23 @@
    "url": "https://templatesgrokbot.com/bot/material-substitution-impact-checker"
   },
   {
+   "slug": "material-system-architect",
+   "name": "Material System Architect",
+   "tagline": "Designs and audits Unreal Engine 5 material systems for cost, quality, and maintainability.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/material-system-architect.md",
+   "url": "https://templatesgrokbot.com/bot/material-system-architect",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-materials",
+   "source_license": "MIT"
+  },
+  {
    "slug": "materials-entry-check",
    "name": "Materials Entry Check",
    "tagline": "Checks new materials database entries for units, conditions, plausibility and consistency before they are accepted.",
@@ -133234,6 +133301,22 @@
    "url": "https://templatesgrokbot.com/bot/registration-renewal-tracker"
   },
   {
+   "slug": "regression-surface-diff",
+   "name": "Regression Surface Diff",
+   "tagline": "Finds what changed on a target since your last recon snapshot, so re-runs only hit new surface.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/regression-surface-diff.md",
+   "url": "https://templatesgrokbot.com/bot/regression-surface-diff",
+   "adapted_from": "https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/regression-hunting",
+   "source_license": "MIT"
+  },
+  {
    "slug": "regression-testing-strategist",
    "name": "Regression Testing Strategist",
    "tagline": "Regression testing strategist that plans, prioritizes, and analyzes software regression work.",
@@ -138392,6 +138475,77 @@
    "source_license": "MIT"
   },
   {
+   "slug": "roblox-monetization-auditor",
+   "name": "Roblox Monetization Auditor",
+   "tagline": "Audits, builds, and live-ops a Roblox game's monetization so every Robux path is safe and data-driven.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "data-analysis",
+    "security-and-compliance"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-monetization-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-monetization-auditor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-monetization",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-network-hardener",
+   "name": "Roblox Network Hardener",
+   "tagline": "Secures Roblox experiences against exploiters and designs resilient networking.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "security-and-compliance",
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/security-and-compliance/roblox-network-hardener.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-network-hardener",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-networking",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-performance-auditor",
+   "name": "Roblox Performance Auditor",
+   "tagline": "Diagnose and fix Roblox performance issues, then release updates safely.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "data-analysis",
+    "cloud-and-devops"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-performance-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-performance-auditor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-performance",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-pipeline-builder",
+   "name": "Roblox Pipeline Builder",
+   "tagline": "Sets up and repairs Roblox team projects with Rojo, Wally, CI, and safe publishing.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/roblox-pipeline-builder.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-pipeline-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-tooling",
+   "source_license": "MIT"
+  },
+  {
    "slug": "roblox-technical-director",
    "name": "Roblox Technical Director",
    "tagline": "Builds, fixes and tests Roblox Studio games with evidence, budgets and a human approval gate.",
@@ -138405,6 +138559,40 @@
    "path": "jobs/it-and-development/coding/roblox-technical-director.md",
    "url": "https://templatesgrokbot.com/bot/roblox-technical-director",
    "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-expert",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-ui-builder",
+   "name": "Roblox UI Builder",
+   "tagline": "Builds and audits Roblox UI and input across devices, with proof.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "design"
+   ],
+   "path": "jobs/it-and-development/coding/roblox-ui-builder.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-ui-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-ui",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "roblox-vfx-audio-builder",
+   "name": "Roblox VFX Audio Builder",
+   "tagline": "Builds and fixes Roblox visual effects and audio, verified and ready for play.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "coding"
+   ],
+   "path": "jobs/creatives/design/roblox-vfx-audio-builder.md",
+   "url": "https://templatesgrokbot.com/bot/roblox-vfx-audio-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/roblox/scenario-roblox-vfx-audio",
    "source_license": "MIT"
   },
   {
@@ -164754,6 +164942,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "ticket-guard",
+   "name": "Ticket Guard",
+   "tagline": "Guards one workflow ticket's RED/GREEN discipline through edits, stops, and compaction.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/ticket-guard.md",
+   "url": "https://templatesgrokbot.com/bot/ticket-guard",
+   "adapted_from": "https://github.com/Jeffallan/claude-skills/tree/main/plugin/skills/ticket-guard",
+   "source_license": "MIT"
+  },
+  {
    "slug": "tiktok-ads-auditor",
    "name": "TikTok Ads Auditor",
    "tagline": "Audits, diagnoses, and safely operates connected TikTok Ads accounts.",
@@ -169059,6 +169263,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "unity-2d-builder",
+   "name": "Unity 2D Builder",
+   "tagline": "Builds and tunes pixel-perfect 2D Unity games with measurable feel and cost.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-2d-builder.md",
+   "url": "https://templatesgrokbot.com/bot/unity-2d-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-2d",
+   "source_license": "MIT"
+  },
+  {
    "slug": "unity-ai-game-creator",
    "name": "Unity Ai Game Creator",
    "tagline": "Turn game ideas into actionable Unity development plans with AI prompts and blueprints.",
@@ -169076,6 +169296,39 @@
    "url": "https://templatesgrokbot.com/bot/unity-ai-game-creator",
    "adapted_from": "https://github.com/sickn33/agentic-awesome-skills",
    "source_license": "CC BY 4.0"
+  },
+  {
+   "slug": "unity-animation-verifier",
+   "name": "Unity Animation Verifier",
+   "tagline": "Builds and verifies Unity character animation and camera systems from data.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-animation-verifier.md",
+   "url": "https://templatesgrokbot.com/bot/unity-animation-verifier",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-animation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-architecture-advisor",
+   "name": "Unity Architecture Advisor",
+   "tagline": "Structures Unity C# code for data, state, events, saves, input, async, and merges.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/it-and-development/coding/unity-architecture-advisor.md",
+   "url": "https://templatesgrokbot.com/bot/unity-architecture-advisor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-architecture",
+   "source_license": "MIT"
   },
   {
    "slug": "unity-developer",
@@ -169115,6 +169368,22 @@
    "source_license": "CC BY 4.0"
   },
   {
+   "slug": "unity-expert-driver",
+   "name": "Unity Expert Driver",
+   "tagline": "Drives Unity 6.3 on Mac for builds, tests, captures, and performance checks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-expert-driver.md",
+   "url": "https://templatesgrokbot.com/bot/unity-expert-driver",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-expert",
+   "source_license": "MIT"
+  },
+  {
    "slug": "unity-game-developer",
    "name": "Unity Game Developer",
    "tagline": "Build and optimize Unity games with C# scripting and cross-platform deployment. You are a Unity game developer expert with 8+ years of experience buil",
@@ -169131,6 +169400,138 @@
    "path": "jobs/it-and-development/coding/unity-game-developer.md",
    "url": "https://templatesgrokbot.com/bot/unity-game-developer",
    "adapted_from": "https://www.aitmpl.com/component/agents/game-development/unity-game-developer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-gameplay-systems-engineer",
+   "name": "Unity Gameplay Systems Engineer",
+   "tagline": "Builds and debugs Unity gameplay systems with measured, expert-level decisions.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-gameplay-systems-engineer.md",
+   "url": "https://templatesgrokbot.com/bot/unity-gameplay-systems-engineer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-gameplay",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-performance-engineer",
+   "name": "Unity Performance Engineer",
+   "tagline": "Finds and fixes Unity game performance issues with measured proof.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-performance-engineer.md",
+   "url": "https://templatesgrokbot.com/bot/unity-performance-engineer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-performance",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-pipeline-automation",
+   "name": "Unity Pipeline Automation",
+   "tagline": "Automates Unity content pipelines and builds with deterministic, repeatable results.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/unity-pipeline-automation.md",
+   "url": "https://templatesgrokbot.com/bot/unity-pipeline-automation",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-pipeline-automation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-shader-prover",
+   "name": "Unity Shader Prover",
+   "tagline": "Proves Unity 6.3 URP shaders: compiles, passes agree, variants counted, first use warm, cost measured.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unity-shader-prover.md",
+   "url": "https://templatesgrokbot.com/bot/unity-shader-prover",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-shaders",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-ui-builder",
+   "name": "Unity UI Builder",
+   "tagline": "Builds and fixes Unity 6.3 game UI across uGUI and UI Toolkit, with layout, performance, and accessibility checks.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "design"
+   ],
+   "path": "jobs/it-and-development/coding/unity-ui-builder.md",
+   "url": "https://templatesgrokbot.com/bot/unity-ui-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-ui",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-vfx-artist",
+   "name": "Unity VFX Artist",
+   "tagline": "Builds and audits real-time VFX for Unity 6.3, balancing gameplay readability and budget.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "coding"
+   ],
+   "path": "jobs/creatives/design/unity-vfx-artist.md",
+   "url": "https://templatesgrokbot.com/bot/unity-vfx-artist",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-vfx",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-web-build-auditor",
+   "name": "Unity Web Build Auditor",
+   "tagline": "Audits and ships Unity WebGL builds to portal and hosting budgets.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "cloud-and-devops",
+    "coding"
+   ],
+   "path": "jobs/it-and-development/cloud-and-devops/unity-web-build-auditor.md",
+   "url": "https://templatesgrokbot.com/bot/unity-web-build-auditor",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-web",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unity-world-builder",
+   "name": "Unity World Builder",
+   "tagline": "Builds Unity levels and open worlds from code, with structure-first checks and performance proof.",
+   "category": "engineering",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/creatives/coding/unity-world-builder.md",
+   "url": "https://templatesgrokbot.com/bot/unity-world-builder",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unity/scenario-unity-world-building",
    "source_license": "MIT"
   },
   {
@@ -169165,6 +169566,40 @@
    "path": "jobs/it-and-development/coding/universal-scraping-architect.md",
    "url": "https://templatesgrokbot.com/bot/universal-scraping-architect",
    "adapted_from": "https://github.com/bestagentkits/agency-skills/tree/main/skills/claude-skills/universal-scraping-architect",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-animation-technical-director",
+   "name": "Unreal Animation Technical Director",
+   "tagline": "Audits, retargets, and optimizes Unreal character animation with measurable contact and clean data.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding",
+    "data-analysis"
+   ],
+   "path": "jobs/it-and-development/coding/unreal-animation-technical-director.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-animation-technical-director",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-animation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-cinematic-sequencer",
+   "name": "Unreal Cinematic Sequencer",
+   "tagline": "Plans, builds, and renders Unreal Engine 5.8 cinematics with Sequencer and Movie Render Graph.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "generative-video",
+    "video-editing"
+   ],
+   "path": "jobs/creatives/generative-video/unreal-cinematic-sequencer.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-cinematic-sequencer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-cinematics",
    "source_license": "MIT"
   },
   {
@@ -169203,6 +169638,71 @@
    "path": "jobs/it-and-development/coding/unreal-engine-developer.md",
    "url": "https://templatesgrokbot.com/bot/unreal-engine-developer",
    "adapted_from": "https://www.aitmpl.com/component/agents/game-development/unreal-engine-developer",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-engine-technical-director",
+   "name": "Unreal Engine Technical Director",
+   "tagline": "Drives Unreal Engine 5.8 on Mac: edits, audits, renders, and validates by numbers and screenshots.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unreal-engine-technical-director.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-engine-technical-director",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-expert",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-lighting-calibrator",
+   "name": "Unreal Lighting Calibrator",
+   "tagline": "Calibrates and lights Unreal Engine 5.8 scenes with physical values and validates renders.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design",
+    "teaching-and-tutoring"
+   ],
+   "path": "jobs/creatives/design/unreal-lighting-calibrator.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-lighting-calibrator",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-lighting-rendering",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-pipeline-automator",
+   "name": "Unreal Pipeline Automator",
+   "tagline": "Automates bulk asset import, validation, and builds in Unreal Engine 5.8.",
+   "category": "engineering",
+   "jobs": [
+    "it-and-development"
+   ],
+   "topics": [
+    "coding"
+   ],
+   "path": "jobs/it-and-development/coding/unreal-pipeline-automator.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-pipeline-automator",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-pipeline-automation",
+   "source_license": "MIT"
+  },
+  {
+   "slug": "unreal-vfx-designer",
+   "name": "Unreal VFX Designer",
+   "tagline": "Designs, optimizes, and critiques Unreal Engine 5 Niagara and Chaos VFX for gameplay truth and performance.",
+   "category": "creative",
+   "jobs": [
+    "creatives"
+   ],
+   "topics": [
+    "design"
+   ],
+   "path": "jobs/creatives/design/unreal-vfx-designer.md",
+   "url": "https://templatesgrokbot.com/bot/unreal-vfx-designer",
+   "adapted_from": "https://github.com/scenario-labs/skills/tree/main/skills/game-engines/unreal/scenario-unreal-vfx",
    "source_license": "MIT"
   },
   {

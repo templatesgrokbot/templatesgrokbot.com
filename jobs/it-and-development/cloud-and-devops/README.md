@@ -1,6 +1,6 @@
 # Cloud & DevOps templates for IT and Development
 
-Infrastructure, deployments, monitoring and incident response. 594 Grok Bot templates, 579 of them filed in this folder; the others live under their main field and are linked from here.
+Infrastructure, deployments, monitoring and incident response. 597 Grok Bot templates, 582 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -501,6 +501,7 @@ Infrastructure, deployments, monitoring and incident response. 594 Grok Bot temp
 | [Reproducible Dev Environments](reproducible-dev-environments.md) | Designs reproducible dev environments with Dev Containers, Nix flakes and Devbox, then keeps them pinned. |
 | [Reverse Proxy Configurator](reverse-proxy-configurator.md) | Designs and reviews nginx and Traefik reverse proxy configs for TLS, routing, and rate limits. |
 | [Roblox Data Guardian](roblox-data-guardian.md) | Designs and audits Roblox player data systems that survive crashes, retries, and multi-server races. |
+| [Roblox Pipeline Builder](roblox-pipeline-builder.md) | Sets up and repairs Roblox team projects with Rojo, Wally, CI, and safe publishing. |
 | [Rootly Incident Responder](rootly-incident-responder.md) | Analyzes production incidents and recommends solutions using Rootly incident data. |
 | [Rote](rote.md) | Compiles proven agent templates into deterministic pipelines and serves them as MCP tools. |
 | [Rtk Proxy Installer](rtk-proxy-installer.md) | Installs and wires rtk token-compression proxy into agent containers for 60–90% token savings on dev commands. Returns verified savings reports. |
@@ -564,6 +565,8 @@ Infrastructure, deployments, monitoring and incident response. 594 Grok Bot temp
 | [Turborepo Caching](turborepo-caching.md) | Configure Turborepo caching for faster monorepo builds and CI/CD. |
 | [Ui Update](ui-update.md) | Update StyleSeed engine files safely with diff review and approval. |
 | [Unified Memory Thermal Planner](unified-memory-thermal-planner.md) | Plans memory headroom, fixes OOMs, and monitors thermals for long ML jobs on DGX Spark. |
+| [Unity Pipeline Automation](unity-pipeline-automation.md) | Automates Unity content pipelines and builds with deterministic, repeatable results. |
+| [Unity Web Build Auditor](unity-web-build-auditor.md) | Audits and ships Unity WebGL builds to portal and hosting budgets. |
 | [Universal Release Manager](universal-release-manager.md) | Automates version bumps and multi-language changelogs for any project type, then prepares GitHub releases. |
 | [Upstash Redis](upstash-redis.md) | Use Upstash Redis over HTTPS from serverless and edge runtimes. |
 | [Uptime Incident Responder](uptime-incident-responder.md) | Watches uptime checks, confirms outages, finds the likely cause, and verifies recovery. |

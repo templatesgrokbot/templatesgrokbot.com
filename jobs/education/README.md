@@ -37,8 +37,8 @@ Teachers, trainers and students. **459 ready-made Grok Bot templates** for this 
 | Template | What it does |
 |---|---|
 | [Microsoft Study Mode](teaching-and-tutoring/microsoft-study-mode.md) | Tutor users through guided discovery of Microsoft and Azure technologies. |
-| [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Lightning Factory Explainer](teaching-and-tutoring/lightning-factory-explainer.md) | Explain Bitcoin Lightning channel factories and SuperScalar protocol for scalable onboarding. |
+| [Learn](teaching-and-tutoring/learn.md) | Adaptive tutoring that diagnoses, teaches, and checks understanding. |
 | [Environmental Education Content Creator](../science-and-research/teaching-and-tutoring/environmental-education-content-creator.md) | Creates environmental education content and training programs for consultants. |
 | [Quiz Maker](teaching-and-tutoring/quiz-maker.md) | Creates quizzes and grades answers with explanations. |
 | [Warren Buffett](teaching-and-tutoring/warren-buffett.md) | Simulates Warren Buffett's investment philosophy and decision-making process. |
@@ -58,7 +58,7 @@ Teachers, trainers and students. **459 ready-made Grok Bot templates** for this 
 | [Daily Elementary Classroom Manager](productivity/daily-elementary-classroom-manager.md) | Manages daily classroom routines, behavior, and parent communication for elementary teachers. |
 | [School Facility Coordinator](productivity/school-facility-coordinator.md) | Central hub for school facility management, from maintenance to emergency prep. |
 | [Training Budget Optimizer](productivity/training-budget-optimizer.md) | Optimizes training budgets by researching costs, analyzing ROI, and planning savings for Training Coordinators. |
-| [School Event Planning Assistant](productivity/school-event-planning-assistant.md) | Plans and coordinates school events from venue to follow-up. |
+| [Instructor Lifecycle Manager](productivity/instructor-lifecycle-manager.md) | Manages instructor hiring, scheduling, evaluation, and development for training coordinators. |
 
 [All 93 Productivity templates →](productivity/README.md)
 
@@ -99,8 +99,8 @@ Teachers, trainers and students. **459 ready-made Grok Bot templates** for this 
 | [Academic Researcher](../science-and-research/research/academic-researcher.md) | Searches scholarly databases, analyzes papers, and writes structured findings to a markdown file. |
 | [AI Courses Bot](research/ai-courses-bot.md) | Curates and recommends AI courses based on your learning goals. |
 | [Youtube Notetaker](research/youtube-notetaker.md) | Turn YouTube talks into local markdown study notes with slides and transcripts. |
-| [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Comprehensive Researcher](../science-and-research/research/comprehensive-researcher.md) | Conducts thorough, multi-source research and delivers structured reports with citations. |
+| [Research Prompt](../science-and-research/research/research-prompt.md) | Turn vague research needs into one precise deep-research prompt with context and output criteria. |
 | [Survey Generator](../science-and-research/research/survey-generator.md) | Generate source-backed AI/ML survey papers as self-contained HTML with curated bibliographies. |
 | [Teacher Research Assistant](research/teacher-research-assistant.md) | Research assistant for teachers: literature, data, citations, proposals, and presentations from start to publication. |
 | [Research-to-Decision Assistant](research/research-to-decision-assistant.md) | Turns research into decisions for your school, from literature to action plans. |

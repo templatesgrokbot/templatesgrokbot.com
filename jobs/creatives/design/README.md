@@ -1,6 +1,6 @@
 # Design templates for Creatives
 
-Interfaces, brands, layouts and visual systems. 234 Grok Bot templates, 180 of them filed in this folder; the others live under their main field and are linked from here.
+Interfaces, brands, layouts and visual systems. 239 Grok Bot templates, 185 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -150,6 +150,7 @@ Interfaces, brands, layouts and visual systems. 234 Grok Bot templates, 180 of t
 | [Material and Process Selection Assistant](../../product-development/design/material-and-process-selection-assistant.md) | Shortlists material and process pairs, checks design rules, and drafts a costed comparison for your decision. |
 | [Material Design](../../it-and-development/design/material-design.md) | Implement Google's Material Design aesthetic for web and app interfaces. |
 | [Material Look Developer](material-look-developer.md) | Builds physically plausible Blender materials and textures from masks, for realistic or stylized looks. |
+| [Material System Architect](material-system-architect.md) | Designs and audits Unreal Engine 5 material systems for cost, quality, and maintainability. |
 | [Maximalism](../../it-and-development/design/maximalism.md) | Implement dense, ornate, grid-based maximalist UI for web and mobile. |
 | [Maya Lookdev Shader Builder](maya-lookdev-shader-builder.md) | Builds physically correct Arnold shaders in Maya from texture sets and references. |
 | [Maya Retopology and UV](maya-retopology-and-uv.md) | Retopologize and UV-unwrap Maya meshes for animation or games, deformation-tested and bake-ready. |
@@ -182,6 +183,7 @@ Interfaces, brands, layouts and visual systems. 234 Grok Bot templates, 180 of t
 | [Retro Futurism](retro-futurism.md) | Generate retro-futurist UI with 1950s space-age aesthetics and atompunk vibes. |
 | [Roblox Asset Pipeline](roblox-asset-pipeline.md) | Prepares 3D assets for Roblox Studio and UGC validation, from Blender to upload-ready. |
 | [Roblox Environment Builder](roblox-environment-builder.md) | Builds and lights Roblox maps from graybox to final mood. |
+| [Roblox VFX Audio Builder](roblox-vfx-audio-builder.md) | Builds and fixes Roblox visual effects and audio, verified and ready for play. |
 | [Room Fit Check Assistant](room-fit-check-assistant.md) | Checks whether chosen furniture clears the delivery route and fits the room, and finds alternatives when it does not. |
 | [Sci Fi Interface](sci-fi-interface.md) | Generate sci-fi HUD interfaces with wireframes, circular radars, and monochrome palettes. |
 | [Screenshot Ui Analyzer](screenshot-ui-analyzer.md) | Extracts all visible UI components, layout, and design patterns from screenshots. |
@@ -215,6 +217,9 @@ Interfaces, brands, layouts and visual systems. 234 Grok Bot templates, 180 of t
 | [Ui Ux Designer](ui-ux-designer.md) | Reviews UI/UX designs with research-backed critiques and accessibility compliance checks. |
 | [Ui Ux Pro Max](../../product-development/design/ui-ux-pro-max.md) | Generates complete UI/UX design systems from product descriptions using a searchable database of styles, palettes, and guidelines. |
 | [Ui Visual Validator](../../it-and-development/design/ui-visual-validator.md) | Rigorous UI visual validation expert for design system and accessibility compliance. |
+| [Unity VFX Artist](unity-vfx-artist.md) | Builds and audits real-time VFX for Unity 6.3, balancing gameplay readability and budget. |
+| [Unreal Lighting Calibrator](unreal-lighting-calibrator.md) | Calibrates and lights Unreal Engine 5.8 scenes with physical values and validates renders. |
+| [Unreal VFX Designer](unreal-vfx-designer.md) | Designs, optimizes, and critiques Unreal Engine 5 Niagara and Chaos VFX for gameplay truth and performance. |
 | [User Experience Reviewer](../../product-development/design/user-experience-reviewer.md) | Reviews product flows, screens and copy so users see outcomes, not internal machinery. |
 | [User Interface Design Basics Assistant](user-interface-design-basics-assistant.md) | Guides graphic designers through UI design foundations, from color and layout to prototyping and testing. |
 | [UV Bake Expert](uv-bake-expert.md) | UV unwrapping and baking expert for Blender, with measurable gates at every stage. |

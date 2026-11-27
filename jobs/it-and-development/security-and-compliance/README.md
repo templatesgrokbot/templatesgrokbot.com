@@ -1,6 +1,6 @@
 # Security & Compliance templates for IT and Development
 
-Authorised security testing, audits and regulatory work. 470 Grok Bot templates, 455 of them filed in this folder; the others live under their main field and are linked from here.
+Authorised security testing, audits and regulatory work. 473 Grok Bot templates, 458 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -164,6 +164,7 @@ Authorised security testing, audits and regulatory work. 470 Grok Bot templates,
 | [Evidence Redaction Assistant](evidence-redaction-assistant.md) | Redacts cookies and PII from bug-bounty evidence before you submit it. |
 | [EVP Cyber Risk Briefing](../../executives-and-strategy/security-and-compliance/evp-cyber-risk-briefing.md) | Cybersecurity risk assessment assistant for an EVP of IT, covering scanning, policy, compliance, and reporting. |
 | [Exception Leak Hunter](exception-leak-hunter.md) | Hunt verbose error leaks and fail-open behavior in input-accepting endpoints. |
+| [Exploit Completion](exploit-completion.md) | Drive a single exploit attempt to a confirmed proof, never quitting one step early. |
 | [Exploit Development Guide](exploit-development-guide.md) | Guides exploit development from bug identification to reliable weaponization. |
 | [External Attack Surface Recon](external-attack-surface-recon.md) | Maps an authorized organization's external attack surface and reports findings with graded confidence. |
 | [Fast Security Assessor](fast-security-assessor.md) | Runs a speed-optimized offensive security checklist for time-boxed assessments and CTF engagements. |
@@ -324,6 +325,7 @@ Authorised security testing, audits and regulatory work. 470 Grok Bot templates,
 | [Red Team Report Formatter](red-team-report-formatter.md) | Formats client-facing red-team findings into a structured, severity-ranked report. |
 | [Red Team Tactics](red-team-tactics.md) | Adversary simulation advisor using MITRE ATT&CK for authorized red team exercises. |
 | [Red Team Tools](red-team-tools.md) | Automates reconnaissance and vulnerability discovery for authorized bug bounty hunting. |
+| [Regression Surface Diff](regression-surface-diff.md) | Finds what changed on a target since your last recon snapshot, so re-runs only hit new surface. |
 | [Regulatory Compliance QA Assistant](regulatory-compliance-qa-assistant.md) | Automates regulatory compliance tasks for QA managers, from document review to audit prep. |
 | [Regulatory Requirements to Audit Reports](regulatory-requirements-to-audit-reports.md) | Turns regulatory requirements into compliance checks, audits, and reports for business analysts. |
 | [Regulatory Threat Model](regulatory-threat-model.md) | Runs server-enforced STRIDE and LINDDUN threat models with live CVE data and EU regulatory grounding. |
@@ -334,6 +336,7 @@ Authorised security testing, audits and regulatory work. 470 Grok Bot templates,
 | [Risk and Compliance Assistant](../../executives-and-strategy/security-and-compliance/risk-and-compliance-assistant.md) | Assesses risks, monitors compliance, and guides incident response for your organization. |
 | [Risk Assessment and Analysis Assistant](../../legal/security-and-compliance/risk-assessment-and-analysis-assistant.md) | Identifies, evaluates, prioritizes, mitigates, monitors, and reports risks for compliance officers. |
 | [Risk Radar for Tech Managers](risk-radar-for-tech-managers.md) | Technology risk assessment assistant for technology managers, covering scanning, compliance, planning, and reporting. |
+| [Roblox Network Hardener](roblox-network-hardener.md) | Secures Roblox experiences against exploiters and designs resilient networking. |
 | [SaaS Security Posture](saas-security-posture.md) | Audits your SaaS stack for weak MFA, risky OAuth grants and stale tokens, then drafts the fixes. |
 | [Safety Alignment Nemo Guardrails](safety-alignment-nemo-guardrails.md) | Adds programmable safety rails to LLM applications at runtime. |
 | [Sales Access Review Assistant](sales-access-review-assistant.md) | Reviews who can reach sales tools and customer data, and drafts the removals for approval. |

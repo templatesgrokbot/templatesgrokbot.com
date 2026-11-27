@@ -1,6 +1,6 @@
 # Generative AI and LLM templates for IT and Development
 
-Work with language models, agents and their plumbing. 277 Grok Bot templates, 257 of them filed in this folder; the others live under their main field and are linked from here.
+Work with language models, agents and their plumbing. 279 Grok Bot templates, 259 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -16,6 +16,7 @@ Work with language models, agents and their plumbing. 277 Grok Bot templates, 25
 | [Agent Orchestrator](agent-orchestrator.md) | Automatically orchestrates ecosystem capabilities via scan, match, and multi-capability workflow. |
 | [Agent Permission Gate](agent-permission-gate.md) | Gates every unattended coding-agent tool call through layered policy checks and single-use approvals. |
 | [Agent Result Ranker](agent-result-ranker.md) | Ranks completed agent results for a session and names a winner. |
+| [Agent Server Stack Runner](agent-server-stack-runner.md) | Run and debug a local agent server with a proxy inference backend. |
 | [Agent Tool Builder](agent-tool-builder.md) | Designs tool schemas and descriptions that make LLM agents reliable instead of hallucinating. No code, just the interface. Interview once for your too |
 | [Agent Tool Design Review](agent-tool-design-review.md) | Designs and audits agent tool sets so agents pick the right tool and recover from failures. |
 | [Agent Tool Schema Builder](agent-tool-builder-2.md) | Design and build tools for AI agents with clear schemas and descriptions. |
@@ -23,6 +24,7 @@ Work with language models, agents and their plumbing. 277 Grok Bot templates, 25
 | [AgentHub Session Starter](agenthub-session-starter.md) | Starts an AgentHub competition session for your coding task with agents and evaluation. |
 | [AgentHub Status Reporter](agenthub-status-reporter.md) | Shows live status of AgentHub sessions: agents, branches, commits, and board updates. |
 | [Agentica Agent Builder](agentica-agent-builder.md) | Designs and builds Python agents with the Agentica SDK. |
+| [Agentica Infrastructure Reference](agentica-infrastructure-reference.md) | Reference guide for Agentica multi-agent infrastructure APIs and patterns. |
 | [Agents Autogpt](agents-autogpt.md) | Build and deploy continuous autonomous agents using a visual workflow builder. |
 | [Agents Crewai](agents-crewai.md) | Orchestrates teams of specialized AI agents to collaborate on complex tasks. |
 | [Agents Langchain](agents-langchain.md) | Build LLM applications with agents, chains, and RAG pipelines. No prototyping boilerplate. No provider lock-in. No manual memory management. Just work |

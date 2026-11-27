@@ -1,6 +1,6 @@
 # Credits: github.com/elementalsouls/Claude-BugHunter
 
-65 TemplatesGrokBot templates are adapted from work published at [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
+67 TemplatesGrokBot templates are adapted from work published at [github.com/elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter). Each one was rewritten and restructured for Grok Bot by the TemplatesGrokBot team; the credit for the original work stays with its author, and the original license still applies to it.
 
 | Template | Original | License |
 |---|---|---|
@@ -23,6 +23,7 @@
 | [Deserialization Vulnerability Hunter](../jobs/it-and-development/security-and-compliance/deserialization-vulnerability-hunter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-deserialization) | [MIT](../LICENSES/MIT.md) |
 | [DOM Vulnerability Hunter](../jobs/it-and-development/security-and-compliance/dom-vulnerability-hunter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-dom) | [MIT](../LICENSES/MIT.md) |
 | [Exception Leak Hunter](../jobs/it-and-development/security-and-compliance/exception-leak-hunter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-exceptional-conditions) | [MIT](../LICENSES/MIT.md) |
+| [Exploit Completion](../jobs/it-and-development/security-and-compliance/exploit-completion.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/exploit-completion) | [MIT](../LICENSES/MIT.md) |
 | [Fintech GraphQL Auditor](../jobs/it-and-development/security-and-compliance/fintech-graphql-auditor.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-fintech-graphql) | [MIT](../LICENSES/MIT.md) |
 | [gRPC Security Auditor](../jobs/it-and-development/security-and-compliance/grpc-security-auditor.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-grpc) | [MIT](../LICENSES/MIT.md) |
 | [Host Header Injection Hunter](../jobs/it-and-development/security-and-compliance/host-header-injection-hunter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-host-header) | [MIT](../LICENSES/MIT.md) |
@@ -51,6 +52,7 @@
 | [Recon Scope Triage](../jobs/it-and-development/security-and-compliance/recon-scope-triage.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/recon-scope-triage) | [MIT](../LICENSES/MIT.md) |
 | [Red Team Operator Discipline](../jobs/it-and-development/security-and-compliance/red-team-operator-discipline.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/redteam-mindset) | [MIT](../LICENSES/MIT.md) |
 | [Red Team Report Formatter](../jobs/it-and-development/security-and-compliance/red-team-report-formatter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/redteam-report-template) | [MIT](../LICENSES/MIT.md) |
+| [Regression Surface Diff](../jobs/it-and-development/security-and-compliance/regression-surface-diff.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/regression-hunting) | [MIT](../LICENSES/MIT.md) |
 | [Security Payload Arsenal](../jobs/it-and-development/security-and-compliance/security-payload-arsenal.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/security-arsenal) | [MIT](../LICENSES/MIT.md) |
 | [Session Security Auditor](../jobs/it-and-development/security-and-compliance/session-security-auditor.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-session) | [MIT](../LICENSES/MIT.md) |
 | [SharePoint Security Hunter](../jobs/it-and-development/security-and-compliance/sharepoint-security-hunter.md) | [original](https://github.com/elementalsouls/Claude-BugHunter/tree/main/skills/hunt-sharepoint) | [MIT](../LICENSES/MIT.md) |

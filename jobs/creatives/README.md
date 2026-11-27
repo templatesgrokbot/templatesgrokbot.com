@@ -1,6 +1,6 @@
 # Grok Bot templates for Creatives
 
-Designers, artists and content creators. **801 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
+Designers, artists and content creators. **808 ready-made Grok Bot templates** for this field, grouped by the kind of work they do.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -11,17 +11,17 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 
 | Kind of work | Templates |
 |---|---:|
-| [Design](design/README.md) | 234 |
+| [Design](design/README.md) | 239 |
 | [Writing & Content](writing-and-content/README.md) | 76 |
 | [Productivity](productivity/README.md) | 68 |
 | [Generative Art](generative-art/README.md) | 60 |
 | [Generative Code](generative-code/README.md) | 47 |
-| [Coding](coding/README.md) | 45 |
+| [Coding](coding/README.md) | 46 |
 | [Video Editing](video-editing/README.md) | 41 |
 | [Marketing & Growth](marketing-and-growth/README.md) | 29 |
 | [Research](research/README.md) | 28 |
 | [Social Media](social-media/README.md) | 26 |
-| [Generative Video](generative-video/README.md) | 24 |
+| [Generative Video](generative-video/README.md) | 25 |
 | [Office Tools](office-tools/README.md) | 22 |
 | [Data Analysis](data-analysis/README.md) | 20 |
 | [Teaching & Tutoring](teaching-and-tutoring/README.md) | 18 |
@@ -51,7 +51,7 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 | [Hig Technologies](design/hig-technologies.md) | Check Apple HIG technology guidelines before designing features. |
 | [Ux Audit](design/ux-audit.md) | Audit mobile screens against Nielsen's heuristics and modern UX best practices. |
 
-[All 234 Design templates →](design/README.md)
+[All 239 Design templates →](design/README.md)
 
 ## Writing & Content
 
@@ -62,8 +62,8 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 | [Brand Guard](../marketing/writing-and-content/brand-guard.md) | Checks any draft against your style guide and rewrites the lines that drift. |
 | [Devrel Content](../marketing/writing-and-content/devrel-content.md) | Create developer content that runs: tutorials, docs, and posts with verified code. |
 | [Wordpress Centric High Seo Optimized Blogwriting](../marketing/writing-and-content/wordpress-centric-high-seo-optimized-blogwriting-skill.md) | Publish ready-to-post, SEO-optimized WordPress blog articles with Yoast metadata and schema markup. |
-| [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Markdown Syntax Formatter](../writers/writing-and-content/markdown-syntax-formatter.md) | Converts plain text and visual formatting into clean, consistent markdown. |
+| [Seo Aeo Landing Page Writer](../marketing/writing-and-content/seo-aeo-landing-page-writer.md) | Writes structured landing pages optimized for SEO ranking, AEO citation, and conversion. |
 | [Video Script writer](writing-and-content/video-script-writer.md) | Writes hooks and full spoken scripts for short-form and long-form video. |
 
 [All 76 Writing & Content templates →](writing-and-content/README.md)
@@ -88,8 +88,8 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 | Template | What it does |
 |---|---|
 | [Scientific Schematics](../science-and-research/generative-art/scientific-schematics.md) | Generate publication-quality scientific diagrams from natural language descriptions. |
-| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Slack Gif Creator](generative-art/slack-gif-creator.md) | Creates optimized animated GIFs for Slack from descriptions or uploaded images. |
+| [Comfyui Gateway](../it-and-development/generative-art/comfyui-gateway.md) | REST API gateway for ComfyUI with workflow management, job queuing, webhooks, caching, auth, and rate limiting. |
 | [Daily Gift](generative-art/daily-gift.md) | Decides if a gift is needed today, then creates a personalized H5, image, or video artifact. No guessing, no filler. |
 | [Fal Generate](generative-art/fal-generate.md) | Generate images and videos via fal.ai AI models on demand, with approval before any generation. |
 | [Audio Mixer](generative-art/audio-mixer.md) | Mixes and masters multi-track audio for professional production. |
@@ -126,7 +126,7 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 | [Swiftui Liquid Glass](../it-and-development/coding/swiftui-liquid-glass.md) | Implement or review SwiftUI Liquid Glass with correct APIs, fallbacks, and modifier order. |
 | [Layered Design](../it-and-development/coding/layered-design.md) | Build interfaces with overlapping, depth-layered content using CSS, SwiftUI, Flutter, or React Native. |
 
-[All 45 Coding templates →](coding/README.md)
+[All 46 Coding templates →](coding/README.md)
 
 ## Video Editing
 
@@ -134,8 +134,8 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 |---|---|
 | [Video Downloader](video-editing/video-downloader.md) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. |
 | [Videodb](video-editing/videodb.md) | Ingest, index, search, and edit video and audio with timestamps and alerts. |
-| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
 | [Royalty-Free Resource Finder](video-editing/royalty-free-resource-finder.md) | Finds and organizes royalty-free images, music, footage, fonts, graphics, and more for video projects. |
+| [Timestamp Precision Specialist](video-editing/timestamp-precision-specialist.md) | Extracts frame-accurate timestamps for clean podcast cuts using waveform and silence analysis. |
 | [VideoDB Essentials](../it-and-development/video-editing/videodb-skills.md) | Upload, search, edit, transcribe, and stream video using the VideoDB SDK. No AI generation or real-time capture without explicit user request. |
 | [Video Router](video-editing/video-router.md) | Route video briefs to generate, compose, edit, or AUTO before production starts. |
 | [Podcast Clipper](video-editing/podcast-clipper.md) | Finds the clippable moments in a long recording and writes the captions for each. |
@@ -192,8 +192,8 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 
 | Template | What it does |
 |---|---|
-| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
 | [Gemini Omni Flash Api](generative-video/gemini-omni-flash-api.md) | Generate and edit videos using Gemini Omni Flash with text, images, or existing clips. |
+| [Heygen Best Practices](../it-and-development/generative-video/heygen-best-practices.md) | Provides HeyGen API best practices for creating AI avatar videos. |
 | [Remotion](generative-video/remotion.md) | Generate walkthrough videos from Stitch screens using Remotion with transitions and text overlays. |
 | [Generate Animated Videos Remotion](generative-video/generate-animated-videos-remotion.md) | Makes 9:16 motion-graphics shorts in Remotion from a scene catalog. |
 | [Explainer Video Builder](../marketing/generative-video/explainer-video-builder.md) | Turn any source material into a tight 60-90 second explainer video for your product. |
@@ -201,7 +201,7 @@ Designers, artists and content creators. **801 ready-made Grok Bot templates** f
 | [Beatra Video Studio](generative-video/beatra-video-studio.md) | Produces short AI video clips on Beatra with a cost card and your approval before every paid call. |
 | [Remotion Video Renderer](generative-video/remotion-video-renderer.md) | Renders Remotion compositions to video or still files with the right codec and pixel format. |
 
-[All 24 Generative Video templates →](generative-video/README.md)
+[All 25 Generative Video templates →](generative-video/README.md)
 
 ## Office Tools
 

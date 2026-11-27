@@ -1,6 +1,6 @@
 # Generative Video templates for Creatives
 
-Produce video and animation from prompts and assets. 24 Grok Bot templates, 19 of them filed in this folder; the others live under their main field and are linked from here.
+Produce video and animation from prompts and assets. 25 Grok Bot templates, 20 of them filed in this folder; the others live under their main field and are linked from here.
 
 **[Get every template for your job →](https://templatesgrokbot.com/for-my-job)** · [Connect Grok Bot via MCP](https://templatesgrokbot.com/mcp) · [Search the full catalog](https://templatesgrokbot.com/browse)
 
@@ -29,6 +29,7 @@ Produce video and animation from prompts and assets. 24 Grok Bot templates, 19 o
 | [Sora](sora.md) | Generates and manages Sora video clips via OpenAI's API using a bundled CLI. |
 | [Template Video Producer](template-video-producer.md) | Turns editable Motion templates into videos, preserving structure and motion. |
 | [Testimonial Video Builder](../../marketing/generative-video/testimonial-video-builder.md) | Turn real customer reviews into polished social-proof videos with HyperFrames. |
+| [Unreal Cinematic Sequencer](unreal-cinematic-sequencer.md) | Plans, builds, and renders Unreal Engine 5.8 cinematics with Sequencer and Movie Render Graph. |
 | [Video Animatic Builder](video-animatic-builder.md) | Builds frame-exact MP4 animatics from a JSON scene description, with linting and keyframe export. |
 
 [← All Creatives templates](../README.md) · [Browse on the website](https://templatesgrokbot.com/jobs/creatives)
